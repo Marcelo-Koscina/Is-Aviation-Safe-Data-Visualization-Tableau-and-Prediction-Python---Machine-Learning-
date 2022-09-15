@@ -7,13 +7,11 @@
 https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx
 
 
-<<<<<<< HEAD
-* the link for the ready concatenated dataset is available at Kaggle website, through the link below:
-=======
-The single concatenated dataset is available at Kaggle website, through the link below:
->>>>>>> c8f6dfd0e175f23f71ccd1d0bc898728883ad263
+
+* The single concatenated dataset is available at Kaggle website, through the link below:
 
 https://www.kaggle.com/datasets/marcelotanis/air-accidents-from-jan2008-to-may2022-icao
+
 
 
 
