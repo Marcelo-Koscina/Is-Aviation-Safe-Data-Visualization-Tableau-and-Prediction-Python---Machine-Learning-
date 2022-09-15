@@ -1,0 +1,339 @@
+"Date","StateOfOccurrence","Location","Model","Registration","Operator","StateOfOperator","StateOfRegistry","FlightPhase","Class","Fatalities","Over2250","Over5700","ScheduledCommercial","InjuryLevel","TypeDesignator","Helicopter","Airplane","Engines","EngineType","Official","OccCats","Risk","Year"
+"""2017-01-02T00:00:00.000Z""","TZA"," Sasakwa Airstrip","Reims Cessna F406 Caravan II","5H-WOW","Air Excel","","TZA","Unknown","Accident",0,true,false,false,"","F406",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-01-02T00:00:00.000Z""","COD","Banana field, Shabunda Airport","LET L410 UVP","9Q-CBL","Congo, The Democratic Republic Of Doren Aircargo","","COD","Landing","Accident",0,true,false,false,"None","L410",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-01-02T00:00:00.000Z""","THA","Khon Kaen","Airbus A320-200","HS-ABB","Thai AirAsia","THA","THA","","Accident","",true,true,true,"","A320",,true,2,"Jet",true,"[""ARC""]","RS",2017
+"""2017-01-02T00:00:00.000Z""","COD"," Shabunda Airport","Let L-410UVP","9Q-CZR","Doren Air Congo","","COD","Landing","Accident",0,true,true,false,"","L200",false,true,2,"Piston","","[]","RS",2017
+"""2017-01-02T00:00:00.000Z""","","Charlotte and Orlando","A332","N280AY","American",,"USA","","Accident","",true,true,"","","A332",false,true,2,"Jet","","[]","",2017
+"""2017-01-02T00:00:00.000Z""","USA"," Scottsdale Airport, AZ (SCF)","Hawker 800XP","N910JD","Pinnacle Air Charter","","USA","Landing","Accident",0,true,true,false,"","SHAW",false,true,1,"Jet","","[]","RS",2017
+"""2017-01-03T00:00:00.000Z""","CAN","","Boeing 777-200","AP-BGY","PAKISTAN INTERNATIONAL AIRLINES","PAK","PAK","","Accident",0,true,true,true,"","B37M",false,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-01-03T00:00:00.000Z""","","Kaliningrad","A321","VP-BES","Aeroflot",,"BMU","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-01-07T00:00:00.000Z""","","Brussels","A319","D-AIBF","Lufthansa",,"DEU","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-01-07T00:00:00.000Z""","","Arabian Sea","A388","A6-EUL","Emirates",,"ARE","","Accident","",true,true,"","","A388",false,true,4,"Jet","","[]","",2017
+"""2017-01-07T00:00:00.000Z""","","SSE off Muscat, Oman","Canadair CL-600-2B16 Challenger 604","D-AMSC","MHS Aviation","","DEU","En route","Accident",0,true,true,false,"","CL60",false,true,2,"Jet","","[]","SCF",2017
+"""2017-01-09T00:00:00.000Z""","","Beijing","B773","C-FRAM","Canada",,"CAN","","Accident","",true,true,"","","B773",false,true,2,"Jet","","[]","",2017
+"""2017-01-09T00:00:00.000Z""","GBR","Newcastle Airport","DE HAVILLAND DHC8 400","G-ECOJ"," ",,"GBR","","Accident","",true,true,"","None","VNOM",false,true,1,"Jet","","[""ARC""]","RS",2017
+"""2017-01-11T00:00:00.000Z""","NOR","south of Oslo-Gardermoen Airport (OSL)","Cessna 560 Citation Encore","LN-IDB","Hesnes Air","","NOR","Initial Climb","Accident",0,true,true,false,"","C560",false,true,2,"Jet","","[]","UNK",2017
+"""2017-01-12T00:00:00.000Z""","","Amsterdam and Stuttgart","A320","D-AIQH","Germanwings",,"DEU","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-01-13T00:00:00.000Z""","USA"," Five Point-Agro-West Airport, CA","Beechcraft B200 Super King Air","N795DE","Optimal Aviation Services","","USA","Take-off","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-01-15T00:00:00.000Z""","CHL","Región del Maule","AGUSTA A119","CC-ABY","Chile Faasa Chile Servicio Aéreos Ltda","","CHL","Post-impact","Accident",0,true,false,"","Minor","A119",true,false,1,"Turboprop","","[]","",2017
+"""2017-01-16T00:00:00.000Z""","KGZ","1 km W of Bishkek-Manas International Airport (FRU)","Boeing 747-400F","TC-MCL","Turkish Airlines","TUR","TUR","Approach","Accident",39,true,true,true,"Fatal","B37M",,true,2,"Jet",true,"[""CFIT""]","CFIT",2017
+"""2017-01-16T00:00:00.000Z""","USA"," Howell-Livingston County Spencer J. Hardy Airport, MI","Cessna 525C Citation CJ4","N525PZ","Zeliff Aviation","","USA","Landing","Accident",0,true,false,false,"","C25C",false,true,2,"Jet","","[]","RS",2017
+"""2017-01-19T00:00:00.000Z""","USA"," Billings-Logan International Airport, MT (BIL)","Beechcraft 99A Airliner","N326CA","Alpine Aviation","","USA","Landing","Accident",0,true,false,false,"","BE99",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-01-20T00:00:00.000Z""","","Portland","A320","N715JB","Jetblue",,"USA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-01-23T00:00:00.000Z""","USA"," Tucson International Airport, AZ (TUS)","Beechcraft 300 Super King Air","N385KA","KAAZ","","USA","Take-off","Accident",2,true,true,false,"Fatal","B350",false,true,2,"Turboprop","","[]","LOC-I",2017
+"""2017-01-23T00:00:00.000Z""","USA"," Durango-La Plata Airport, CO (DRO)","Beechcraft C99 Commuter","N216CS","Alpine Aviation","","USA","Take-off","Accident",0,true,false,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-01-24T00:00:00.000Z""",,"Central Africa Park","BELL 407","ZS-RPC","Central African Republic Other",,"ZAF","Approach","Accident",3,true,false,false,"Fatal","B407",true,false,1,"Turboprop","","[""GCOL"",""LOC-I""]","LOC-I",2017
+"""2017-01-24T00:00:00.000Z""","","Naples and Munich","A319","D-AILY","Lufthansa",,"DEU","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-01-24T00:00:00.000Z""","ITA","Campo Felice (AQ)","AGUSTA","EC-KJT","Italy ","","ESP","En route","Accident",6,true,true,"","Fatal","A109",true,false,2,"Turboprop","","[""CFIT""]","CFIT",2017
+"""2017-01-26T00:00:00.000Z""","AUS"," Swan River, Perth, WA","Grumman G-73 Mallard","VH-CQA","private","","AUS","Manoeuvring","Accident",2,true,true,false,"Fatal","G73",false,true,2,"Piston","","[]","F-NI",2017
+"""2017-01-27T00:00:00.000Z""","USA"," West Palm Beach International Airport, FL (PBI)","Beechcraft 200T Super King Air","N60RA","Eastern Air Express","","USA","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-01-28T00:00:00.000Z""","","Calgary","DH8D","C-FENO","Westjet Encore",,"CAN","","Accident","",true,true,"","","DH8D",false,true,2,"Turboprop","","[]","",2017
+"""2017-01-28T00:00:00.000Z""","COL"," Leticia-Alfredo V�squez Cobo Airport (LET)","Boeing 737-400","HK-5197","Aer Caribe","COL","COL","Landing","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""RE""]","RS",2017
+"""2017-01-29T00:00:00.000Z""","","Hamburg","A319","D-AGWY","Germanwings",,"DEU","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-01-29T00:00:00.000Z""","ZAF","Wonderboom Aerodrome","Not mapped","ZU-SWL"," ","","ZAF","Take-off","Accident",0,true,false,false,"None","B74D",false,true,4,"Jet","","[""SCF-PP""]","SCF",2017
+"""2017-01-30T00:00:00.000Z""","","Mexico City","B748","D-ABYT","Lufthansa",,"DEU","","Accident","",true,true,"","","B748",false,true,4,"Jet","","[]","",2017
+"""2017-02-07T00:00:00.000Z""","BHS"," Freeport-Grand Bahama International Airport (FPO)","Saab 340","C6-HBW","Western Air","BHS","BHS","Landing","Accident","",true,true,true,"","SF34",,true,2,"Turboprop",true,"[""RE""]","RS",2017
+"""2017-02-09T00:00:00.000Z""","BRA"," S�o Paulo-Guarulhos International Airport, SP (GRU)","British Aerospace BAe-125-800B","PT-OTC","L�der T�xi A�reo","","BRA","Landing","Accident",0,true,true,false,"","B462",false,true,4,"Jet","","[]","RS",2017
+"""2017-02-09T00:00:00.000Z""","DEU"," Illertissen Airport","Cessna 208B Supervan 900","D-FSRT","Paranodon Fallschirmsport Illertissen","","DEU","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-02-09T00:00:00.000Z""","CAN"," Tulita Airport, NT (ZFN)","Beech 1900D","C-FNWH","North-Wright Airways","CAN","CAN","Taxi","Accident",0,true,true,true,"","B190",,true,2,"Turboprop",true,"[""GCOL""]","RS",2017
+"""2017-02-11T00:00:00.000Z""","USA","","Boeing 737-700","N7822A","Southwest Airlines","USA","USA","","Accident",0,true,true,true,"","B37M",false,true,2,"Jet",true,"[""RAMP""]","MED",2017
+"""2017-02-13T00:00:00.000Z""","","Bariloche","B738","LV-FUA","Aerolineas",,"ARG","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-02-13T00:00:00.000Z""","USA","","De Havilland Dash 8","N838CA","Commutair","USA","USA","","Accident",0,true,true,true,"","MOSQ",false,true,2,"Piston",true,"[""TURB""]","MED",2017
+"""2017-02-14T00:00:00.000Z""","USA"," Unalaska Airport, AK (DUT)","Beechcraft B200 Super King Air","N313HS","Grant Aviation","","USA","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-02-15T00:00:00.000Z""","USA"," Charlotte-Douglas International Airport, NC (CLT)","Canadair CL-600-2C10 Regional Jet CRJ-701ER","N709PS","American Eagle, opf. PSA Airlines","USA","USA","Take-off","Accident","",true,true,true,"","CRJ1",false,true,2,"Jet","","[]","RS",2017
+"""2017-02-17T00:00:00.000Z""","","Munich","A320","D-AIUT","Lufthansa",,"DEU","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-02-18T00:00:00.000Z""","MDV","Kooddoo Island","De Havilland Dash 8-300","8Q-IAR","Maldivian","MDV","MDV","","Accident","",true,true,true,"","DOVE",,true,2,"Piston",true,"[""ARC""]","RS",2017
+"""2017-02-21T00:00:00.000Z""","AUS","0,3 km SE of Melbourne-Essendon Airport, VIC (MEB)","Beechcraft B200 King Air","VH-ZCR","Corporate and Leisure Charters","","AUS","Initial Climb","Accident",5,true,true,false,"Fatal","BE20",false,true,2,"Turboprop","","[]","UNK",2017
+"""2017-02-23T00:00:00.000Z""","NLD"," Amsterdam-Schiphol International Airport (AMS)","de Havilland Dash 8-400","G-JECP","Flybe","GBR","GBR","Landing","Accident","",true,true,true,"","DH85",,true,1,"Piston",true,"[""ARC""]","RS",2017
+"""2017-02-28T00:00:00.000Z""","","Karachi","A320","A6-ANT","Arabia",,"ARE","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-02-28T00:00:00.000Z""","JOR"," Azraq-Muwaffaq Salti Air Base","Boeing 767-33AER","N351AX","Omni Air International",,"USA","Landing","Accident","",true,true,"","","C17",false,true,4,"Jet","","[]","RS",2017
+"""2017-02-28T00:00:00.000Z""","VEN"," Caracas/La Carlota-Gen. Francisco de Miranda Air Base","Beechcraft B200 Super King Air","YVO173","SATA","","VEN","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-03-03T00:00:00.000Z""","GBR"," Manchester Airport (MAN)","Airbus A320-214","G-EZTV","easyJet","GBR","GBR","","Accident",0,true,true,true,"","A320",false,true,2,"Jet","","[]","",2017
+"""2017-03-03T00:00:00.000Z""","","Siem Reap","A321","B-HTJ","Cathay Dragon",,"HKG","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-03-03T00:00:00.000Z""","CAN","","Beech 1900C","C-GSKM","Skylink Express","CAN","CAN","","Accident",0,true,true,true,"","B190",false,true,2,"Turboprop",true,"[""GCOL""]","RS",2017
+"""2017-03-04T00:00:00.000Z""","","enroute","B738","A4O-BAA","Oman",,"OMN","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-03-06T00:00:00.000Z""","","Munich","A319","D-AILY","Lufthansa",,"DEU","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-03-06T00:00:00.000Z""","USA","","Airbus A319-100","N369NB","Delta Air Lines","USA","USA","","Accident",0,true,true,true,"","A319",false,true,2,"Jet",true,"[""CABIN""]","MED",2017
+"""2017-03-08T00:00:00.000Z""","USA"," Detroit-Willow Run Airport, MI (YIP)","MD-83","N786TW","Ameristar Jet Charter",,"USA","Take-off","Accident","",true,true,"","","C17",false,true,4,"Jet","","[]","RS",2017
+"""2017-03-08T00:00:00.000Z""","CAN"," Hamilton Airport, ON (YHM)","Bombardier BD-700-1A10 Global Express","C-FLGZ","Jetport","","CAN","Landing","Accident",0,true,true,false,"","GLEX",false,true,2,"Jet","","[]","RS",2017
+"""2017-03-08T00:00:00.000Z""","","enroute","CRJ7","N516AE","Envoy",,"USA","","Accident","",true,true,"","","CRJ7",false,true,2,"Jet","","[]","",2017
+"""2017-03-09T00:00:00.000Z""","USA","","Boeing MD-83","N9615W","Americal Airlines","USA","USA","","Accident",0,true,true,true,"","B38M",false,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-03-10T00:00:00.000Z""","CAN"," Yalowega Lake, SK","DHC-6 Twin Otter 200","C-GQOQ","Osprey Wings","","CAN","Landing","Accident",0,true,false,false,"","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-03-11T00:00:00.000Z""","","Fort Lauderdale","A320","N658JB","Jetblue",,"USA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-03-11T00:00:00.000Z""","USA"," Kalaupapa Airport, HI (LUP)","Cessna 208B Grand Caravan","N865MA","Makani Kai Air","","USA","Landing","Accident",0,true,false,true,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-03-13T00:00:00.000Z""","AUS","Canberra","Boeing 737-800","VH-VZZ","Qantas","AUS","AUS","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-03-17T00:00:00.000Z""","CAN","1,3 km from Pickle Lake Airport, ON (YPL)","Douglas DC-3C","C-FKGL","Cargo North","CAN","CAN","Initial Climb","Accident","",true,true,true,"","DC92",,true,2,"Jet",true,"[""LOC-I""]","LOC-I",2017
+"""2017-03-19T00:00:00.000Z""","","Jakarta","AT72","PK-PAV","Pelita",,"IDN","","Accident","",true,true,"","","AT72",false,true,2,"Turboprop","","[]","",2017
+"""2017-03-19T00:00:00.000Z""","","Fuerteventura","B738","OK-TSH","Travel Service",,"CZE","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-03-20T00:00:00.000Z""","","Wau","AN26","C5-SSA,","South Supreme","","GMB","","Accident","",true,true,"","","AN26",false,true,2,"Turboprop","","[]","",2017
+"""2017-03-20T00:00:00.000Z""","USA"," Boise Air Terminal, ID (BOI)","Swearingen SA226-TC Metro II","N158WA","Western Air Express","","USA","Take-off","Accident",0,true,true,false,"","SW4",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-03-20T00:00:00.000Z""","SSD"," Wau Airport (WUU)","Antonov An-26B","S9-TLZ","South Supreme Airlines","ZAF","STP","Landing","Accident","",true,true,true,"","AN32",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-03-20T00:00:00.000Z""","BRA","Coari","ATR 42-500","PR-TTH","Total Linhas Aereas","BRA","BRA","","Accident","",true,true,true,"","AC50",,true,2,"Piston",true,"[""RE""]","RS",2017
+"""2017-03-23T00:00:00.000Z""","","Denver","B752","N683DA","Delta",,"USA","","Accident","",true,true,"","","B752",false,true,2,"Jet","","[]","",2017
+"""2017-03-24T00:00:00.000Z""","USA","near Salt Lake City International Airport, UT (SLC)","Cessna 550 Citation II","N551BC","Boulder Capital","","USA","Approach","Accident",0,true,true,false,"","C550",false,true,2,"Jet","","[]","RS",2017
+"""2017-03-24T00:00:00.000Z""","USA"," Marietta, GA","Cessna 500 Citation I Sierra Eagle","N8DX","Shelter Charter Services","","USA","Approach","Accident",1,true,false,false,"Fatal","C500",false,true,2,"Jet","","[]","CFIT",2017
+"""2017-03-26T00:00:00.000Z""","","Montreal","B738","F-GZHF","Transat",,"FRA","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-03-27T00:00:00.000Z""","ZWE","ca 23 km SE of Mutare Airport (UTA)","IRMA/BN-2A-3 Islander","C9-AOV","ETA Air Charter","","MOZ","Approach","Accident",6,true,false,false,"Fatal","BN2P",false,true,2,"Piston","","[]","CFIT",2017
+"""2017-03-27T00:00:00.000Z""","IRN"," Ardabil Airport (ADU)","Boeing 737-NG","EP-TBJ","Taban Airlines","IRN","IRN","Landing","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""SCF-NP""]","OD",2017
+"""2017-03-28T00:00:00.000Z""","PER"," Jauja-Francisco Carl� Airport (JAU)","Boeing 737-300","OB-2036-P","Peruvian Air Line","PER","PER","Landing","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""F-POST""]","OTH",2017
+"""2017-03-28T00:00:00.000Z""","","Budapest","A320","F-GKXT","France",,"FRA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-03-30T00:00:00.000Z""","","enroute","B748","LX-VCF","Cargolux",,"LUX","","Accident","",true,true,"","","B748",false,true,4,"Jet","","[]","",2017
+"""2017-03-30T00:00:00.000Z""","VEN"," La Paragua","Antonov An-2T","YV1638","Transmandu","","VEN","Unknown","Accident",0,true,false,false,"","A225",false,true,6,"Jet","","[]","RS",2017
+"""2017-04-01T00:00:00.000Z""","NGA"," Yei Airport","Let L-410","5X-EIV","Eagle Air","NGA","UGA","Take-off","Accident","",true,true,true,"","L200",,true,2,"Piston",true,"[""RE""]","RS",2017
+"""2017-04-01T00:00:00.000Z""","AUS","TEST TEST TEST","","VH-TEST"," ","","AUS","","Accident",0,true,false,true,"Fatal","C172",false,true,1,"Piston","","[""LOC-I""]","LOC-I",2017
+"""2017-04-02T00:00:00.000Z""","USA"," Tampa International Airport, FL (TPA)","Airbus A319-114","C-GBHN","Air Canada Jetz","","CAN","Standing","Accident",0,true,true,false,"","A319",false,true,2,"Jet","","[]","RS",2017
+"""2017-04-05T00:00:00.000Z""","","Honolulu","B738","N519AS","Alaska",,"USA","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-04-07T00:00:00.000Z""","","Hong Kong","B744","VH-OJU","Qantas",,"AUS","","Accident","",true,true,"","","B744",false,true,4,"Jet","","[]","",2017
+"""2017-04-08T00:00:00.000Z""","MYS"," Sibu Airport (SBW)","Boeing 737-800","9M-MXX","Malaysia Airlines","MYS","MYS","Landing","Accident","",true,true,true,"","B38M",,true,2,"Jet",true,"[""RE""]","RS",2017
+"""2017-04-09T00:00:00.000Z""","ZAF","Cape Town","Boeing 737-800","ZS-SJD","Mango","ZAF","ZAF","","Accident","",true,true,true,"","B38M",,true,2,"Jet",true,"[""BIRD""]","unk",2017
+"""2017-04-10T00:00:00.000Z""","BRA","1,8 km N of Po�os de Caldas Airport, MG (POO)","Cessna 208B Grand Caravan","PT-MEA","Two T�xi A�reo","","BRA","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-04-10T00:00:00.000Z""","ESP"," Alicante Airport (ALC)","Boeing 757-200","G-LSAI","Jet2","GBR","GBR","Landing","Accident","",true,true,true,"","ST75",,true,1,"Piston",true,"[""ARC""]","RS",2017
+"""2017-04-11T00:00:00.000Z""","AUT"," Salzburg-W. A. Mozart Airport (SZG)","Gulfstream G450","N667HS","H&amp;S Air","","USA","Landing","Accident",0,true,true,false,"","GLF4",false,true,2,"Jet","","[]","RS",2017
+"""2017-04-12T00:00:00.000Z""","IDN","13 km N of Oksibil Airport (OKL)","Cessna 208 Caravan I","PK-FSO","Spirit Avia Sentosa","","IDN","En route","Accident",1,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","OTH",2017
+"""2017-04-12T00:00:00.000Z""","GUY"," Kopinang Airfield","BN-2A-26 Islander","8R-GAR","ASL","","GUY","Landing","Accident",0,true,false,false,"","BN2P",false,true,2,"Piston","","[]","RS",2017
+"""2017-04-12T00:00:00.000Z""","PRT","Faro","Airbus A320-200","OO-TCW","Thomas Cook","BEL","BEL","","Accident","",true,true,true,"","A320",,true,2,"Jet",true,"[""CABIN""]","MED",2017
+"""2017-04-13T00:00:00.000Z""","TWN"," Orchid Island Airport (KYD)","Viking Air DHC-6 Twin Otter 400","B-55571","Daily Air",,"CHN","Landing","Accident","",true,"",true,"","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-04-14T00:00:00.000Z""","USA"," Richfield Municipal Airport, UT","Beechcraft B200 King Air","N481HC","IHC Health Services","","USA","Taxi","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-04-14T00:00:00.000Z""","USA","","Embraer ERJ190","N373JB","Jet Blue Airways","USA","USA","","Accident",0,true,true,true,"","E190",false,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-04-19T00:00:00.000Z""","THA"," Bangkok-Suvarnabhumi International Airport (BKK)","Airbus A320-200","HS-TXB","Thai Smile","THA","THA","Standing","Accident",0,true,true,true,"","A320",,true,2,"Jet",true,"[""RAMP""]","GS",2017
+"""2017-04-19T00:00:00.000Z""","","Hassi Messaoud","L410","ZS-OUE","Tassili Travail",,"ZAF","","Accident","",true,false,"","","L410",false,true,2,"Turboprop","","[]","",2017
+"""2017-04-23T00:00:00.000Z""","","Phaplu","D228","9N-AHR","Sita",,"NPL","","Accident","",true,false,"","","D228",false,true,2,"Turboprop","","[]","",2017
+"""2017-04-24T00:00:00.000Z""","USA"," Waukesha Airport, WI (UES)","Beechcraft 99A Airliner","N899CZ","Freight Runners Express","","USA","Initial Climb","Accident",0,true,false,false,"","BE99",false,true,2,"Turboprop","","[]","UNK",2017
+"""2017-04-25T00:00:00.000Z""","","Los Angeles","B752","N596UA","United",,"USA","","Accident","",true,true,"","","B752",false,true,2,"Jet","","[]","",2017
+"""2017-04-29T00:00:00.000Z""","CUB","6,5 km N of San Cristobal","Antonov An-26","CU-T1406","Fuerza A�rea Revolucionaria, opf. Aerogaviota","","CUB","Unknown","Accident",8,true,true,false,"Fatal","AN72",false,true,2,"Jet","","[]","OTH",2017
+"""2017-04-30T00:00:00.000Z""","AGO","Soyo","Boeing 737-700","D2-TBF","TAAG Angola Airlines","AGO","AGO","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""SCF-NP""]","OD",2017
+"""2017-05-01T00:00:00.000Z""","THA","Bangkok","Boeing 777-300","VP-BGD","Aeroflot","AUS","BMU","","Accident","",true,true,true,"","C17",,true,4,"Jet",true,"[""TURB""]","MED",2017
+"""2017-05-01T00:00:00.000Z""","USA"," Chignik, AK","Cessna 208B Grand Caravan","N803TH","Grant Aviation","","USA","En route","Accident",1,true,false,true,"Fatal","C208",false,true,1,"Turboprop","","[]","LOC-I",2017
+"""2017-05-01T00:00:00.000Z""","","Timmins","B763","C-FMWU","Canada Rouge",,"CAN","","Accident","",true,true,"","","B763",false,true,2,"Jet","","[]","",2017
+"""2017-05-02T00:00:00.000Z""","USA","","Airbus A320","N595JB","Jetblue","USA","USA","","Accident",0,true,true,true,"","A320",false,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-05-04T00:00:00.000Z""","","Sao Paulo","E195","PR-AYY","Azul",,"BRA","","Accident","",true,true,"","","E195",false,true,2,"Jet","","[]","",2017
+"""2017-05-05T00:00:00.000Z""","","enroute","A333","9M-XXK","AirAsia X",,"MYS","","Accident","",true,true,"","","A333",false,true,2,"Jet","","[]","",2017
+"""2017-05-05T00:00:00.000Z""","USA"," Charleston-Yeager Airport, WV (CRW)","Shorts 330-200","N334AC","Air Cargo Carriers",,"USA","Landing","Accident",2,true,true,"","Fatal","SH33",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-05-08T00:00:00.000Z""","","Dallas","B738","N925AN","American",,"USA","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-05-09T00:00:00.000Z""","","Pekanbaru","B738","PK-LBZ","Batik",,"IDN","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-05-15T00:00:00.000Z""","USA","1 km S of Teterboro Airport, NJ (TEB)","Learjet 35A","N452DA","Trans-Pacific Jets, opf. A&amp;C Big Sky Aviation","","USA","Approach","Accident",2,true,true,false,"Fatal","LJ35",false,true,2,"Jet","","[]","CFIT",2017
+"""2017-05-17T00:00:00.000Z""","MEX","ca 0,5 km E of Toluca-Licenciado Adolfo L�pez Mateos International Air","Learjet 25B","XA-VMC","Aerotransportes Huitzilin","","MEX","Initial Climb","Accident",2,true,true,false,"Fatal","LJ55",false,true,2,"Jet","","[]","UNK",2017
+"""2017-05-20T00:00:00.000Z""","USA","Raleigh/Durham","Boeing 757-200","N633DL","Delta","USA","USA","","Accident","",true,true,true,"","ST75",,true,1,"Piston",true,"[""ARC""]","RS",2017
+"""2017-05-20T00:00:00.000Z""","","Los Angeles","B738","XA-AML","Aeromexico",,"MEX","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-05-21T00:00:00.000Z""","","Orlando","B788","G-TUIH","Thomson",,"GBR","","Accident","",true,true,"","","B788",false,true,2,"Jet","","[]","",2017
+"""2017-05-21T00:00:00.000Z""","USA","enroute","Airbus A319-100","N512NK","Spirit Airlines","USA","USA","","Accident","",true,true,true,"","A319",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-05-22T00:00:00.000Z""","USA","near Skagway, AK","Cessna 208B Grand Caravan","N754KP","Alaska Seaplanes","","USA","En route","Accident",0,true,false,true,"","C208",false,true,1,"Turboprop","","[]","TURB",2017
+"""2017-05-23T00:00:00.000Z""","","Newark","B752","N596UA","United",,"USA","","Accident","",true,true,"","","B752",false,true,2,"Jet","","[]","",2017
+"""2017-05-23T00:00:00.000Z""","","Atlanta","B739","N802DN","Delta",,"USA","","Accident","",true,true,"","","B739",false,true,2,"Jet","","[]","",2017
+"""2017-05-24T00:00:00.000Z""","USA"," Perris Valley Airport, CA","DHC-6 Twin Otter 300","N708PV","Perris Valley Aviation","","USA","Landing","Accident",0,true,false,false,"","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-05-24T00:00:00.000Z""","","enroute","A319","C-FZUG","Canada Rouge",,"CAN","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-05-24T00:00:00.000Z""","USA"," Elfin Cove Seaplane Base, AK (ELV)","Cessna 208 Caravan I","N1265U","Alaska Seaplanes","","USA","Landing","Accident",0,true,false,true,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-05-25T00:00:00.000Z""","","Pyongyang","T204","P-632","Koryo",,"PRK","","Accident","",true,true,"","","T204",false,true,2,"Jet","","[]","",2017
+"""2017-05-26T00:00:00.000Z""","IRL","Cork","ATR 72-200","EI-FAT","Stobart","IRL","IRL","","Accident","",true,true,true,"","M200",,true,1,"Piston",true,"[""RAMP""]","GS",2017
+"""2017-05-27T00:00:00.000Z""","NPL"," Lukla-Tenzing-Hillary Airport (LUA)","Let L-410","9N-AKY","Summit Air","NPL","NPL","Approach","Accident",2,true,true,true,"Fatal","AE45",,true,2,"Piston",true,"[""USOS""]","RS",2017
+"""2017-05-27T00:00:00.000Z""","MDV"," Mal�-Velana International Airport (MLE)","DHC-6 Twin Otter 300","8Q-TMV","Trans Maldivian Airways",,"MDV","Landing","Accident","",true,"","","","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-05-27T00:00:00.000Z""","CAN","","Boeing 777-200","C-FIUA","Air Canada","CAN","CAN","","Accident",0,true,true,true,"","B37M",false,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-05-29T00:00:00.000Z""","","Visby","AT72","G-FBXB","Flybe",,"GBR","","Accident","",true,true,"","","AT72",false,true,2,"Turboprop","","[]","",2017
+"""2017-05-30T00:00:00.000Z""","IDN"," Ilaga Airport (ILA)","Cessna 208B Grand Caravan","PK-MPS","MAF","","IDN","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-05-30T00:00:00.000Z""","SOM"," Mogadishu Aden Adde International Airport (MGQ)","Dornier 328JET-310","N330BG","Heidi Aviation","","USA","Landing","Accident",0,true,true,false,"","J328",false,true,2,"Jet","","[]","RS",2017
+"""2017-05-30T00:00:00.000Z""","NPL"," Bajura Airport (BJU)","PZL-Mielec M28 Skytruck","NA-048","Nepal Army","","USA","Landing","Accident",1,true,true,false,"Fatal","M28",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-05-31T00:00:00.000Z""","IDN"," Ambon-Pattimura Airport (AMQ)","Beechcraft B300 King Air 350i","PK-CAQ","Balai Kalibrasi Fasilitas Penerbangan","","IDN","Landing","Accident",0,true,true,false,"","B350",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-05-31T00:00:00.000Z""","IDN"," Manokwari-Rendani Airport (MKW)","Boeing 737","PK-CJC","Sriwijaya Air","IDN","IDN","Landing","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""RE""]","RS",2017
+"""2017-06-02T00:00:00.000Z""","MNG"," Ulan Bator-Chinggis Khaan International Airport (ULN)","Antonov TVS-2MS","RA-2099G","SibNIA","","RUS","Take-off","Accident",0,true,false,false,"","A158",false,true,2,"Jet","","[]","RS",2017
+"""2017-06-02T00:00:00.000Z""","MEX","0,8 km SE of Tampico-Gen F Javier Mina Airport (TAM)","Fairchild SA227-AC Metro III","XA-UAJ","Aeronaves TSM","","MEX","Landing","Accident",0,true,true,false,"","SW3",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-06-03T00:00:00.000Z""","SOM"," Garbaharey Airport (GBM)","Fokker F-27 Friendship 600","5Y-FMM","United Nations World Food Programme, opf. Safari Express Airways",,"KEN","Landing","Accident","",true,true,"","","F27",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-06-04T00:00:00.000Z""","","Hong Kong","B744","PH-BFR","KLM",,"NLD","","Accident","",true,true,"","","B744",false,true,4,"Jet","","[]","",2017
+"""2017-06-04T00:00:00.000Z""","","Paris","B763","N377AN","American",,"USA","","Accident","",true,true,"","","B763",false,true,2,"Jet","","[]","",2017
+"""2017-06-07T00:00:00.000Z""","","Cape Town","B738","ZS-ZWB","Kulula",,"ZAF","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-06-11T00:00:00.000Z""","COL"," Tarapac� Airport (TCD)","Antonov An-32B","HK-4833","AerCaribe Cargo",,"COL","Landing","Accident","",true,true,"","","A124",false,true,4,"Jet","","[]","RS",2017
+"""2017-06-14T00:00:00.000Z""","MLI"," Bamako Airport (BKO)","Beechcraft 200 Super King Air","TZ-DDG","Malian A�ro Company","","MLI","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-06-18T00:00:00.000Z""","","Tyumen","A332","B-5926","China Eastern",,"CHN","","Accident","",true,true,"","","A332",false,true,2,"Jet","","[]","",2017
+"""2017-06-20T00:00:00.000Z""","","Cancun","B738","N12225","United",,"USA","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-06-21T00:00:00.000Z""","","Munich","A333","D-AIKB","Lufthansa",,"DEU","","Accident","",true,true,"","","A333",false,true,2,"Jet","","[]","",2017
+"""2017-06-21T00:00:00.000Z""","","Montgomery","CRJ7","N545PB","PSA",,"USA","","Accident","",true,true,"","","CRJ7",false,true,2,"Jet","","[]","",2017
+"""2017-06-23T00:00:00.000Z""","USA"," Atlanta-William B. Hartsfield International Airport, GA (ATL)","Airbus A321-200","N315DN","Delta Air Lines","USA","USA","Landing","Accident","",true,true,true,"","A321",,true,2,"Jet",true,"[""ARC""]","RS",2017
+"""2017-06-27T00:00:00.000Z""","","Tenerife","A332","G-VYGL","Jet2.com",,"GBR","","Accident","",true,true,"","","A332",false,true,2,"Jet","","[]","",2017
+"""2017-06-27T00:00:00.000Z""","UKR","10 km E of Kiliya","Antonov An-2R","UR-19717","Kharkiv Aeroclub","","UKR","Manoeuvring","Accident",0,true,false,false,"","A124",false,true,4,"Jet","","[]","RS",2017
+"""2017-06-29T00:00:00.000Z""","","Munich","A321","D-AIDP","Lufthansa",,"DEU","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-06-30T00:00:00.000Z""","USA"," Chicago-O'Hare International Airport, IL (ORD)","Canadair CL-600-2B19 Regional Jet CRJ-200ER","N862AS","American Eagle, opf. SkyWest Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","CRJ2",false,true,2,"Jet","","[]","RS",2017
+"""2017-06-30T00:00:00.000Z""","USA"," Chicago-O'Hare International Airport, IL (ORD)","Airbus A321-200","N991AU","American Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","A321",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-07-01T00:00:00.000Z""","JPN","Tokyo","Boeing 787-900","N29968","United","USA","USA","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-07-02T00:00:00.000Z""","USA"," Denver International Airport, CO (DEN)","Bombardier CL 600 2C10","N796SK","United express","USA","USA","Landing","Accident","",true,true,true,"","CRJX",,true,2,"Jet",true,"[""SCF-PP""]","OD",2017
+"""2017-07-03T00:00:00.000Z""","USA","near Alpine-Casparis Municipal Airport, TX","Cessna 208B Super Cargomaster","N9714B","Martinaire","","USA","Approach","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-07-04T00:00:00.000Z""","VEN","50 km WNW off Macanao","Gulfstream Aerospace G-1159A Gulfstream III","YV2896","SATA","","VEN","En route","Accident",9,true,true,false,"Fatal","GLF5",false,true,2,"Jet","","[]","LOC-I",2017
+"""2017-07-07T00:00:00.000Z""","","Cologne","A320","D-ABDQ","Eurowings",,"DEU","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-07-08T00:00:00.000Z""","","London","B752","G-OOBC","Thomson",,"GBR","","Accident","",true,true,"","","B752",false,true,2,"Jet","","[]","",2017
+"""2017-07-11T00:00:00.000Z""","","Stockholm and Brussels","CRJ9","EI-FPG","SAS",,"IRL","","Accident","",true,true,"","","CRJ9",false,true,2,"Jet","","[]","",2017
+"""2017-07-12T00:00:00.000Z""","","enroute","A320","D-ABHI","Berlin",,"DEU","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-07-12T00:00:00.000Z""","","Da Nang","A321","VN-A610","Vietnam",,"VNM","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-07-12T00:00:00.000Z""","","Sint Maarten","B738","9Y-TAB","Caribbean",,"TTO","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-07-16T00:00:00.000Z""","","Seattle","B739","N433AS","Alaska",,"USA","","Accident","",true,true,"","","B739",false,true,2,"Jet","","[]","",2017
+"""2017-07-16T00:00:00.000Z""","","Raleigh/Durham","A319","N829AW","American",,"USA","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-07-17T00:00:00.000Z""","ARG"," San Carlos de Bariloche International Airport, RN (BRC)","Beechcraft B200 King Air","LV-ZTV","Aero Baires","","ARG","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-07-18T00:00:00.000Z""","IDN"," Wamena Airport (WMX)","Boeing 737-300","PK-YGG","Tri MG Airlines","IDN","IDN","Landing","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[]","RS",2017
+"""2017-07-18T00:00:00.000Z""","","Frankfurt","B744","N121UA","United",,"USA","","Accident","",true,true,"","","B744",false,true,4,"Jet","","[]","",2017
+"""2017-07-19T00:00:00.000Z""","","Stuttgart","B738","D-ATUN","TuiFly",,"DEU","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-07-19T00:00:00.000Z""","EGY","Hurghada","Boeing 757-300","G-JMOG","Thomas Cook","GBR","GBR","","Accident","",true,true,true,"","ST75",,true,1,"Piston",true,"[""EVAC""]","OTH",2017
+"""2017-07-19T00:00:00.000Z""","USA","Minneapolis","Embraer ERJ 170","N427YX","Republic Airlines","USA","USA","","Accident","",true,true,true,"","E170",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-07-20T00:00:00.000Z""","","Cincinnati","B752","N906NV","Allegiant",,"USA","","Accident","",true,true,"","","B752",false,true,2,"Jet","","[]","",2017
+"""2017-07-20T00:00:00.000Z""","CAN","74 km N of Val-d'Or","De Havilland Dash 8-100","C-FDWO","Air Creebec","CAN","CAN","En route","Accident","",true,true,true,"","MOSQ",,true,2,"Piston",true,"[""WSTRW""]","OTH",2017
+"""2017-07-21T00:00:00.000Z""","USA"," Lower East River, New York, NY","Cessna 208 Caravan I","N802TW","Tailwind Air Service","","USA","Landing","Accident",0,true,false,true,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-07-22T00:00:00.000Z""","","Hanoi","A321","VN-A351","Vietnam",,"VNM","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-07-22T00:00:00.000Z""","","London","B788","G-ZBJG","British Airways",,"GBR","","Accident","",true,true,"","","B788",false,true,2,"Jet","","[]","",2017
+"""2017-07-22T00:00:00.000Z""","IDN"," Sinak Airport (NKD)","Cessna 208B Grand Caravan","PK-RSD","Enggang Air Service","","IDN","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-07-22T00:00:00.000Z""","","Jackson Hole","A319","N834UA","United",,"USA","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-07-23T00:00:00.000Z""","","enroute","B772","G-YMMC","British Airways",,"GBR","","Accident","",true,true,"","","B772",false,true,2,"Jet","","[]","",2017
+"""2017-07-24T00:00:00.000Z""","","Spokane","B738","N523AS","Alaska",,"USA","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-07-24T00:00:00.000Z""","","enroute","A319","N9018E","American",,"USA","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-07-25T00:00:00.000Z""","GUY","0,25 km from Eteringbang Airport","PADC/Pilatus BN-2A-26 Islander","8R-GRA","Roraima Airways","","GUY","Approach","Accident",1,true,false,false,"Fatal","BN2P",false,true,2,"Piston","","[]","CFIT",2017
+"""2017-07-26T00:00:00.000Z""","GRC"," Mikonos Airport (JMK)","Raytheon Hawker 850XP","TC-MAN","Genel Havacilik","","TUR","Landing","Accident",0,true,true,false,"","H25B",false,true,2,"Jet","","[]","RS",2017
+"""2017-07-27T00:00:00.000Z""","RUS","1,7 km N of Poltavskaya, Krasnoarmeysky district","Antonov An-2R","RA-40908","Aviation Technical Center Virazh","","RUS","Initial Climb","Accident",0,true,false,false,"","AN70",false,true,4,"Turboprop","","[]","UNK",2017
+"""2017-07-29T00:00:00.000Z""","STP"," S�o Tom� Island Airport (TMS)","Antonov 74TK-100","UR-CKC","Cavok air","UKR","UKR","Take-off","Accident","",true,true,true,"","A158",,true,2,"Jet",true,"[""RE""]","RS",2017
+"""2017-08-02T00:00:00.000Z""","","Port of Spain","A321","N996AN","American",,"USA","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-08-02T00:00:00.000Z""","","Oklahoma City","A320","N521JB","Jetblue",,"USA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-08-03T00:00:00.000Z""","IDN"," Medan-Kualanamu International Airport (KNO)","ATR 72-500","PK-WFF","Wings Air","IDN","IDN","Taxi","Accident",0,true,true,true,"","AC50",,true,2,"Piston",true,"[""GCOL""]","RS",2017
+"""2017-08-03T00:00:00.000Z""","","Washington","E175","N430YX","Republic",,"USA","","Accident","",true,true,"","","E75S",false,true,2,"Jet","","[]","",2017
+"""2017-08-03T00:00:00.000Z""","IDN"," Medan-Kualanamu International Airport (KNO)","Boeing 737-9GPER (WL)","PK-LJZ","Lion Air","IDN","IDN","Landing","Accident","",true,true,true,"","B39M",false,true,2,"Jet","","[]","RS",2017
+"""2017-08-04T00:00:00.000Z""","USA"," Mulino State Airport, OR","Cessna 208B Grand Caravan","N9829B","Kapowsin Air Sports","","USA","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-08-04T00:00:00.000Z""","PNG","72 km NW of Port Moresby","DHC-8-202Q Dash 8","P2-ANK","LinkPNG","PNG","PNG","En route","Accident","",true,true,true,"","DH8A",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-08-05T00:00:00.000Z""","USA","Long Island","Airbus 330-300","N276AY","American","USA","USA","","Accident","",true,true,true,"","A30B",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-08-05T00:00:00.000Z""","USA","near Pocatello Airport, ID (PIH)","Lockheed P2V-5F Neptune","N410NA","U.S. Forest Service, opf. Neptune Aviation Services","","USA","Initial Climb","Accident",0,true,true,false,"","P2",false,true,2,"Piston","","[]","UNK",2017
+"""2017-08-08T00:00:00.000Z""","","Columbus","E175","N105HQ","Republic",,"USA","","Accident","",false,false,"","","C175",false,true,1,"Piston","","[]","",2017
+"""2017-08-08T00:00:00.000Z""","IRL","Dublin","Boeing 737-700","C-GYWJ","Westjet","CAN","CAN","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""CABIN""]","MED",2017
+"""2017-08-10T00:00:00.000Z""","","Buffalo","A320","N547JB","Jetblue",,"USA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-08-12T00:00:00.000Z""","","Orlando","SF34","N341AG","Silver",,"USA","","Accident","",true,true,"","","SF34",false,true,2,"Turboprop","","[]","",2017
+"""2017-08-15T00:00:00.000Z""","USA"," New York-John F. Kennedy International Airport, NY (JFK)","Boeing 757-223 (WL)","N175AN","American Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","ST75",false,true,1,"Piston","","[]","RS",2017
+"""2017-08-15T00:00:00.000Z""","USA"," New York-John F. Kennedy International Airport, NY (JFK)","Boeing B737-800","N377DA","Delta","USA","USA","Taxi","Accident",0,true,true,true,"","B37M",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-08-16T00:00:00.000Z""","GBR"," Netheravon Airport","Cessna 208B Grand Caravan","G-CPSS","Army Parachute Association","","GBR","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-08-19T00:00:00.000Z""","VEN","2,5 km N off Naiguat�","Learjet 25D","YV3191","Aeroquest","","VEN","En route","Accident",5,true,true,false,"Fatal","LJ35",false,true,2,"Jet","","[]","LOC-I",2017
+"""2017-08-21T00:00:00.000Z""","","Raleigh/Durham","A320","N637JB","Jetblue",,"USA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-08-22T00:00:00.000Z""","ETH","","Boeing 777","ET-AQL","Ethiopian Airlines","ETH","ETH","","Accident",0,true,true,true,"","B37M",false,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-08-22T00:00:00.000Z""","","Juba and Entebbe","IL76","EW-78799","Trans Avia Export Cargo",,"BLR","","Accident","",true,true,"","","IL76",false,true,4,"Jet","","[]","",2017
+"""2017-08-22T00:00:00.000Z""","USA","St. Louis","Bombardier CRJ700","N745SK","Skywest","USA","USA","","Accident","",true,true,true,"","GL7T",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-08-26T00:00:00.000Z""","RUS","75 km W of Yeniseisk, Krasnoyarsk Territory","Antonov An-2R","RA-33036","Aviakompaniya Feniks","","RUS","En route","Accident",0,true,false,false,"","AN70",false,true,4,"Turboprop","","[]","TURB",2017
+"""2017-08-28T00:00:00.000Z""","SSD"," Maban Airstrip","Antonov An-26B","EK-26006","Coco Aviation",,"ARM","Landing","Accident","",true,true,"","","AN32",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-09-02T00:00:00.000Z""","RUS"," Chernoye Airport","Antonov An-2V","RA-35171","private","","RUS","Manoeuvring","Accident",2,true,false,false,"Fatal","A158",false,true,2,"Jet","","[]","F-NI",2017
+"""2017-09-02T00:00:00.000Z""","RUS","near Turinskaya Sloboda, Sverdlovsk region","Antonov TR-301","RA-40462","Polemaks","","RUS","Approach","Accident",0,true,false,false,"","A148",false,true,2,"Jet","","[]","RS",2017
+"""2017-09-03T00:00:00.000Z""","USA","","Cessna 680","N378QS","NET JET","USA","USA","","Accident",0,true,true,true,"","C680",false,true,2,"Jet",true,"[""RAMP""]","MED",2017
+"""2017-09-04T00:00:00.000Z""","USA","","Boeing MD90","N938DN","Delta Air Lines","USA","USA","","Accident",0,true,true,true,"","MD90",false,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-09-04T00:00:00.000Z""","CHN","Wenzhou","Boeing 737-800","B-7031","China Eastern","CHN","CHN","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2017
+"""2017-09-04T00:00:00.000Z""","VEN"," La Paragua Airport","Antonov An-2P","YV2195","A�reo Transporte La Monta�a","","VEN","Landing","Accident",0,true,false,false,"","AN3",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-09-05T00:00:00.000Z""","IND"," Cochin International Airport (COK)","Boeing 737-800","VT-AYB","Air India Express","IND","IND","Landing","Accident",0,true,true,true,"","B38M",,true,2,"Jet",true,"[]","OTH",2017
+"""2017-09-05T00:00:00.000Z""","VEN"," Playa Linda","Antonov An-2R","YV2664","Unknown","","VEN","Unknown","Accident",1,true,false,false,"Fatal","A178",false,true,2,"Jet","","[]","OTH",2017
+"""2017-09-08T00:00:00.000Z""","MEX"," Ciudad del Carmen Airport (CME)","Learjet 31","XA-ZYZ","Transportes Aereos Pegaso SA de CV","MEX","MEX","Landing","Accident",0,true,true,true,"","LJ31",,true,2,"Jet",true,"[""RE""]","RS",2017
+"""2017-09-09T00:00:00.000Z""","","Kolkata","A319","A5-BAB","Bhutan",,"BTN","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-09-10T00:00:00.000Z""","COD"," Goma Airport (GOM)","Antonov An-26B","9S-AFL","Serve Air","COD","COD","Landing","Accident","",true,true,true,"","AN70",,true,4,"Turboprop",true,"[""RE""]","RS",2017
+"""2017-09-12T00:00:00.000Z""","USA"," Los Angeles International Airport, CA (LAX)","Boeing 737","N69813","United Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","B37M",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-09-12T00:00:00.000Z""","USA"," Los Angeles International Airport, CA (LAX)","Boeing 767-375ER","C-GHOZ","Air Canada","CAN","CAN","Standing","Accident",0,true,true,true,"","ST75",false,true,1,"Piston","","[]","RS",2017
+"""2017-09-12T00:00:00.000Z""","USA"," Greeley-Weld County Airport, CO (GXY)","Embraer EMB-120ER Brasilia","N121CZ","Air Charter Express","","USA","Standing","Accident",0,true,true,false,"","E120",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-09-13T00:00:00.000Z""","USA"," Charlotte-Douglas International Airport, NC (CLT)","Bombardier CRJ-200","N261PS","American Eagle, opf. PSA Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","GL7T",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-09-13T00:00:00.000Z""","AUS","Adelaide","Boeing 737-800","VH-VUE","Virgin Australia","AUS","AUS","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-09-15T00:00:00.000Z""","GBR"," London-Stansted Airport (STN)","Boeing 737-8AS (WL)","EI-DLV","Ryanair","IRL","IRL","Take-off","Accident","",true,true,true,"","B38M",false,true,2,"Jet","","[]","RS",2017
+"""2017-09-15T00:00:00.000Z""","BRB"," Bridgetown-Grantley Adams International Airport (BGI)","Airbus A321-231","N137AA","American Airlines","USA","USA","Landing","Accident","",true,true,true,"","A321",,true,2,"Jet",true,"[""ARC""]","RS",2017
+"""2017-09-16T00:00:00.000Z""","USA"," Sedona Airport, AZ (SDX)","Cessna 208B Grand Caravan","N786WW","Westwind Air Service","","USA","Taxi","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-09-18T00:00:00.000Z""","CAN","Calgary","De Havilland Dash 8-400","C-FQWE","Westjet Encore","CAN","CAN","","Accident","",true,true,true,"","DH83",,true,1,"Piston",true,"[""TURB""]","MED",2017
+"""2017-09-19T00:00:00.000Z""","","New York","CRJ9","N925XJ","Endeavor",,"USA","","Accident","",true,true,"","","CRJ9",false,true,2,"Jet","","[]","",2017
+"""2017-09-21T00:00:00.000Z""","","enroute","B739","N855DN","Delta",,"USA","","Accident","",true,true,"","","B739",false,true,2,"Jet","","[]","",2017
+"""2017-09-21T00:00:00.000Z""","","enroute","A319","G-EZFC","Easyjet",,"GBR","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-09-21T00:00:00.000Z""","TUR"," Istanbul-Atat�rk International Airport (IST)","Cessna 650 Citation VII","TC-KON","Avione Jet","","TUR","Landing","Accident",0,true,true,false,"","C650",false,true,2,"Jet","","[]","RS",2017
+"""2017-09-24T00:00:00.000Z""","MYS"," Kuching Airport (KCH)","Beechcraft B200GT King Air 250","9M-WSK","Hornbill Skyways","","MYS","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-09-24T00:00:00.000Z""","","Khartoum","B735","C5-BDB","Badr",,"GMB","","Accident","",true,true,"","","B735",false,true,2,"Jet","","[]","",2017
+"""2017-09-25T00:00:00.000Z""","USA","","Boeing B737-800","N500WR","Southwest Airlines","USA","USA","","Accident",0,true,true,true,"","B38M",false,true,2,"Jet",true,"[""CABIN""]","MED",2017
+"""2017-09-27T00:00:00.000Z""","","Madrid","A320","OO-SNA","Brussels",,"BEL","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-09-28T00:00:00.000Z""","RUS","St. Petersburg","Airbus A321-200","VQ-BOB","Ural","ISL","BMU","","Accident",2,true,true,true,"","A321",,true,2,"Jet",true,"[]","OTH",2017
+"""2017-09-30T00:00:00.000Z""","COD","ca 20 km NE of Kinshasa-N'Djili Airport (FIH)","Antonov An-12B","EX-001","D.R. Congo AF","","KGZ","Unknown","Accident",8,true,true,false,"Fatal","A124",false,true,4,"Jet","","[]","OTH",2017
+"""2017-09-30T00:00:00.000Z""","USA"," Washington-Ronald Reagan National Airport, DC (DCA)","Airbus A321-231","N982VJ","American Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","A321",false,true,2,"Jet","","[]","RS",2017
+"""2017-09-30T00:00:00.000Z""","GRL","over southern Greenland","Airbus 380-800","F-HPJE","Air France","FRA","FRA","En route","Accident","",true,true,true,"","A319",,true,2,"Jet",true,"[""SCF-PP""]","OD",2017
+"""2017-09-30T00:00:00.000Z""","USA"," Washington-Ronald Reagan National Airport, DC (DCA)","Boeing 737-800","N841NN","American Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","B38M",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-10-02T00:00:00.000Z""","USA"," Chicago-Midway Airport, IL (MDW)","Boeing B737-700","N930WN","Southwest Airlines","USA","USA","Standing","Accident",0,true,true,true,"","B37M",,true,2,"Jet",true,"[""GCOL""]","GS",2017
+"""2017-10-03T00:00:00.000Z""","KAZ","28 km WNW of Almaty Airport (ALA)","Antonov An-28","UP-A2807","East Wing","","KAZ","En route","Accident",5,true,true,false,"Fatal","AN32",false,true,2,"Turboprop","","[]","LOC-I",2017
+"""2017-10-04T00:00:00.000Z""","MDV","off Mal�-Velana International Airport (MLE)","DHC-6 Twin Otter 300","8Q-ISB","Maldivian",,"MDV","Landing","Accident","",true,"",true,"","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-04T00:00:00.000Z""","","Paris","A319","G-EZNC","Easyjet",,"GBR","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-10-07T00:00:00.000Z""","","Athens","AT42","SX-GRI","Sky Express",,"GRC","","Accident","",true,false,"","","BE55",false,true,2,"Piston","","[]","",2017
+"""2017-10-07T00:00:00.000Z""","SOM"," Xuddur Airport","Cessna 208B Grand Caravan","5Y-BNH","Sigale Air, opf. Penial Air","","KEN","Take-off","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-10-09T00:00:00.000Z""","","Manila","A359","B-LRS","Cathay",,"HKG","","Accident","",true,true,"","","A359",false,true,2,"Jet","","[]","",2017
+"""2017-10-11T00:00:00.000Z""","IRL","","de Havilland Dash 8-400","G-JEDU","Flybe","GBR","GBR","","Accident",0,true,true,true,"","DH82",false,true,1,"Piston",true,"[""SCF-PP""]","OD",2017
+"""2017-10-12T00:00:00.000Z""","AGO","near Cu�lo","Embraer EMB-120ER Brasilia","D2-FDO","Guicango",,"AGO","En route","Accident",7,true,true,"","Fatal","E120",false,true,2,"Turboprop","","[]","LOC-I",2017
+"""2017-10-13T00:00:00.000Z""","PHL"," Iloilo International Airport (ILO)","Airbus A320","RP-C3237","Cebu Pacific Air","PHL","PHL","Landing","Accident","",true,true,true,"","A320",,true,2,"Jet",true,"[""RE""]","RS",2017
+"""2017-10-13T00:00:00.000Z""","","Moscow","B735","VQ-BJP","UTAir",,"BMU","","Accident","",true,true,"","","B735",false,true,2,"Jet","","[]","",2017
+"""2017-10-14T00:00:00.000Z""","CIV","0,8 km S off Abidjan-Felix Houphouet Boigny Airport (ABJ)","Antonov An-26-100","ER-AVB","Valan Int'l Cargo",,"MDA","Approach","Accident",4,true,true,"","Fatal","AN24",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-14T00:00:00.000Z""","AUS"," Sydney-Kingsford Smith International Airport, NSW (SYD)","Boeing 737-838 (WL)","VH-VZZ","Qantas","AUS","AUS","","Accident",0,true,true,true,"","B38M",false,true,2,"Jet","","[]","",2017
+"""2017-10-14T00:00:00.000Z""","CAN"," Moncton/Greater Moncton International Airport, NB (YQM)","Beech 1900D","C-GORZ","Exploits Valley Air Services","CAN","CAN","Landing","Accident",0,true,true,true,"","B190",,true,2,"Turboprop",true,"[""ARC""]","RS",2017
+"""2017-10-15T00:00:00.000Z""","USA","","Boeing B767-300ER","N342AX","Omni Air International","USA","USA","","Accident",0,true,true,true,"","B37M",false,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-10-16T00:00:00.000Z""","GBR"," Chester/Hawarden Airport (CEG)","British Aerospace 4100 Jetstream 41","G-MAJC","Eastern Airways","GBR","GBR","Landing","Accident",0,true,true,true,"","JS41",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-17T00:00:00.000Z""","BRA"," Rio Negro, Parque Nacional de Anavilhanas, AM","Cessna 208 Caravan I","PR-MPE","Greenpeace Brasil","","BRA","Landing","Accident",1,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-10-18T00:00:00.000Z""","","Denver and Frankfurt","B744","D-ABVW","Lufthansa",,"DEU","","Accident","",true,true,"","","B744",false,true,4,"Jet","","[]","",2017
+"""2017-10-18T00:00:00.000Z""","ESP","Alicante","Boeing 737-800","EI-FJJ","Norwegian","IRL","IRL","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-10-19T00:00:00.000Z""","PER","near Nuevo Saposoa","Beechcraft 200C Super King Air","OB-2077-P","Air Majoro","","PER","En route","Accident",1,true,true,false,"Fatal","BE20",false,true,2,"Turboprop","","[]","LOC-I",2017
+"""2017-10-20T00:00:00.000Z""","","Denver and Frankfurt","B744","D-ABVW","Lufthansa",,"DEU","","Accident","",true,true,"","","B744",false,true,4,"Jet","","[]","",2017
+"""2017-10-21T00:00:00.000Z""","","Toronto","DH8D","C-GLQQ","Porter",,"CAN","","Accident","",true,true,"","","DH8D",false,true,2,"Turboprop","","[]","",2017
+"""2017-10-21T00:00:00.000Z""","USA"," Anchorage-Ted Stevens International Airport, AK (ANC)","Beechcraft B200 King Air","N363JH","Bering Air","","USA","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-21T00:00:00.000Z""","CAN"," Prince Albert Airport, SK (YPA)","Beechcraft 200 Super King Air","C-GFSG","Transwest Air","","CAN","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-22T00:00:00.000Z""","JPN","Saga","Boeing 737-800","JA03GR","Spring Japan","JPN","JPN","","Accident","",true,true,true,"","B38M",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-10-23T00:00:00.000Z""","","Shenzhen","B738","B-1703","China Eastern",,"CHN","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-10-24T00:00:00.000Z""","ITA"," Roma-Fiumicino Airport (FCO)","ATR 72-212 (F)","OY-CNJ","Mistral Air","","DNK","Landing","Accident",0,true,true,false,"","AT43",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-24T00:00:00.000Z""","IDN","enroute","Boeing 737-800","PK-LBY","Batik","IDN","IDN","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-10-25T00:00:00.000Z""","","Veracruz","A321","XA-VLW","Volaris",,"MEX","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-10-25T00:00:00.000Z""","TZA"," Lobo Wildlife Lodge Airstrip","Cessna 208B Grand Caravan","5H-THR","Coastal Aviation","","TZA","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-10-27T00:00:00.000Z""","AUS"," Lord Howe Island Airport, NSW (LDH)","Beechcraft B200 Super King Air","VH-LNK","Eastern Air Services","","AUS","Landing","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-10-27T00:00:00.000Z""","USA"," Akron/Canton Regional Airport, OH (CAK)","Cessna 560 Citation V","N561VP","Private Jets","","USA","Landing","Accident",0,true,true,false,"","C560",false,true,2,"Jet","","[]","RS",2017
+"""2017-10-28T00:00:00.000Z""","","Chicago","B752","N650DL","Delta",,"USA","","Accident","",true,true,"","","B752",false,true,2,"Jet","","[]","",2017
+"""2017-10-29T00:00:00.000Z""","DEU"," Bremen Airport (BRE)","Cessna 550 Citation Bravo","RA-67560","Tropic","","RUS","Landing","Accident",0,true,true,false,"","C55B",false,true,2,"Jet","","[]","RS",2017
+"""2017-10-30T00:00:00.000Z""","CAN"," Toronto - London","Boeing 767-300","C-FOGT","WestJet","BHS","CAN","En route","Accident","",true,true,true,"","C17",,true,4,"Jet",true,"[""SCF-PP""]","OD",2017
+"""2017-11-02T00:00:00.000Z""","CAN"," Thompson Airport, MB (YTH)","Fairchild SA227-AC Metro III","C-FLRY","Perimeter Aviation",,"CAN","Landing","Accident","",true,true,"","","SW3",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-11-05T00:00:00.000Z""","","Des Moines","CRJ9","N933XJ","Endeavor",,"USA","","Accident","",true,true,"","","CRJ9",false,true,2,"Jet","","[]","",2017
+"""2017-11-05T00:00:00.000Z""","","Washington","B737","N7875A","Southwest",,"USA","","Accident","",true,true,"","","B737",false,true,2,"Jet","","[]","",2017
+"""2017-11-06T00:00:00.000Z""","CAN"," Coffee Creek, YT","Cessna 208B Grand Caravan","C-FAKZ","Alkan Air","","CAN","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-11-07T00:00:00.000Z""","","Hamburg","A319","D-AGWV","Eurowings",,"DEU","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-11-07T00:00:00.000Z""","RUS"," Ekimchan, Amur region","Antonov An-2","RA-02305","DalTransAero","","RUS","Approach","Accident",1,true,false,false,"Fatal","A124",false,true,4,"Jet","","[]","CFIT",2017
+"""2017-11-08T00:00:00.000Z""","IDN","Delhi","De Havilland Dash 8-400","VT-SUL","Spicejet","IND","IND","","Accident","",true,true,true,"","DHC1",,true,1,"Piston",true,"[""ARC""]","RS",2017
+"""2017-11-08T00:00:00.000Z""","ZAF","over Limpopo province","Avro RJ85","ZS-ASW","Airlink","ZAF","ZAF","En route","Accident","",true,true,true,"","RJ85",false,true,4,"Jet","","[]","SCF",2017
+"""2017-11-09T00:00:00.000Z""","CAN"," Toronto City-Billy Bishop Airport, ON (YTZ)","De Havilland DHC 8-400","C-GYJZ","Jazz","CAN","CAN","Landing","Accident","",true,true,true,"","VAMP",,true,1,"Jet",true,"[""ARC""]","RS",2017
+"""2017-11-09T00:00:00.000Z""","","Montevideo","CRJ2","CX-SDU","Amaszonas Uruguay",,"URY","","Accident","",true,true,"","","CRJ2",false,true,2,"Jet","","[]","",2017
+"""2017-11-10T00:00:00.000Z""","","Zhengzou","B738","B-5435","Xiamen",,"CHN","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-11-10T00:00:00.000Z""","GBR"," Belfast International Airport (BFS)","DHC-8-402Q Dash 8","G-JEDU","Flybe","GBR","GBR","Landing","Accident","",true,true,true,"","DH8A",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-11-11T00:00:00.000Z""","NLD"," Maastricht/Aachen Airport (MST)","Boeing 747-428FER","TC-ACR","ACT Airlines, opf. Saudi Arabian",,"TUR","Take-off","Accident","",true,true,"","","B37M",false,true,2,"Jet","","[]","RS",2017
+"""2017-11-13T00:00:00.000Z""","","London","B772","G-VIIJ","British Airways",,"GBR","","Accident","",true,true,"","","B772",false,true,2,"Jet","","[]","",2017
+"""2017-11-13T00:00:00.000Z""","","Nabire","AT72","PK-WFP","Wings",,"IDN","","Accident","",true,true,"","","AT72",false,true,2,"Turboprop","","[]","",2017
+"""2017-11-13T00:00:00.000Z""","","Changsa","B738","B-5836","China Southern",,"CHN","","Accident","",true,true,"","","B738",false,true,2,"Jet","","[]","",2017
+"""2017-11-15T00:00:00.000Z""","RUS","1,2 km SSW of Nelkan Airport","Let L-410","RA-67047","Khabarovsk Airlines","RUS","RUS","Approach","Accident",6,true,true,true,"Fatal","Z37P",,true,1,"Piston",true,"[""LOC-I""]","LOC-I",2017
+"""2017-11-15T00:00:00.000Z""","TZA"," Empakaai area","Cessna 208B Grand Caravan","5H-EGG","Coastal Aviation","","TZA","En route","Accident",11,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","LOC-I",2017
+"""2017-11-16T00:00:00.000Z""","MDV"," Dhaalu Atoll","DHC-6 Twin Otter 200HG","8Q-IAG","Maldivian",,"MDV","Take-off","Accident","",true,"",true,"","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-11-16T00:00:00.000Z""","PHL","","Airbus A320","RP-C8977","Philippines AirAsia","PHL","PHL","","Accident",0,true,true,true,"","A320",false,true,2,"Jet",true,"[""ARC""]","RS",2017
+"""2017-11-17T00:00:00.000Z""","BLZ","E off Placencia Airport (PLJ)","Cessna 208B Grand Caravan","V3-HGX","Tropic Air","","BLZ","Take-off","Accident",0,true,false,true,"","C208",false,true,1,"Turboprop","","[]","RS",2017
+"""2017-11-19T00:00:00.000Z""","","Sacramento","DH8D","N412QX","Horizon",,"USA","","Accident","",true,true,"","","DH8D",false,true,2,"Turboprop","","[]","",2017
+"""2017-11-19T00:00:00.000Z""","AUS"," Canberra Airport, ACT (CBR)","ATR 72-600","VH-FVZ","Virgin Australia","AUS","AUS","Landing","Accident","",true,true,true,"","AT43",,true,2,"Turboprop",true,"[""WSTRW""]","OTH",2017
+"""2017-11-19T00:00:00.000Z""","","Toronto","A319","C-GJVY","Canada Rouge",,"CAN","","Accident","",true,true,"","","A319",false,true,2,"Jet","","[]","",2017
+"""2017-11-22T00:00:00.000Z""","ZAF"," Johannesburg/Germiston-Rand Airport (QRA)","Hawker Beechcraft 390 Premier IA","ZS-CBI","Multimanaged Investments Pty","","ZAF","Landing","Accident",0,true,false,false,"","PRM1",false,true,2,"Jet","","[]","RS",2017
+"""2017-11-22T00:00:00.000Z""","","Fukuoka","B773","B-16718","Eva",,"CHN","","Accident","",true,true,"","","B773",false,true,2,"Jet","","[]","",2017
+"""2017-11-25T00:00:00.000Z""","GHA"," Accra-Kotoka Airport (ACC)","ATR 72-500","9G-SBF","Starbow","GHA","GHA","Take-off","Accident","",true,true,true,"","AC50",,true,2,"Piston",true,"[""RE""]","RS",2017
+"""2017-11-26T00:00:00.000Z""","","Florianopolis","A320","PR-MHW","LATAM Brasil",,"BRA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-11-26T00:00:00.000Z""","","London","B763","N653UA","United",,"USA","","Accident","",true,true,"","","B763",false,true,2,"Jet","","[]","",2017
+"""2017-11-27T00:00:00.000Z""","USA"," New York-John F. Kennedy International Airport, NY (JFK)","Airbus A330-343","G-VRAY","Virgin Atlantic","GBR","GBR","Taxi","Accident",0,true,true,true,"","A320",false,true,2,"Jet","","[]","RS",2017
+"""2017-11-27T00:00:00.000Z""","FRA"," Paris-Le Bourget Airport (LBG)","Embraer EMB-550 Legacy 500","RA-02788","L39 Engineering","","RUS","Landing","Accident",0,true,true,false,"","E550",false,true,2,"Jet","","[]","RS",2017
+"""2017-11-27T00:00:00.000Z""","USA"," New York-John F. Kennedy International Airport, NY (JFK)","Boeing B777","SU-GDL","EgyptAir","SWE","EGY","Taxi","Accident",0,true,true,true,"","B37M",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-11-28T00:00:00.000Z""","","Toronto","A332","OO-SFZ","Brussels",,"BEL","","Accident","",true,true,"","","A332",false,true,2,"Jet","","[]","",2017
+"""2017-11-28T00:00:00.000Z""","","Tokyo","B789","N27958","United",,"USA","","Accident","",true,true,"","","B789",false,true,2,"Jet","","[]","",2017
+"""2017-11-28T00:00:00.000Z""","NPL"," Simikot Airport (IMK)","DHC-6 Twin Otter 300","9N-ABM","Tara Air",,"NPL","Take-off","Accident","",true,"","","","DHC6",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-11-29T00:00:00.000Z""","","Frankfurt and Barcelona","A321","D-AISB","Lufthansa",,"DEU","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-12-02T00:00:00.000Z""","CAN"," Toronto-Pearson International Airport, ON (YYZ)","Boeing 777-300","B-16718","Eva Air","CHN","CHN","Taxi","Accident",0,true,true,true,"","C17",,true,4,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-12-03T00:00:00.000Z""","USA"," Miami International Airport, FL (MIA)","Airbus A319","N9011P","American Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","A319",,true,2,"Jet",true,"[""GCOL""]","RS",2017
+"""2017-12-03T00:00:00.000Z""","USA"," Miami International Airport, FL (MIA)","Boeing 737-823 (WL)","N344PP","American Airlines","USA","USA","Taxi","Accident",0,true,true,true,"","B37M",false,true,2,"Jet","","[]","RS",2017
+"""2017-12-04T00:00:00.000Z""","","Sacramento","A320","N360NW","Delta",,"USA","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-12-05T00:00:00.000Z""","USA","Fort Lauderdale","Airbus A321","N670NK","Spirit Airlines","USA","USA","","Accident","",true,true,true,"","A321",,true,2,"Jet",true,"[""TURB""]","MED",2017
+"""2017-12-08T00:00:00.000Z""","PNG"," Buka Airport (BUA)","GAF Nomad N.22C","VH-ATO","Bayswater Road","","AUS","Landing","Accident",0,true,false,false,"","NOMA",false,true,2,"Turboprop","","[]","RS",2017
+"""2017-12-08T00:00:00.000Z""","","Doha","A321","A7-AIB,","Qatar",,"QAT","","Accident","",true,true,"","","A321",false,true,2,"Jet","","[]","",2017
+"""2017-12-12T00:00:00.000Z""","USA"," Detroit-Metropolitan Wayne County Airport, MI (DTW)","Boeing MD88","N924DL","Delta Air Lines","USA","USA","Standing","Accident",0,true,true,true,"","MD88",,true,2,"Jet",true,"[""RAMP""]","GS",2017
+"""2017-12-13T00:00:00.000Z""","CAN","1,5 km W of Fond-du-Lac Airport, SK (ZFD)","ATR 42-300","C-GWEA","West Wind Aviation","CAN","CAN","Initial Climb","Accident",1,true,true,true,"Fatal","E55P",,true,2,"Jet",true,"[""CTOL""]","RS",2017
+"""2017-12-14T00:00:00.000Z""","DEU"," Sieberatsreute, Waldburg","Cessna 510 Citation Mustang","OE-FWD","Skytaxi Luftfahrt","","AUT","Approach","Accident",3,true,false,false,"Fatal","C510",false,true,2,"Jet","","[]","CFIT",2017
+"""2017-12-15T00:00:00.000Z""","","Okinawa","B788","JA832A","ANA",,"JPN","","Accident","",true,true,"","","B788",false,true,2,"Jet","","[]","",2017
+"""2017-12-17T00:00:00.000Z""","USA","Saint Louis","Embraer ERJ 700","N128SY","Skywest Airlines","USA","USA","","Accident","",true,true,true,"","E135",,true,2,"Jet",true,"[""AMAN""]","MED",2017
+"""2017-12-18T00:00:00.000Z""","","Minneapolis","B737","N714SY","Sun Country",,"USA","","Accident","",true,true,"","","B737",false,true,2,"Jet","","[]","",2017
+"""2017-12-19T00:00:00.000Z""","RUS"," Naryan-Mar Airport (NNM)","Antonov TVS-2MS","RA-01460","Naryan-Mar Air Enterprise","","RUS","Take-off","Accident",4,true,false,true,"Fatal","AN30",false,true,2,"Turboprop","","[]","LOC-I",2017
+"""2017-12-20T00:00:00.000Z""","","Coolangatta","A320","VH-VQC","Jetstar",,"AUS","","Accident","",true,true,"","","A320",false,true,2,"Jet","","[]","",2017
+"""2017-12-22T00:00:00.000Z""","GBR"," Bristol Airport (BRS)","Embraer EMB-145EP (ERJ-145EP)","G-CKAG","bmi regional","GBR","GBR","Landing","Accident","",true,true,true,"","E50P",false,true,2,"Jet","","[]","RS",2017
+"""2017-12-23T00:00:00.000Z""","","Moscow","B735","VP-BVZ","UTAir",,"BMU","","Accident","",true,true,"","","B735",false,true,2,"Jet","","[]","",2017
+"""2017-12-23T00:00:00.000Z""","GRC","Hamburg","Boeing 737-800","TC-SEO","Sun Express","GRC","TUR","","Accident","",true,true,true,"","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2017
+"""2017-12-23T00:00:00.000Z""","PNG","11,3 km S of Dinangat Village","BN-2A Islander","P2-ISM","North Coast Aviation","","PNG","En route","Accident",1,true,false,false,"Fatal","BN2T",false,true,2,"Turboprop","","[]","LOC-I",2017
+"""2017-12-23T00:00:00.000Z""","USA"," between Anchorage and Bethel, AK","Boeing DC-9","N935CE","Everts Air","USA","USA","En route","Accident","",true,true,true,"","B39M",,true,2,"Jet",true,"[""SCF-PP""]","OD",2017
+"""2017-12-27T00:00:00.000Z""","","Lucknow","A333","HZ-AQC","Saudia",,"SAU","","Accident","",true,true,"","","A333",false,true,2,"Jet","","[]","",2017
+"""2017-12-27T00:00:00.000Z""","MLT"," Malta-Luqa Airport (MLA)","Dassault Falcon 7X","VP-BZE","Flying Lion�s Co., Ltd.","","BMU","Standing","Accident",0,true,true,false,"","FA7X",false,true,3,"Jet","","[]","RS",2017
+"""2017-12-27T00:00:00.000Z""","","Miami","A20N","N309FR","Frontier",,"USA","","Accident","",true,true,"","","A20N",false,true,2,"Jet","","[]","",2017
+"""2017-12-27T00:00:00.000Z""","USA"," Michigan City Airport, IN (MGC)","Cessna 525A CitationJet CJ2","N525KT","Integrated Flight Resources Inc., opf. Van E Aviation","","USA","Landing","Accident",0,true,false,false,"","C25A",false,true,2,"Jet","","[]","RS",2017
+"""2017-12-28T00:00:00.000Z""","","Milwaukee","CRJ2","N418SW","Skywest",,"USA","","Accident","",true,true,"","","CRJ2",false,true,2,"Jet","","[]","",2017
+"""2017-12-31T00:00:00.000Z""","CRI","0,6 km N of Punta Islita Airport (PBP)","Cessna 208B Grand Caravan","TI-BEI","Nature Air","","CRI","Initial Climb","Accident",12,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","UNK",2017
