@@ -1,0 +1,747 @@
+"Date","StateOfOccurrence","Location","Model","Registration","Operator","StateOfOperator","StateOfRegistry","FlightPhase","Class","Fatalities","Over2250","Over5700","ScheduledCommercial","InjuryLevel","TypeDesignator","Helicopter","Airplane","Engines","EngineType","Official","OccCats","Risk","Year"
+"""2011-01-01T00:00:00.000Z""","RUS"," Surgut Airport (SGC)","TUPOLEV TU154 B","RA-85588","Kolavia","RUS","RUS","Standing","Accident",3,true,true,true,"Fatal","T154",,true,3,"Jet",true,"[""F-NI""]","F-NI",2011
+"""2011-01-01T00:00:00.000Z""","USA","Albert Lea","MBB BK117","N145SM","","","USA","Approach","Accident",0,true,false,"","None","BK17",true,false,2,"Turboprop","","[]","",2011
+"""2011-01-01T00:00:00.000Z""","USA","Orange","CESSNA 310","N6725X","","","USA","Approach","Accident",1,true,false,"","Fatal","C310",false,true,2,"Piston","","[""USOS""]","RS",2011
+"""2011-01-01T00:00:00.000Z""","USA","Torrance","","N322RV","","","USA","Landing","Accident",0,true,false,"","None","C320",false,true,2,"Piston","","[]","RS",2011
+"""2011-01-02T00:00:00.000Z""","USA","Benton","PIPER PA28","N42997","","","USA","En route","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","TURB",2011
+"""2011-01-02T00:00:00.000Z""","USA","Carlisle","","N876KF","","","USA","Landing","Accident",0,true,false,"","None","P32T",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-02T00:00:00.000Z""","ZAF","Hazyview Aerodrome","BEECH G58","ZS-MRK","","","ZAF","Landing","Accident",0,true,false,"","None","BE58",false,true,2,"Piston","","[""RE""]","RS",2011
+"""2011-01-02T00:00:00.000Z""","USA","Clovis","BELLANCA 1419 3","N8516R","","","USA","Landing","Accident",0,false,false,"","None","B14C",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-03T00:00:00.000Z""","DEU","","EUROCOPTER EC135","D-HDEC","","","DEU","Standing","Accident",0,true,false,"","None","EC35",true,false,2,"Turboprop","","[]","",2011
+"""2011-01-03T00:00:00.000Z""","CAN"," Maple Creek Airport, SK","BEECH 200","C-GSAU","Saskatchewan Gvt.",,"CAN","Landing","Accident",0,true,true,false,"None","BE20",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-01-03T00:00:00.000Z""","USA","Walnut Grove","CESSNA T41","N1416F","United States ","","USA","En route","Accident",1,false,false,"","Fatal","C172",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-03T00:00:00.000Z""","USA"," Los Angeles International Airport, CA (LAX)","BOEING 737","N831NN","American Airlines","USA","USA","Take-off","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-01-03T00:00:00.000Z""","USA","New Stuyahok","BEECH 18","N9001","","","USA","Landing","Accident",0,true,false,false,"None","BE18",false,true,2,"Piston","","[""CTOL""]","OTH",2011
+"""2011-01-03T00:00:00.000Z""","CHN","Kau Lung Hnag Lo Wai, Fan Ling","AEROSPATIALE SA315","B-HJV","","","HKG","Manoeuvring","Accident",0,true,false,"","Minor","LAMA",true,false,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-01-03T00:00:00.000Z""","BRA","Corupa","PIPER PA25","PT-DJS","Brazil ","","BRA","En route","Accident",1,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","LOC-I",2011
+"""2011-01-04T00:00:00.000Z""","USA","Wickenburg","PIPER PA28","N443PA","","","USA","Taxi","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-04T00:00:00.000Z""","USA","Homedale","","N90TY","","","USA","Take-off","Accident",0,true,false,"","None","C17",false,true,4,"Jet","","[]","RS",2011
+"""2011-01-04T00:00:00.000Z""","USA","Platinum","PIPER PA32","N9304K","","","USA","Unknown","Accident",0,false,false,"","Minor","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-05T00:00:00.000Z""","USA","Birmingham","BEECH G58","N48TS","","","USA","Approach","Accident",1,true,false,"","Fatal","BE58",false,true,2,"Piston","","[""UNK""]","UNK",2011
+"""2011-01-05T00:00:00.000Z""","USA","Midlothian","LANCAIR LC41 550FG","N1393T","United States ","","USA","Take-off","Accident",2,false,false,"","Fatal","LNC4",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-05T00:00:00.000Z""","BRA","SDLO, Cairu, State of Bahia","EMBRAER EMB820 C","PT-EHG","","","BRA","Landing","Accident",0,true,false,"","None","PA31",false,true,2,"Piston","","[""ARC""]","RS",2011
+"""2011-01-05T00:00:00.000Z""","USA","Cambridge","","N456KL","","","USA","Approach","Accident",0,true,false,"","Minor","C320",false,true,2,"Piston","","[]","RS",2011
+"""2011-01-06T00:00:00.000Z""","USA","Springfield","LEARJET 35","N800GP","Priester Aviation",,"USA","Landing","Accident",0,true,true,false,"Minor","LJ35",false,true,2,"Jet","","[]","RS",2011
+"""2011-01-06T00:00:00.000Z""","USA","Thomaston","PIPER PA22","N5706D","","","USA","Take-off","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-06T00:00:00.000Z""","USA","Lancaster","PIPER PA28","N929TC","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-06T00:00:00.000Z""","USA","Chester","BEECH 35","N5866S","United States ","","USA","Approach","Accident",2,false,false,"","Fatal","BE35",false,true,1,"Piston","","[]","CFIT",2011
+"""2011-01-06T00:00:00.000Z""","USA","Kipnuk","CESSNA 208","N715HE","Hageland Aviation Services",,"USA","Landing","Accident",0,true,false,true,"None","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-01-07T00:00:00.000Z""","SAU","","AEROSPATIALE SA365","HZ-MS16","","","SAU","En route","Accident",4,true,false,"","Fatal","ALO3",true,false,1,"Turboprop","","[]","",2011
+"""2011-01-07T00:00:00.000Z""","AUS","Garden Point Aerodrome","CESSNA 404 NO SERIES EXISTS","VH-ANM","","","AUS","Landing","Accident",0,true,false,false,"None","C404",false,true,2,"Piston","","[""LOC-G""]","RS",2011
+"""2011-01-07T00:00:00.000Z""","USA","Elko","MAULE M4","N799ZZ","","","USA","Landing","Accident",0,false,false,"","None","M4",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-07T00:00:00.000Z""","VEN","Cojedes","PARTENAVIA P68 C","YV1303","Venezuela ","","VEN","En route","Accident",5,true,false,"","Fatal","P68",false,true,2,"Piston","","[]","LOC-I",2011
+"""2011-01-09T00:00:00.000Z""","USA","Palm Springs","","N595DY","","","USA","Approach","Accident",0,true,false,"","None","C441",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-01-09T00:00:00.000Z""","USA","Lopez","PIPER PA22","N5850D","","","USA","Take-off","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-09T00:00:00.000Z""","CHL","Santa Juana, Región del Biobío","AIR TRACTOR AT802","EC-IOE","Chile Faasa Chile Servicio Aéreos Ltda",,"ESP","Manoeuvring","Accident",1,true,true,"","Fatal","AT8T",false,true,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-01-09T00:00:00.000Z""","IRN","9.5 m from Orumiyeh a/p","BOEING 727 200","EP-IRP","Iran, Islamic Republic Of Iran National Airlines Corp. (Iran Air)","IRN","IRN","Approach","Accident",78,true,true,true,"Fatal","R721",,true,3,"Jet",true,"[""UNK"",""LOC-I""]","LOC-I",2011
+"""2011-01-09T00:00:00.000Z""","USA","Westcliffe","PIPER PA46","N727MC","United States ","","USA","En route","Accident",2,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","LOC-I",2011
+"""2011-01-09T00:00:00.000Z""","USA","Phoenix","PIPER PA46 500TP","N5365D","",,"USA","Landing","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[""RE"",""LOC-G""]","RS",2011
+"""2011-01-09T00:00:00.000Z""","USA","Lancaster","CESSNA 310","N1755H","",,"USA","Approach","Accident",0,true,false,"","None","C310",false,true,2,"Piston","","[""SCF-NP"",""USOS""]","RS",2011
+"""2011-01-09T00:00:00.000Z""","DOM","","BELL 427","N926MF","","","USA","En route","Accident",0,true,false,"","None","B427",true,false,2,"Turboprop","","[]","",2011
+"""2011-01-10T00:00:00.000Z""","USA","Oakley","ROCKWELL S2R","N4977X","","","USA","Manoeuvring","Accident",1,true,false,"","Fatal","SS2P",false,true,1,"Piston","","[""LALT""]","OTH",2011
+"""2011-01-10T00:00:00.000Z""","USA","Warner Springs","RYAN PT22","N57027","","","USA","Landing","Accident",1,false,false,"","Fatal","PT22",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-10T00:00:00.000Z""","MYS","Kuching Apt","AIRBUS A320","9M-AHH","AirAsia","MYS","MYS","Landing","Accident",0,true,true,true,"None","A320",,true,2,"Jet",true,"[""RE""]","RS",2011
+"""2011-01-10T00:00:00.000Z""","PRT","","AEROSPATIALE AS350 B2","CS-HFP","","","PRT","En route","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-01-11T00:00:00.000Z""","ITA","Guidonia Montecelio","AVIONS ROBIN DR400","I-ITAV","Italy ","","ITA","Take-off","Accident",1,false,false,"","Fatal","DR40",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-12T00:00:00.000Z""","USA","Venice","BEECH 23","N3670Q","","","USA","En route","Accident",0,false,false,"","Serious","BE23",false,true,1,"Piston","","[]","TURB",2011
+"""2011-01-12T00:00:00.000Z""","AUT","near LOWL FL200","AIRBUS A320","OE-LBQ","Austria Austrian Airlines AG","AUT","AUT","En route","Accident",0,true,true,true,"Serious","A320",,true,2,"Jet",true,"[""OTHR""]","OTH",2011
+"""2011-01-12T00:00:00.000Z""","USA","Austin","PIPER PA18 150","N4030Z","","","USA","Take-off","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-13T00:00:00.000Z""","USA","Fullerton","CESSNA 180","N1630C","","","USA","Landing","Accident",0,false,false,"","None","C180",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-13T00:00:00.000Z""","USA","Spanish Fork","DIAMOND DA20 C1","N376DC","","","USA","Landing","Accident",0,false,false,"","None","DA40",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-14T00:00:00.000Z""","USA","Pompano Beach","DIAMOND DA20 A1","N840DF","","","USA","Take-off","Accident",0,false,false,"","None","DA40",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-14T00:00:00.000Z""","USA","Alexandria","","N4306P","","","USA","Landing","Accident",0,false,false,"","Serious","CLA",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-14T00:00:00.000Z""","CAN","Atlantic Ocean","BOEING 767 300","C-GHLQ","",,"CAN","En route","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""UNK""]","UNK",2011
+"""2011-01-14T00:00:00.000Z""","JAM","Ocho Rios","BELL 206 B","6Y-JCA","","","JAM","Approach","Accident",0,true,false,"","None","XV15",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-01-14T00:00:00.000Z""","BRA","Senador Canedo, State of Goiás","BEECH 200","PR-ART","Brazil ",,"BRA","Approach","Accident",6,true,true,false,"Fatal","BE20",false,true,2,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-01-15T00:00:00.000Z""","USA","Three Forks","BELL 206","N78BR","","","USA","Landing","Accident",0,false,false,"","None","P39",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-15T00:00:00.000Z""","USA","Stuart","SCHWEIZER","N21086","","","USA","Standing","Accident",0,false,false,"","None","G164",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-16T00:00:00.000Z""","USA","Clarendon","CESSNA T41","N7262T","","","USA","Approach","Accident",0,false,false,"","Serious","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-16T00:00:00.000Z""","","","BEECH 200","C-FSAT","","","CAN","Landing","Accident",0,true,false,"","None","BE20",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-01-17T00:00:00.000Z""","PER","Cuzco","BELL 212","OB-1767P","",,"PER","Take-off","Accident",0,true,false,false,"None","B212",true,false,2,"Turboprop","","[""LOC-G""]","RS",2011
+"""2011-01-17T00:00:00.000Z""","USA","Charlotte Amalie","CONVAIR 340","N8277Q","Tiger Contract Cargo",,"USA","Take-off","Accident",0,true,true,false,"None","B24",false,true,4,"Piston","","[""RE"",""F-NI""]","RS",2011
+"""2011-01-18T00:00:00.000Z""","AUS","St George Aerodrome, 180° M 15","AIR TRACTOR AT301","VH-ODM","","","AUS","Manoeuvring","Accident",0,true,false,"","","AT3P",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-01-18T00:00:00.000Z""","USA","North Myrtle Beach","CESSNA T41","N2100V","United States ","","USA","Approach","Accident",2,false,false,"","Fatal","C172",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-18T00:00:00.000Z""","USA","Aurora","PIPER PA24","N3TP","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-19T00:00:00.000Z""","PRT","","AIRBUS A330 200","EC-330","","","ESP","Manoeuvring","Accident",0,true,true,"","None","BE20",false,true,2,"Turboprop","","[""MAC""]","OTH",2011
+"""2011-01-19T00:00:00.000Z""","BRA","São José do Rio Preto, SP","BEECH 36","PP-BIL","",,"BRA","Take-off","Accident",0,false,false,"","Serious","BE36",false,true,1,"Piston","","[""UNK""]","UNK",2011
+"""2011-01-19T00:00:00.000Z""","USA","Houston","CESSNA 182 R","N6187S","","","USA","Landing","Accident",0,false,false,"","None","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-19T00:00:00.000Z""","USA","Pekin","PIPER PA28","N5658W","","","USA","Landing","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-19T00:00:00.000Z""","SDN"," Tharjath Airstrip","CESSNA 208","5Y-OER","Airworks",,"KEN","En route","Accident",0,true,false,false,"None","C208",false,true,1,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-01-19T00:00:00.000Z""","","","HUGHES 369","C-FYIP","","","CAN","Landing","Accident",0,true,false,"","None","H500",true,false,1,"Turboprop","","[]","",2011
+"""2011-01-20T00:00:00.000Z""","USA","San Luis Obispo","PIPER PA28","N8608W","","","USA","Approach","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-20T00:00:00.000Z""","LUX","ELLX","DE HAVILLAND DHC8 400","LX-LGA","Luxembourg Luxair S.A.","LUX","LUX","Landing","Accident",0,true,true,true,"Minor","MOSQ",,true,2,"Piston",true,"[""ARC""]","RS",2011
+"""2011-01-20T00:00:00.000Z""","AUS","Bingara (ALA), 126° M 31Km","NZA CRESCO 8600","VH-KPY","",,"AUS","En route","Accident",0,true,false,"","None","CRES",false,true,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-01-20T00:00:00.000Z""","RUS","","AEROSPATIALE AS355","RA-04109","","","RUS","En route","Accident",1,true,false,"","Fatal","AS55",true,false,2,"Turboprop","","[]","",2011
+"""2011-01-20T00:00:00.000Z""","NZL","","BELL 206","ZK-ISF","","","NZL","En route","Accident",0,false,false,"","None","P39",false,true,1,"Piston","","[]","TURB",2011
+"""2011-01-20T00:00:00.000Z""","AUS","Wee Waa (ALA), 035° M 18Km","AIR TRACTOR AT502","VH-ASV","","","AUS","Take-off","Accident",0,true,false,"","None","AT5T",false,true,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-01-21T00:00:00.000Z""","GBR","Heathrow","AIRBUS A319","G-EUPS","United Kingdom British Airways Plc","GBR","GBR","Take-off","Accident",0,true,true,true,"None","A319",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-01-21T00:00:00.000Z""","KOR","Uljin Airport","CESSNA T41","HL1080","Korea, South ","","KOR","En route","Accident",2,false,false,"","Fatal","C172",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-21T00:00:00.000Z""","USA","Santa Ana","PIPER PA28","N47589","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-21T00:00:00.000Z""","KOR","Uljin Airport","CESSNA T41","HL1127","Korea, South ","","KOR","En route","Accident",2,false,false,"","Fatal","C172",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-21T00:00:00.000Z""","USA","Redding","","N48VP","","","USA","Landing","Accident",0,true,false,"","None","P32T",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-21T00:00:00.000Z""","ZAF","","HUGHES 369","ZS-HWX","","","ZAF","En route","Accident",0,true,false,"","Serious","H500",true,false,1,"Turboprop","","[]","",2011
+"""2011-01-21T00:00:00.000Z""","BRA","Rio Branco City, State of Acre","CESSNA 208 B","PR-RMI","Brazil Other","","BRA","Approach","Accident",0,true,false,false,"None","C208",false,true,1,"Turboprop","","[""SCF-PP""]","SCF",2011
+"""2011-01-22T00:00:00.000Z""","USA","Stanwood","CESSNA 206","N142HF","United States ","","USA","Landing","Accident",1,false,false,"","Fatal","T206",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-22T00:00:00.000Z""","USA","McKinney","CESSNA T41","N348ME","","","USA","Take-off","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-22T00:00:00.000Z""","USA","Hayfork","","N4668L","","","USA","En route","Accident",0,true,false,"","Minor","C17",false,true,4,"Jet","","[]","TURB",2011
+"""2011-01-24T00:00:00.000Z""","USA","Jasper","CIRRUS SR22 NO SERIES EXISTS","N1116C","","","USA","Take-off","Accident",0,false,false,"","None","VK3P",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-24T00:00:00.000Z""","USA","Pittsburg","CIRRUS SR22 NO SERIES EXISTS","N690KY","","","USA","Taxi","Accident",0,false,false,"","None","VK3P",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-24T00:00:00.000Z""","USA","Corsicana","AERONCA 7AC","N81800","","","USA","Landing","Accident",0,false,false,"","None","CH7A",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-25T00:00:00.000Z""","USA","Meadview","PIPER PA28","N3751U","","","USA","Standing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-25T00:00:00.000Z""","USA","Prescott","CESSNA 180","N2229C","","","USA","Landing","Accident",0,false,false,"","None","C180",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-25T00:00:00.000Z""","USA","TERLINGUA","","N947RG","","","USA","Take-off","Accident",0,true,false,"","None","ME08",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-26T00:00:00.000Z""","USA","Matador","PIPER PA28","N9478W","","","USA","Take-off","Accident",0,false,false,"","Minor","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-26T00:00:00.000Z""","USA","Helena","CESSNA 180","N9067M","","","USA","Landing","Accident",0,false,false,"","None","C180",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-26T00:00:00.000Z""","USA","Toutle","","N92LW","","","USA","Landing","Accident",0,true,false,"","None","C17",false,true,4,"Jet","","[]","RS",2011
+"""2011-01-27T00:00:00.000Z""","ITA","Isola Fossara, Perugia","CESSNA T41","I-AMCO","","","ITA","En route","Accident",1,false,false,"","Fatal","C172",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-27T00:00:00.000Z""","KEN","Wilson Apt, Nairobi","FOKKER F27 500","5X-FFD","Fly540",,"UGA","Take-off","Accident",0,true,true,false,"None","F27",false,true,2,"Turboprop","","[""SCF-PP"",""RE""]","RS",2011
+"""2011-01-27T00:00:00.000Z""","IDN","","HUGHES 369","PK-IWS","","","IDN","En route","Accident",0,true,false,"","Serious","H500",true,false,1,"Turboprop","","[]","",2011
+"""2011-01-27T00:00:00.000Z""","MEX","","AGUSTA A119","XA-KLA","","","MEX","Landing","Accident",0,true,false,"","None","A119",true,false,1,"Turboprop","","[]","",2011
+"""2011-01-27T00:00:00.000Z""","USA","Cross City","CIRRUS SR22 NO SERIES EXISTS","N8135B","","","USA","En route","Accident",0,false,false,"","None","VK3P",false,true,1,"Piston","","[]","TURB",2011
+"""2011-01-28T00:00:00.000Z""","USA","Shreveport","CESSNA T41","N5929T","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-28T00:00:00.000Z""","USA","Huntsville","PIPER PA24","N8023P","","","USA","En route","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","TURB",2011
+"""2011-01-28T00:00:00.000Z""","BRA","Londrina City, State of Paraná","BEECH G58","PR-BOR","","","BRA","Take-off","Accident",3,true,false,"","Fatal","BE58",false,true,2,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-01-28T00:00:00.000Z""","USA","Buckeye","RANS S6 ES","N8053R","","","USA","En route","Accident",0,false,false,"","Minor","COY2",false,true,1,"Piston","","[]","TURB",2011
+"""2011-01-28T00:00:00.000Z""","BRA","Patrimonio Regina City","BEECH G58","PT-BOR","","","BRA","Take-off","Accident",3,true,false,"","Fatal","BE58",false,true,2,"Piston","","[]","LOC-I",2011
+"""2011-01-29T00:00:00.000Z""","USA","St. Petersburg","CESSNA T41","N6013J","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Furnace Creek","MOONEY M20","N50BJ","","","USA","En route","Accident",1,false,false,"","Fatal","M20P",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-29T00:00:00.000Z""","USA","Burlington","","N602CB","","","USA","Taxi","Accident",0,true,false,"","None","C510",false,true,2,"Jet","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Meeker","CESSNA 182","N7199E","","","USA","Taxi","Accident",0,false,false,"","None","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Burlington","","N200BE","","","USA","Taxi","Accident",0,true,false,"","None","RAV3",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Adrian","CESSNA 182","N3083Q","United States ","","USA","En route","Accident",3,false,false,"","Fatal","C182",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-01-29T00:00:00.000Z""","USA","Cypress","MOONEY M20R","N64FM","","","USA","Landing","Accident",0,false,false,"","Minor","M20P",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Anchorage","","N9015U","","","USA","Taxi","Accident",0,true,false,"","None","P32T",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Wellington","","N15XP","","","USA","Approach","Accident",0,true,false,"","None","C17",false,true,4,"Jet","","[]","RS",2011
+"""2011-01-29T00:00:00.000Z""","USA","Anoka","ROBINSON R22","N7195B","","","USA","Manoeuvring","Accident",0,false,false,"","Serious","R22",true,false,1,"Piston","","[]","",2011
+"""2011-01-29T00:00:00.000Z""","USA","Atlanta","PIPER PA28","N9127F","","","USA","Taxi","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-30T00:00:00.000Z""","USA","Big Bear City","PIPER PA30","N64RJ","","","USA","Take-off","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-01-30T00:00:00.000Z""","USA","Rutherfordton","","N457A","","","USA","Manoeuvring","Accident",0,true,false,"","Serious","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-30T00:00:00.000Z""","USA","Newaygo","ERCOUPE 415","N127G","","","USA","Take-off","Accident",0,false,false,"","None","ERCO",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-30T00:00:00.000Z""","USA","Chesapeake","CESSNA T41","N55212","","","USA","Unknown","Accident",0,false,false,"","Minor","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-30T00:00:00.000Z""","USA","Bennett","CIRRUS SR22 NO SERIES EXISTS","N787CB","","","USA","Approach","Accident",0,false,false,"","Minor","VK3P",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-31T00:00:00.000Z""","ARG","","EUROCOPTER","N245AF","","","USA","En route","Accident",0,true,false,"","None","TIGR",true,false,2,"Turboprop","","[]","",2011
+"""2011-01-31T00:00:00.000Z""","USA","Marana","MCDONNELL DOUGLAS 369 F","N530RL","","","USA","Landing","Accident",1,true,true,"","Fatal","C17",false,true,4,"Jet","","[]","RS",2011
+"""2011-01-31T00:00:00.000Z""","USA","Philadelphia Apt","MCDONNELL DOUGLAS MD90","N919DN","",,"USA","Standing","Accident",0,true,true,true,"None","MD90",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-01-31T00:00:00.000Z""","PYF"," Papeete-Faaa Airport (PPT)","GULFSTREAM GIV","N127DK","Prime Aviation",,"USA","Taxi","Accident",0,true,true,false,"None","GLF2",false,true,2,"Jet","","[""GCOL""]","RS",2011
+"""2011-01-31T00:00:00.000Z""","USA","Glendora","CESSNA T41","N6922A","","","USA","Manoeuvring","Accident",0,false,false,"","Serious","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-01-31T00:00:00.000Z""","BRA","Novo Repartimento","CESSNA 182","PT-KAS","","","BRA","Landing","Accident",2,false,false,"","Fatal","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-01T00:00:00.000Z""","USA","Eastsound","CESSNA 182","N2718R","","","USA","Standing","Accident",0,false,false,"","Serious","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-01T00:00:00.000Z""","USA","","BEECH 200","N39PH","","","USA","Landing","Accident",0,true,false,"","None","BE20",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-02-02T00:00:00.000Z""","USA","Kissimmee","POTEZ AIR FOUGA CM170","N415FM","","","USA","Landing","Accident",2,true,false,"","Fatal","PO60",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-03T00:00:00.000Z""","GBR","Leeds/Bradford Apt","BAE JETSTREAM4100 4100","G-MAJD","",,"GBR","Landing","Accident",0,true,true,true,"None","JS41",,true,2,"Turboprop",true,"[""ARC""]","RS",2011
+"""2011-02-03T00:00:00.000Z""","","","AEROSPATIALE AS350 B2","C-GBGT","","","CAN","Manoeuvring","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-02-03T00:00:00.000Z""","MEX","","AGUSTA A109","XA-TSD","","","MEX","Approach","Accident",0,true,false,"","None","A109",true,false,2,"Turboprop","","[]","",2011
+"""2011-02-03T00:00:00.000Z""","","","BELL 206","C-GITZ","","","CAN","Approach","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-03T00:00:00.000Z""","USA","Ogden","ROBINSON R44","N441TB","","","USA","Manoeuvring","Accident",0,false,false,"","None","R44",true,false,1,"Piston","","[]","",2011
+"""2011-02-03T00:00:00.000Z""","USA","San Luis Obispo","AERONCA","N47503","","","USA","En route","Accident",1,false,false,"","Fatal","CH7A",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-02-04T00:00:00.000Z""","USA","Pheonix, AZ","Bombardier CRJ200","N7264V","",,"USA","Approach","Accident",0,true,true,true,"None","GL5T",,true,2,"Jet",true,"[""F-NI""]","F-NI",2011
+"""2011-02-04T00:00:00.000Z""","USA","Elverta","","N416WC","","","USA","Manoeuvring","Accident",0,true,false,"","Serious","COUR",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-04T00:00:00.000Z""","IRQ","Suliamaniyah a/p","RAYTHEON HAWK 800","OD-SKY","Lebanon ",,"LBN","Take-off","Accident",7,true,true,false,"Fatal","H25B",false,true,2,"Jet","","[""UNK""]","UNK",2011
+"""2011-02-04T00:00:00.000Z""","AUS","Cessnock, Australia","ROBINSON R44","VH-HFH","Australia ","","AUS","Unknown","Accident",2,false,false,"","Fatal","R44",true,false,1,"Piston","","[]","",2011
+"""2011-02-04T00:00:00.000Z""","USA","","RAYTHEON","N990DW","","","USA","En route","Accident",0,true,false,"","None","BE20",false,true,2,"Turboprop","","[]","TURB",2011
+"""2011-02-05T00:00:00.000Z""","AUS","near Bathurst Island Aerodrome","CESSNA 310","VH-XGX","Australia ",,"AUS","Take-off","Accident",1,true,false,"","Fatal","C310",false,true,2,"Piston","","[""OTHR""]","OTH",2011
+"""2011-02-05T00:00:00.000Z""","USA","Minden","PIPER PA28","N2603Y","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-05T00:00:00.000Z""","BRA","Itinga","CESSNA 188","PT-FFG","","","BRA","Manoeuvring","Accident",1,false,false,"","Fatal","C188",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-02-05T00:00:00.000Z""","USA","Bogalusa","PIPER PA34","N80311","","","USA","Landing","Accident",0,false,false,"","Minor","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-05T00:00:00.000Z""","USA","Buttonwillow","SCHWEIZER","N6725K","","","USA","Manoeuvring","Accident",0,true,false,"","None","TEAL",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-06T00:00:00.000Z""","USA","Quartzsite","CESSNA 182","N8859X","","","USA","Take-off","Accident",0,false,false,"","None","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-06T00:00:00.000Z""","USA","West Blocton","","N43341","","","USA","Manoeuvring","Accident",0,true,false,"","Serious","CA6",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-06T00:00:00.000Z""","USA","Van Nuys","BEECH 55","N2074L","","","USA","Standing","Accident",0,true,false,"","Minor","BE55",false,true,2,"Piston","","[]","RS",2011
+"""2011-02-07T00:00:00.000Z""","USA","San Bernardino","BEECH 55","N225DH","","","USA","Approach","Accident",0,true,false,"","Serious","BE55",false,true,2,"Piston","","[]","RS",2011
+"""2011-02-08T00:00:00.000Z""","ZAF","To the East of Plettenberg Bay","PILATUS PC12","ZS-GAA","","","ZAF","Approach","Accident",9,true,false,"","Fatal","PC12",false,true,1,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-02-08T00:00:00.000Z""","USA","Lansing","PIPER PA28","N4643R","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-08T00:00:00.000Z""","AUS","Gove Aerodrome","BEECH G58","VH-ETV","","","AUS","Approach","Accident",0,true,false,"","","BE58",false,true,2,"Piston","","[""SCF-NP""]","SCF",2011
+"""2011-02-09T00:00:00.000Z""","","Mission, British Columbia","CESSNA 150 G","C-FVXY","Canada ","","CAN","Manoeuvring","Accident",2,false,false,"","Fatal","C150",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-02-09T00:00:00.000Z""","USA","Wilsonville","","N238MA","","","USA","Landing","Accident",0,true,false,"","Minor","RAV3",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-09T00:00:00.000Z""","VEN","El Tocuyo","BELL 47G 4A","YV447A","","","VEN","En route","Accident",1,false,false,"","Fatal","B47G",true,false,1,"Piston","","[]","",2011
+"""2011-02-09T00:00:00.000Z""","NZL","Woodbourne","DE HAVILLAND DHC8","ZK-NEQ","New Zealand Air Nelson Ltd","NZL","NZL","Landing","Accident",0,true,true,true,"None","VAMP",,true,1,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-02-09T00:00:00.000Z""","CAN","CYAQ KASABONIKA","RAYTHEON1900","C-FWAX","Wasaya Airways","CAN","CAN","Landing","Accident",0,true,true,true,"Minor","B190",,true,2,"Turboprop",true,"[""RE"",""LOC-G""]","RS",2011
+"""2011-02-09T00:00:00.000Z""","","Mission, British Columbia","CESSNA 150 L","C-GZUB"," ","","CAN","Manoeuvring","Accident",2,false,false,"","Fatal","C150",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-02-10T00:00:00.000Z""","USA","Novato","AERONCA 7AC","N2659E","","","USA","Approach","Accident",0,false,false,"","None","CH7A",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-10T00:00:00.000Z""","USA","Lincoln Park","CESSNA 182","N25HD","","","USA","Approach","Accident",0,false,false,"","Serious","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-10T00:00:00.000Z""","USA","Baltimore","PIPER PA31P 350","N31NW","","","USA","En route","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[]","TURB",2011
+"""2011-02-10T00:00:00.000Z""","AUS","Dalby (ALA), SW M 15Km","AYRES S2R600 R","VH-FJT","","","AUS","Manoeuvring","Accident",0,true,false,"","None","SS2P",false,true,1,"Piston","","[""LALT""]","OTH",2011
+"""2011-02-10T00:00:00.000Z""","IRL","Cork a/p","FAIRCHILDSA227 III","EC-ITP","Spain Flightline, S.l.","ESP","ESP","Landing","Accident",6,true,true,true,"Fatal","SW3",,true,2,"Turboprop",true,"[""LOC-I"",""UNK""]","LOC-I",2011
+"""2011-02-10T00:00:00.000Z""","USA","Baker Lake","CESSNA 170","N9768A","","","USA","Take-off","Accident",0,false,false,"","Minor","C170",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-11T00:00:00.000Z""","IND","Maduri","ATR ATR72 200","VT-KAB","",,"IND","Landing","Accident",0,true,true,true,"None","M200",,true,1,"Piston",true,"[""ARC""]","RS",2011
+"""2011-02-11T00:00:00.000Z""",,"300km west of Honolulu Airport","BOEING 767 300","JA603J","Japan Japan Air Lines","JPN","JPN","En route","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""UNK""]","UNK",2011
+"""2011-02-11T00:00:00.000Z""","CHE","Anniviers/VS","BEECH 55","HB-GDS"," ","","CHE","En route","Accident",5,true,false,"","Fatal","BE55",false,true,2,"Piston","","[""CFIT""]","CFIT",2011
+"""2011-02-11T00:00:00.000Z""","USA","Lago Vista","","N751EW","","","USA","Take-off","Accident",0,true,false,"","Minor","ME08",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-12T00:00:00.000Z""","USA","Springdale","CESSNA 150","N3257J","","","USA","Approach","Accident",0,false,false,"","Minor","C150",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-12T00:00:00.000Z""","USA","","AEROSPATIALE AS350 B2","N127DE","","","USA","Unknown","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-02-12T00:00:00.000Z""","IDN","60km E of Hang Nadim a/p","IPTN NC212","PK-ZAI","Indonesia Sabang Merauke Raya Air Charter Pt",,"IDN","En route","Accident",5,true,true,false,"Fatal","C212",false,true,2,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-02-12T00:00:00.000Z""","USA","Poplar Grove","CESSNA T41","N733TM","","","USA","Take-off","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-12T00:00:00.000Z""","USA","Trenton","CESSNA 150","N6622G","","","USA","En route","Accident",0,false,false,"","None","C150",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-12T00:00:00.000Z""","CHE","Lausanne LSGL","PILATUS PC12","OO-GEE","",,"BEL","Landing","Accident",0,true,false,"","None","PC12",false,true,1,"Turboprop","","[""RE""]","RS",2011
+"""2011-02-12T00:00:00.000Z""","USA","Groveland","","N17AJ","","","USA","Landing","Accident",0,false,false,"","None","CLA",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-12T00:00:00.000Z""","USA","Minneapolis","PIPER PA28","N536PU","","","USA","En route","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","TURB",2011
+"""2011-02-12T00:00:00.000Z""","USA","Bullfrog","","N75752","","","USA","Approach","Accident",1,true,false,"","Fatal","C320",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-02-13T00:00:00.000Z""","USA","Dawsonville","LANCAIR 320","N351E","","","USA","En route","Accident",0,false,false,"","None","LNC2",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-13T00:00:00.000Z""","USA","Lancaster","CESSNA T41","N31FC","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-13T00:00:00.000Z""","HTI","","BAE JETSTREAM3100 3200","HH-ANA","",,"HTI","Landing","Accident",0,true,true,true,"None","JS20",,true,2,"Turboprop",true,"[""ARC"",""RE"",""SCF-NP""]","RS",2011
+"""2011-02-13T00:00:00.000Z""","PNG","","AEROSPATIALE AS350 B2","P2-PHL","","","PNG","En route","Accident",1,true,false,"","Fatal","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-02-14T00:00:00.000Z""","COD","Mont Biega","LET L410 UVPE","9Q-CIF","African Air Services Commuter","CZE","COD","En route","Accident",2,true,true,true,"Fatal","L410",,true,2,"Turboprop",true,"[""CFIT""]","CFIT",2011
+"""2011-02-14T00:00:00.000Z""","USA","Sierra Blanca","BELLANCA 1419","N7655B","","","USA","En route","Accident",0,false,false,"","None","B14C",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-14T00:00:00.000Z""","USA","Danville","PIPER PA28","N2878N","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-14T00:00:00.000Z""","USA","Soda Springs","CHAMPION 8GCBC","N885AC","","","USA","Manoeuvring","Accident",0,false,false,"","Serious","BL8",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-14T00:00:00.000Z""","ZAF","On the runway at Kataza Airstr","AIR TRACTOR AT401","ZS-NLP"," ",,"ZAF","Landing","Accident",0,true,false,"","None","AT3P",false,true,1,"Piston","","[""LOC-G"",""ADRM""]","RS",2011
+"""2011-02-14T00:00:00.000Z""","USA","Anderson","GLOBE","N80741","","","USA","En route","Accident",0,false,false,"","None","GC1",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-14T00:00:00.000Z""","HND"," El Espino","LET L410 UVPE","HR-AUQ","Central American Airways","HND","HND","Approach","Accident",14,true,true,true,"Fatal","L410",,true,2,"Turboprop",true,"[""CFIT""]","CFIT",2011
+"""2011-02-14T00:00:00.000Z""","ECU","Palora","CESSNA 182","HC-CDL","","","ECU","En route","Accident",0,false,false,"","Serious","C182",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-15T00:00:00.000Z""","USA","Des Moines","BEECH 90","N51DN","","","USA","En route","Accident",0,true,false,"","None","BE9L",false,true,2,"Turboprop","","[]","TURB",2011
+"""2011-02-15T00:00:00.000Z""","USA","Hanapepe","AIRBORNE XT912","N29EP","","","USA","Manoeuvring","Accident",2,true,false,"","Fatal","CA12",false,true,1,"Turboprop","","[]","F-NI",2011
+"""2011-02-15T00:00:00.000Z""","USA","Americus","TAYLORCRAFT BC12","N46089","","","USA","En route","Accident",1,true,false,"","Fatal","M7T",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-02-15T00:00:00.000Z""","USA","Daytona Beach","CESSNA T41","N378FA","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-15T00:00:00.000Z""","USA","Wikieup","CESSNA T41","N2561L","","","USA","En route","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-16T00:00:00.000Z""","USA","New Smyrna Beach","CESSNA T41","N6345L","","","USA","En route","Accident",2,false,false,"","Fatal","C172",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-02-16T00:00:00.000Z""","CHE","Grenchen LSZG","CESSNA 525 CITATIONJET","HB-VOV","Swiss Private Aviation",,"CHE","Take-off","Accident",0,true,false,false,"None","C525",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-02-16T00:00:00.000Z""","SAU","Madinah","BOEING 747 300","HZ-AIS","Saudi Arabia Saudi Arabian Airlines","SAU","SAU","Taxi","Accident",0,true,true,true,"Minor","C17",,true,4,"Jet",true,"[""OTHR""]","OTH",2011
+"""2011-02-16T00:00:00.000Z""","USA","Twin Falls","PIPER PA18","N7153Z","","","USA","Landing","Accident",0,false,false,"","Minor","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-17T00:00:00.000Z""","USA","Levelland","CESSNA 182","N325LA","","","USA","Approach","Accident",2,false,false,"","Fatal","C182",false,true,1,"Piston","","[]","CFIT",2011
+"""2011-02-17T00:00:00.000Z""","USA","Jonesborough","CESSNA 150","N7237S","","","USA","Take-off","Accident",0,false,false,"","None","C150",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-17T00:00:00.000Z""","CHE","","AEROSPATIALE AS350 B2","HB-ZHI","","","CHE","Approach","Accident",0,true,false,"","Serious","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-02-17T00:00:00.000Z""","USA","Stetson","","N213","","","USA","En route","Accident",0,true,false,"","Minor","P32T",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-17T00:00:00.000Z""","USA","Urbana","MOONEY M20K","N262CP","","","USA","Landing","Accident",0,false,false,"","Serious","M20T",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-17T00:00:00.000Z""","SDN","Damazin Airport","CESSNA T303 NO SERIES EXISTS","N154DJ","United States Other","","USA","Take-off","Accident",0,true,false,"","None","C303",false,true,2,"Piston","","[""ADRM""]","RS",2011
+"""2011-02-18T00:00:00.000Z""","USA","Casa Grande","REARWIN 8135","NC25545","","","USA","En route","Accident",0,false,false,"","None","CLDS",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-18T00:00:00.000Z""","MEX","Pachuca","LEARJET 24","XB-GHO","Mexico ",,"MEX","Manoeuvring","Accident",2,true,true,false,"Fatal","LJ31",false,true,2,"Jet","","[""LOC-I""]","LOC-I",2011
+"""2011-02-18T00:00:00.000Z""","JPN","Yao Aiaport","SWEARINGEN SA226 AT","JA8828"," ",,"JPN","Landing","Accident",0,true,false,"","None","SW2",false,true,2,"Turboprop","","[""ARC""]","RS",2011
+"""2011-02-18T00:00:00.000Z""","USA","Reading","CESSNA 177","N11625","","","USA","Take-off","Accident",0,false,false,"","None","C177",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-18T00:00:00.000Z""","ITA","Canne della Battaglia","ROBINSON R44","F-GUJB","France ","","FRA","En route","Accident",1,false,false,"","Fatal","R44",true,false,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-02-19T00:00:00.000Z""","USA","Ware Shoals","CESSNA 150","N3022J","","","USA","Manoeuvring","Accident",1,false,false,"","Fatal","C150",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-02-19T00:00:00.000Z""","USA","North Fayston","AIRBUS A320","N706JB","",,"USA","Approach","Accident",0,true,true,true,"Serious","A320",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-02-20T00:00:00.000Z""","USA","Southlake","DOUGLAS DC9 80","N70504","United States American Airlines Inc.",,"USA","","Accident",0,true,true,"","None","DC3",false,true,2,"Piston","","[""GCOL""]","RS",2011
+"""2011-02-20T00:00:00.000Z""","DZA","","BELL 206","7T-WUH","","","DZA","Landing","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-20T00:00:00.000Z""","USA","Southlake","BOEING 737 800","N945AN","United States American Airlines Inc.","USA","USA","Manoeuvring","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-02-20T00:00:00.000Z""","USA","Holdenville","PIPER PA32","N8310L","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-21T00:00:00.000Z""","MMR","Putao","EUROCOPTER EC130","XY-AFH","",,"MMR","En route","Accident",0,true,false,"","None","EC30",true,false,1,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-02-21T00:00:00.000Z""","VEN","","BELL 206","YVO131","","","VEN","Landing","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-21T00:00:00.000Z""","BRA","SBHT - Altamira Aerodrome. PA","ATR ATR72 200","PR-TTI","Brazil Other","BRA","BRA","Landing","Accident",0,true,true,true,"Minor","BE20",,true,2,"Turboprop",true,"[""SCF-NP""]","RS",2011
+"""2011-02-21T00:00:00.000Z""","USA","Prospect Heights","BEECH G58","N12LK","","","USA","Landing","Accident",0,true,false,"","None","BE58",false,true,2,"Piston","","[]","RS",2011
+"""2011-02-21T00:00:00.000Z""","USA","Romeoville","CESSNA 310","N119RS","","","USA","Landing","Accident",0,true,false,"","None","C310",false,true,2,"Piston","","[]","RS",2011
+"""2011-02-22T00:00:00.000Z""","FRA","AD Lyon Saint-Exupéry (69)","AIRBUS A318","F-GUGC","France Air France","FRA","FRA","Standing","Accident",0,true,true,true,"Serious","A318",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-02-22T00:00:00.000Z""","USA","North Bend","PIPER PA31P 350","N9237Y","","","USA","Landing","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-23T00:00:00.000Z""","USA","Sterling","PIPER PA18","N623MP","","","USA","Take-off","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-23T00:00:00.000Z""","USA","Henryetta","HUGHES 369","N112AS","","","USA","Manoeuvring","Accident",0,true,false,"","None","H500",true,false,1,"Turboprop","","[]","",2011
+"""2011-02-23T00:00:00.000Z""","USA","Connersville","CESSNA 421","N3875C","","","USA","Approach","Accident",1,true,false,"","Fatal","C421",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-02-23T00:00:00.000Z""","USA","Clarksville","CESSNA T41","N3740L","","","USA","En route","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-23T00:00:00.000Z""","USA","Nephi","MOONEY M20F","N891X","","","USA","Landing","Accident",0,false,false,"","None","M20P",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-23T00:00:00.000Z""","USA","Riverside","AEROSPATIALE AS350","N965SD","","","USA","Take-off","Accident",0,true,false,"","Minor","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-02-24T00:00:00.000Z""","USA","New York","EMBRAER-ERJ190-100IGW","N957UW","",,"USA","Landing","Accident",0,true,true,true,"Serious","E190",,true,2,"Jet",true,"[""CABIN""]","OTH",2011
+"""2011-02-24T00:00:00.000Z""","USA","Independence","CESSNA 210","N6149B","","","USA","En route","Accident",0,false,false,"","Minor","C210",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-24T00:00:00.000Z""","UKR","","BELL 206","N796M","","","USA","Manoeuvring","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-24T00:00:00.000Z""","ESP","Angustias Ravine, La Palma","PZL SWIDNIK W3","SP-SYA","","","POL","En route","Accident",0,true,false,"","Serious","HPZL",false,true,1,"Piston","","[""UNK""]","UNK",2011
+"""2011-02-24T00:00:00.000Z""","AUS","near Horn Island Aerodrome","ROCKWELL","VH-WZU","",,"AUS","Approach","Accident",0,true,false,"","Unknown","AC11",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-02-24T00:00:00.000Z""","USA","Hannibal","CESSNA 195","N9325A","","","USA","Landing","Accident",0,false,false,"","None","C195",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-24T00:00:00.000Z""","PRT","Lisbon","AIRBUS A320","G-EZTF","United Kingdom Easyjet Airline Company Ltd","GBR","GBR","Approach","Accident",0,true,true,true,"None","A320",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-02-24T00:00:00.000Z""","VEN","","ROCKWELL 690","N29GD","","","USA","Landing","Accident",0,true,false,"","None","AC90",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-02-25T00:00:00.000Z""","USA","Phoenix","PIPER PA28","N910PA","","","USA","En route","Accident",3,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","LOC-I",2011
+"""2011-02-25T00:00:00.000Z""","BRA","Sabaudia City, State of Paraná","EMBRAER EMB820 C","PT-ELY","","","BRA","Take-off","Accident",0,true,false,false,"Minor","PA31",false,true,2,"Piston","","[""SCF-PP""]","SCF",2011
+"""2011-02-26T00:00:00.000Z""","USA","Colusa","HILLER UH12E","N236HA","","","USA","En route","Accident",0,false,false,"","None","UH12",true,false,1,"Piston","","[]","",2011
+"""2011-02-26T00:00:00.000Z""","USA","Burlington","","N646XL","","","USA","Landing","Accident",0,true,false,"","None","C510",false,true,2,"Jet","","[]","RS",2011
+"""2011-02-26T00:00:00.000Z""","USA","Milford","LANCAIR 360","N989TT","","","USA","En route","Accident",1,false,false,"","Fatal","LNC2",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-02-26T00:00:00.000Z""","USA","Vidalia","","NC58785","","","USA","Landing","Accident",0,true,false,"","None","COUR",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-26T00:00:00.000Z""","USA","Fort Pierce","ENSTROM F28","N5689B","","","USA","Take-off","Accident",0,false,false,"","Minor","EN28",true,false,1,"Piston","","[]","",2011
+"""2011-02-26T00:00:00.000Z""","USA","Kingston","BAC 167","N167SM","","","USA","Manoeuvring","Accident",1,true,false,"","Fatal","STRK",false,true,1,"Jet","","[]","RS",2011
+"""2011-02-26T00:00:00.000Z""","USA","Newark","CESSNA 140","N5351C","","","USA","En route","Accident",0,false,false,"","None","C140",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-26T00:00:00.000Z""","FRA","Armentières sur Avre","CESSNA 210","F-GMGF","France Other","","FRA","En route","Accident",2,false,false,"","Fatal","C210",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-02-26T00:00:00.000Z""","USA","Angleton","CESSNA 310","N3816X","","","USA","Approach","Accident",0,true,false,"","Serious","C310",false,true,2,"Piston","","[]","RS",2011
+"""2011-02-26T00:00:00.000Z""","USA","Kingsville","GREAT LAKES","N6196L","","","USA","Manoeuvring","Accident",0,false,false,"","None","G2T1",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-27T00:00:00.000Z""","USA","Auburn","CESSNA 182","N3420U","","","USA","En route","Accident",0,false,false,"","Minor","C182",false,true,1,"Piston","","[]","TURB",2011
+"""2011-02-27T00:00:00.000Z""","DMA","Canefield a/p","ROCKWELL","N590DR","",,"USA","Landing","Accident",0,true,false,false,"None","SBR1",false,true,2,"Jet","","[""RE"",""SCF-NP""]","RS",2011
+"""2011-02-27T00:00:00.000Z""","ARE","Al Ain","GRUMMAN G21","N221AG","","","USA","Take-off","Accident",4,true,false,"","Fatal","GLF2",false,true,2,"Jet","","[]","LOC-I",2011
+"""2011-02-27T00:00:00.000Z""","USA","Grass Valley","CESSNA 150","N7951V","","","USA","Landing","Accident",0,false,false,"","None","C150",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-27T00:00:00.000Z""","USA","Naches","BOEING 757 200","N684DA","United States Delta Air Lines, Inc.","USA","USA","Approach","Accident",0,true,true,true,"Serious","ST75",,true,1,"Piston",true,"[""TURB""]","TURB",2011
+"""2011-02-27T00:00:00.000Z""","USA","Brenham","BEECH 35 G35","N437D","","","USA","Landing","Accident",0,false,false,"","None","BE35",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-27T00:00:00.000Z""","BOL"," La Paz-El Alto Airport (LPB)","SWEARINGEN SA226 TC","CP-2473","L�nea A�rea Amaszonas","BOL","BOL","Landing","Accident",0,true,true,true,"None","SW2",,true,2,"Turboprop",true,"[""SCF-NP""]","SCF",2011
+"""2011-02-27T00:00:00.000Z""","USA","Welch","CESSNA T41","N739NY","","","USA","Approach","Accident",0,true,false,"","Serious","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-02-28T00:00:00.000Z""","NZL","Hokio Beach","","ZK-HSP","","","NZL","Landing","Accident",0,true,true,"","Serious","ME08",false,true,1,"Piston","","[""SCF-PP""]","SCF",2011
+"""2011-03-01T00:00:00.000Z""","GTM","Iztapa","BEECH 90","N66TL"," ",,"USA","Take-off","Accident",0,true,false,"","Unknown","BE9L",false,true,2,"Turboprop","","[""LOC-G""]","RS",2011
+"""2011-03-01T00:00:00.000Z""","USA","Windsor Locks","ERJ-145(HARBIN EMBRAER)","N801HK","",,"USA","Standing","Accident",0,true,true,true,"None","E145",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-03-01T00:00:00.000Z""","USA","Tooele","BELL 206","N206BY","","","USA","Manoeuvring","Accident",0,false,false,"","None","P39",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-02T00:00:00.000Z""","ITA","Forlì airport (LIPK)","CESSNA 551 CITATION II","S5-BAX","GIO Business Aviation",,"SVN","Take-off","Accident",0,true,true,false,"None","C551",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-03-02T00:00:00.000Z""","NOR","Oslo Gardermoen a/p","FAIRCHILDSA227 III","OY-NPB","Denmark North Flying A/s","DNK","DNK","Landing","Accident",0,true,true,true,"None","SW3",,true,2,"Turboprop",true,"[""RE""]","RS",2011
+"""2011-03-02T00:00:00.000Z""","USA","Ridgely","","N435SA","","","USA","Landing","Accident",0,true,false,"","None","RAV3",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-02T00:00:00.000Z""","USA","Maysvile","PIPER J3C","N23249","","","USA","Take-off","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-02T00:00:00.000Z""","USA","Birmingham","BELL 206","N154MW","","","USA","Approach","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-02T00:00:00.000Z""","CZE","","EUROCOPTER EC135","OK-BYD","","","CZE","Landing","Accident",0,true,false,"","None","EC35",true,false,2,"Turboprop","","[]","",2011
+"""2011-03-03T00:00:00.000Z""","DEU","Borken","PZL OKECIE PZL106","D-FOAB","","","DEU","Take-off","Accident",0,true,false,false,"None","HPZL",false,true,1,"Piston","","[""SCF-PP""]","SCF",2011
+"""2011-03-03T00:00:00.000Z""","USA","Fayetteville","CESSNA T41","N7067Q","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-04T00:00:00.000Z""","USA","Myrtle Creek","","N4374K","","","USA","Take-off","Accident",0,true,false,"","Serious","COUR",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-04T00:00:00.000Z""","USA","Houston","LEARJET 25","XA-TWH","USMX AirLink",,"MEX","Landing","Accident",0,true,true,false,"None","LJ40",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-03-04T00:00:00.000Z""","GRL","Nuuk","DE HAVILLAND DHC8","TF-JMB","Iceland Flugfelag Islands (Air Iceland)","ISL","ISL","Landing","Accident",0,true,true,true,"None","DH85",,true,1,"Piston",true,"[""RE"",""ARC"",""WSTRW""]","RS",2011
+"""2011-03-04T00:00:00.000Z""","BRB","Grantly Adams a/p","MCDONNELL DOUGLAS","8P-ARB","",,"BRB","Take-off","Accident",0,true,true,"","None","F15",false,true,2,"Jet","","[""OTHR""]","OTH",2011
+"""2011-03-04T00:00:00.000Z""","USA","Carrollton","BEECH 23","N6015F","","","USA","Take-off","Accident",0,false,false,"","None","BE23",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-05T00:00:00.000Z""","USA","Pahrump","CESSNA 210","N9400T","","","USA","Landing","Accident",0,false,false,"","None","C210",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-05T00:00:00.000Z""","BRA","Porto Índio City, MT","BEECH G58","PR-FCR","Brazil Other","","BRA","En route","Accident",0,true,false,"","None","BE58",false,true,2,"Piston","","[""OTHR""]","OTH",2011
+"""2011-03-05T00:00:00.000Z""","USA","Montana Creek","CESSNA T41","N447AF","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-05T00:00:00.000Z""","VCT","Union Island Airport","BEECH 200","YV196T","Wyngs Aviation",,"VEN","Landing","Accident",0,true,true,false,"None","BE20",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-03-06T00:00:00.000Z""","USA","","SIKORSKY S76","N5402T","","","USA","Approach","Accident",0,true,false,"","None","S76",true,false,2,"Turboprop","","[]","",2011
+"""2011-03-06T00:00:00.000Z""","BRA","","AEROSPATIALE AS350 B2","PR-ELO","","","BRA","En route","Accident",0,true,false,"","Serious","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-07T00:00:00.000Z""","USA","Belle Chase","CESSNA 185","N434JG","","","USA","Landing","Accident",0,false,false,"","None","C185",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-07T00:00:00.000Z""","USA","Lockhart","PIPER PA22","N4571Z","","","USA","Unknown","Accident",0,false,false,"","Minor","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-07T00:00:00.000Z""","USA","Newberry Springs","RAND ROBINSON KR2","N122B","","","USA","En route","Accident",1,false,false,"","Fatal","R22",true,false,1,"Piston","","[]","",2011
+"""2011-03-08T00:00:00.000Z""","USA","Pittstown","","N470Q","","","USA","Landing","Accident",0,true,false,"","None","C441",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-03-08T00:00:00.000Z""","CHE","Lausanne LSGL","PIPER PA46 500TP","N747AW","",,"USA","Landing","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[""SCF-NP"",""RE""]","RS",2011
+"""2011-03-08T00:00:00.000Z""","NGA","Bauchi airstrip","HAWKER SIDDELEY HS125 600","5N-BMR","","","NGA","Landing","Accident",0,true,true,"","None","HAWK",false,true,1,"Jet","","[""WILD""]","OTH",2011
+"""2011-03-08T00:00:00.000Z""","USA","Hampton","DE HAVILLAND DHC6","N157KM","Desert Sand Aircraft Leasing",,"USA","Approach","Accident",2,true,false,false,"Fatal","HERN",false,true,4,"Piston","","[]","CFIT",2011
+"""2011-03-08T00:00:00.000Z""","USA","Twin Falls","DOUGLAS","N2088G","","","USA","Unknown","Accident",2,true,true,"","Fatal","DC3",false,true,2,"Piston","","[]","OTH",2011
+"""2011-03-08T00:00:00.000Z""","USA","Meeker","HUGHES 369","N131AL","","","USA","En route","Accident",0,true,false,"","Minor","H500",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-08T00:00:00.000Z""","","","AEROSPATIALE AS350 B2","C-FYKD","","","CAN","Manoeuvring","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-08T00:00:00.000Z""","GBR","","AEROSPATIALE SA341","HA-LFB","","","HUN","En route","Accident",1,true,false,"","Fatal","GAZL",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-09T00:00:00.000Z""","AUT","","BELL 412","OE-XYY","","","AUT","Standing","Accident",0,true,false,"","None","B412",true,false,2,"Turboprop","","[]","",2011
+"""2011-03-09T00:00:00.000Z""","USA","Bulverde","ROBINSON R22","N112HE","","","USA","Unknown","Accident",0,false,false,"","","R22",true,false,1,"Piston","","[]","",2011
+"""2011-03-09T00:00:00.000Z""","USA","Blue Grass Apt, Lexington","DASSAULT MYSTERE FALCON20","N116GB","","","USA","Landing","Accident",0,true,true,"","None","FA20",false,true,2,"Jet","","[""SCF-NP""]","SCF",2011
+"""2011-03-10T00:00:00.000Z""","USA","Agoura Hills","PIPER PA28","N75224","","","USA","En route","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","TURB",2011
+"""2011-03-10T00:00:00.000Z""","USA","Seattle","FAIRCHILDSA227 III","N671AV","United States Ameriflight, Inc. (Burbank, Ca)","USA","USA","Landing","Accident",0,true,true,true,"None","SW3",,true,2,"Turboprop",true,"[""ARC"",""RE"",""WSTRW""]","RS",2011
+"""2011-03-10T00:00:00.000Z""","USA","Big Bear City","AERONCA 7AC","N2349E","","","USA","Take-off","Accident",0,false,false,"","None","CH7A",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-10T00:00:00.000Z""","USA","Bakersfield","CESSNA 208","N930FE","","","USA","Taxi","Accident",0,true,false,"","None","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-03-10T00:00:00.000Z""","USA","Pine","CESSNA 180","N9330C","","","USA","Take-off","Accident",0,false,false,"","None","C180",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-11T00:00:00.000Z""","USA","Kissimmee","CESSNA 182","N8033M","","","USA","Landing","Accident",0,false,false,"","Minor","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-11T00:00:00.000Z""","USA","Smyrna","CESSNA 310","N310JR","","","USA","Take-off","Accident",1,true,false,"","Fatal","C310",false,true,2,"Piston","","[]","LOC-I",2011
+"""2011-03-11T00:00:00.000Z""","USA","North Las Vegas","ROBINSON R22","N8360T","","","USA","Manoeuvring","Accident",0,false,false,"","None","R22",true,false,1,"Piston","","[]","",2011
+"""2011-03-11T00:00:00.000Z""","USA","","EUROCOPTER EC130","N130GC","","","USA","Landing","Accident",0,true,false,false,"None","EC30",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-11T00:00:00.000Z""","USA","Arizona","VANS RV6","N650RV","","","USA","En route","Accident",1,false,false,"","Fatal","RV6",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-03-11T00:00:00.000Z""","USA","Swan Lake","AYRES S2R600 T660","N92KM","","","USA","Approach","Accident",0,true,false,"","Minor","SS2P",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-12T00:00:00.000Z""","CAN","Lqaluit","BOMBARDIER BD700 1A11","N818RC","Tri Marine Management Co.",,"USA","Landing","Accident",0,true,true,false,"None","GLEX",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-03-12T00:00:00.000Z""","USA","","ROCKWELL 690","N840SE","","","USA","Landing","Accident",0,true,false,"","None","AC90",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-03-12T00:00:00.000Z""","USA","Waynesburg","CESSNA 182","N65944","","","USA","Landing","Accident",0,false,false,"","None","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-12T00:00:00.000Z""","USA","Brownsville","WACO UPF7","N30136","","","USA","Manoeuvring","Accident",0,false,false,"","Serious","WACF",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-12T00:00:00.000Z""","IDN"," Mulia Airport (LII)","CESSNA 208","PK-MAD","MAF",,"IDN","Landing","Accident",0,true,false,false,"None","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-03-12T00:00:00.000Z""","USA","Oxford","PIPER PA28","N2838D","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-13T00:00:00.000Z""","USA","El Segundo","SIKORSKY S58","N33602","","","USA","Manoeuvring","Accident",0,true,true,"","Serious","S58P",true,false,1,"Piston","","[]","",2011
+"""2011-03-13T00:00:00.000Z""","","","HUGHES 369","C-GIYZ","","","CAN","Approach","Accident",0,true,false,"","None","H500",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-14T00:00:00.000Z""","CHE","Saanen Aerodrome LSGK","ECLIPSE AVIATION 500","N177EA","",,"USA","Landing","Accident",0,true,false,false,"None","EA50",false,true,2,"Jet","","[""RI"",""GCOL""]","RS",2011
+"""2011-03-14T00:00:00.000Z""","USA","Boulder","GLASER DIRKS DG500 TRAINER","N505KK","","","USA","Landing","Accident",0,false,false,"","None","AIGT",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-14T00:00:00.000Z""","USA","New York","CESSNA 414 UNDESIGNATED SERIES","N40NY","","","USA","Landing","Accident",0,true,false,"","None","C14T",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-03-15T00:00:00.000Z""","USA","Alachua","CESSNA 182","N430ML","","","USA","En route","Accident",0,false,false,"","None","C182",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-15T00:00:00.000Z""","RUS","Irutsk","MIL MI8","RA-22350","Russian Federation Tjumenaviatrans","","RUS","Unknown","Accident",0,true,true,"","Fatal","MI8",true,false,2,"Turboprop","","[]","",2011
+"""2011-03-15T00:00:00.000Z""","RUS","Krasnoyarsk","MIL MI8","RA-24436","","","RUS","Unknown","Accident",0,true,true,"","None","MI8",true,false,2,"Turboprop","","[]","",2011
+"""2011-03-15T00:00:00.000Z""","USA","Vero Beach","PIPER PA28","N9212E","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-15T00:00:00.000Z""","USA","Anchorage","CESSNA 140","N81074","","","USA","Landing","Accident",0,false,false,"","None","C140",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-15T00:00:00.000Z""","USA","Chandler","","N602RW","","","USA","Manoeuvring","Accident",0,true,false,"","None","C320",false,true,2,"Piston","","[]","RS",2011
+"""2011-03-15T00:00:00.000Z""","USA","Mesquite","BELLANCA 1413 2","N74291","","","USA","Landing","Accident",0,false,false,"","None","B14C",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-16T00:00:00.000Z""","USA","Long Beach","BEECH 200","N849BM","Carde Equipment Sales",,"USA","Take-off","Accident",5,true,true,false,"Fatal","BE20",false,true,2,"Turboprop","","[]","LOC-I",2011
+"""2011-03-16T00:00:00.000Z""","USA","South St. Paul","PIPER PA22","N2816Z","","","USA","Take-off","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-16T00:00:00.000Z""","USA","","DE HAVILLAND DHC3","N3125N","","","USA","Landing","Accident",0,true,false,false,"None","DH89",false,true,2,"Piston","","[""RE""]","RS",2011
+"""2011-03-16T00:00:00.000Z""","USA","Nenana","CHAMPION 7GCB","N5160X","","","USA","Landing","Accident",0,false,false,"","None","CH7B",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-17T00:00:00.000Z""","USA","Albuquerque","MAULE M4","N4550R","","","USA","Landing","Accident",0,false,false,"","None","M4",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-17T00:00:00.000Z""","USA","Iowa","HILLER UH12","N11CU","","","USA","Landing","Accident",0,true,false,"","None","H12T",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-17T00:00:00.000Z""","USA","Petersburg","ROBINSON R44","N555FP","","","USA","Take-off","Accident",0,false,false,"","None","R44",true,false,1,"Piston","","[]","",2011
+"""2011-03-17T00:00:00.000Z""","USA","Gulf of Mexico","BELL 230","N974RH","","","USA","Landing","Accident",0,true,false,"","None","B230",true,false,2,"Turboprop","","[]","",2011
+"""2011-03-18T00:00:00.000Z""","USA","Austin","TECNAM","N141AG","","","USA","En route","Accident",0,false,false,"","None","ASTO",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-18T00:00:00.000Z""","USA","","LEARJET 60","N64MG","","","USA","Taxi","Accident",0,true,true,"","None","LJ60",false,true,2,"Jet","","[""OTHR""]","OTH",2011
+"""2011-03-19T00:00:00.000Z""","USA","Beluga Lake","PIPER PA18","N3573P","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Lincoln","","N192AB","","","USA","En route","Accident",0,true,false,"","None","C172",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-19T00:00:00.000Z""","USA","Taunton","LUSCOMBE 8","N2790K","","","USA","Taxi","Accident",0,false,false,"","None","L8",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Mesa","CIRRUS SR22 NO SERIES EXISTS","N329SM","","","USA","Landing","Accident",0,false,false,"","None","VK3P",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Whidbey Island","BEECH 35 G35","N4211D","","","USA","En route","Accident",0,false,false,"","None","BE35",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-19T00:00:00.000Z""","USA","Puyallup","CESSNA 206","N6169Z","","","USA","Approach","Accident",0,true,false,"","Minor","C06T",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Arlington","","N11NL","","","USA","","Accident",0,true,false,"","None","P32T",false,true,1,"Piston","","[]","",2011
+"""2011-03-19T00:00:00.000Z""","USA","Vineyard Haven","PIPER PA32","N2027M","","","USA","Approach","Accident",0,false,false,"","Minor","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Garland","CESSNA 150","N714FS","","","USA","En route","Accident",0,false,false,"","Minor","C150",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-19T00:00:00.000Z""","USA","Ocean Springs","PIPER PA28","N7330J","","","USA","Take-off","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Arlington","","N386GX","","","USA","Taxi","Accident",0,true,false,"","None","CA6",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","USA","Hollywood","PIPER PA18","N9692D","","","USA","Manoeuvring","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-03-19T00:00:00.000Z""","ESP","Villastar, Teruel","BELL 407","EC-KTA","Chile Inaer Helicopter Chile S.A.","","ESP","En route","Accident",6,true,false,"","Fatal","B407",true,false,1,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-03-19T00:00:00.000Z""","USA","Butte","CESSNA 310","N4914A","","","USA","Approach","Accident",1,true,false,"","Fatal","C310",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-03-19T00:00:00.000Z""","KOR","Seosan ChungNam","PZL SWIDNIK W3","HL9449","Korea, South ","","KOR","Approach","Accident",1,true,true,"","Fatal","HPZL",false,true,1,"Piston","","[""LALT""]","OTH",2011
+"""2011-03-19T00:00:00.000Z""","USA","Anoka","CESSNA 305","N269TH","","","USA","Landing","Accident",0,false,false,"","None","O1",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-20T00:00:00.000Z""","ITA","Champoluc","BELL 206","I-ETBR"," ","","ITA","Take-off","Accident",0,false,false,"","None","P39",false,true,1,"Piston","","[""LOC-G""]","RS",2011
+"""2011-03-20T00:00:00.000Z""","USA","Maury City","CESSNA 150","N6555S","","","USA","En route","Accident",0,false,false,"","None","C150",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-20T00:00:00.000Z""","USA","Baraboo","CESSNA 150","N4178U","","","USA","En route","Accident",2,false,false,"","Fatal","C150",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-03-20T00:00:00.000Z""","USA","Daggett","CESSNA P210 N","N50MC","","","USA","En route","Accident",3,true,false,"","Fatal","C10T",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-03-20T00:00:00.000Z""","USA","Stockton","CESSNA 182","N9040T","","","USA","Standing","Accident",0,false,false,"","Minor","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-20T00:00:00.000Z""","ITA","Porto S.Stefano (italy)","ROBINSON R44","I-HEHL"," ","","ITA","Landing","Accident",0,false,false,"","None","R44",true,false,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-03-20T00:00:00.000Z""","USA","Mount Pocono","SCHWEIZER","N153HT","","","USA","Manoeuvring","Accident",0,true,false,"","None","SA38",false,true,2,"Piston","","[]","RS",2011
+"""2011-03-20T00:00:00.000Z""","USA","Wellington","GLASFLUGEL H301","N99AE","","","USA","Manoeuvring","Accident",1,true,false,"","Fatal","XV15",false,true,2,"Turboprop","","[]","F-NI",2011
+"""2011-03-21T00:00:00.000Z""","USA","Spanish Fork","CESSNA T41","N739DG","","","USA","Landing","Accident",0,false,false,"","Serious","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-21T00:00:00.000Z""","COG","Pointe-Noire, Mvoumvou","ANTONOV AN12","TN-AGK","Congo Trans-air-congo","COL","COG","Unknown","Accident",23,true,true,true,"Fatal","AN12",,true,4,"Turboprop",true,"[""UNK""]","UNK",2011
+"""2011-03-22T00:00:00.000Z""","USA","Goshen","ROBINSON R22","N259TW","","","USA","En route","Accident",0,false,false,"","None","R22",true,false,1,"Piston","","[]","",2011
+"""2011-03-22T00:00:00.000Z""","VCT","E.T. Joshua Airport","BEECH G58","N515CG"," ","","USA","Landing","Accident",0,true,false,"","None","BE58",false,true,2,"Piston","","[]","RS",2011
+"""2011-03-22T00:00:00.000Z""","USA","Aberdeen","CESSNA 414","N4057C","","","USA","Take-off","Accident",0,true,false,"","None","C414",false,true,2,"Piston","","[]","RS",2011
+"""2011-03-23T00:00:00.000Z""","USA","Albuquerque, NM","AIRBUS A300 600","N173UP","United States United Parcel Service Company, (Louisville, Ky)","USA","USA","Landing","Accident","",true,true,true,"None","A21N",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-03-23T00:00:00.000Z""","USA","Kiowa","","N144LP","","","USA","Landing","Accident",0,false,false,"","Minor","CLA",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-23T00:00:00.000Z""","USA","Sellersburg","DASSAULT FALCON10","N303FZ","Aviation Transport Solutions",,"USA","Landing","Accident",0,true,true,false,"None","FA10",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-03-24T00:00:00.000Z""","USA","GM","BELL 206 L","N32041","","","USA","Take-off","Accident",0,false,false,"","Minor","P39",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-24T00:00:00.000Z""","ITA","Plateau Rosa (italy)","AEROSPATIALE AS350 B3","I-PHAE","","","ITA","","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[""MAC""]","OTH",2011
+"""2011-03-24T00:00:00.000Z""","PNG","","BELL 206","P2-PAR","","","PNG","Approach","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-24T00:00:00.000Z""","ITA","Plateau Rosa (italy)","AEROSPATIALE AS350 B3","I-CAVA","","","ITA","Landing","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[""MAC""]","OTH",2011
+"""2011-03-24T00:00:00.000Z""","CHL","Región del Maule","BELL 205 A","CC-CID","Chile Faasa Chile Servicio Aéreos Ltda",,"CHL","Manoeuvring","Accident",1,true,false,"","Fatal","UH1",true,false,1,"Turboprop","","[]","",2011
+"""2011-03-24T00:00:00.000Z""","USA","Hot Springs","CESSNA 182","N70922","","","USA","En route","Accident",2,false,false,"","Fatal","C182",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-03-24T00:00:00.000Z""","MYS","","BELL 206","9M-KUL","","","MYS","Standing","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-24T00:00:00.000Z""","USA","Ashland","CESSNA 185","N724MT","United States ","","USA","Unknown","Accident",1,false,false,"","Fatal","C185",false,true,1,"Piston","","[]","OTH",2011
+"""2011-03-25T00:00:00.000Z""","USA","Culpepper","HILLER UH12E","N4033P","","","USA","En route","Accident",0,false,false,"","None","UH12",true,false,1,"Piston","","[]","",2011
+"""2011-03-25T00:00:00.000Z""","ITA","Chioggia Sottomarina (VE)","","I-NOLV"," ","","ITA","En route","Accident",0,true,false,"","None","COUR",false,true,1,"Piston","","[""SCF-PP""]","SCF",2011
+"""2011-03-25T00:00:00.000Z""","USA","Elgin","PIPER PA20","N7746K","","","USA","En route","Accident",1,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","LOC-I",2011
+"""2011-03-25T00:00:00.000Z""","USA","Calhoun","","N770VP","","","USA","Take-off","Accident",0,true,false,"","Minor","P32T",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-25T00:00:00.000Z""","USA","St. Petersburg","MOONEY M20","N201ZZ","","","USA","Landing","Accident",0,false,false,"","None","M20P",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-26T00:00:00.000Z""","USA","Hannawana Falls","CESSNA 150","N8830G","","","USA","En route","Accident",0,false,false,"","None","C150",false,true,1,"Piston","","[]","TURB",2011
+"""2011-03-26T00:00:00.000Z""","USA","Palm Coast","YAKOVLEV YAK52","N808TD","","","USA","Manoeuvring","Accident",1,false,false,"","Fatal","YK52",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-03-26T00:00:00.000Z""","USA","Kansas City","EMBRAER EMB145 ER","N931AE","",,"USA","En route","Accident",0,true,true,true,"Serious","E195",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-03-28T00:00:00.000Z""","USA","","CESSNA 425 NO SERIES EXISTS","N410VE","","","USA","Landing","Accident",0,true,false,"","None","C425",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-03-28T00:00:00.000Z""","PRI","Initial climb from San Juan","","N43MH","","","USA","En route","Accident",0,true,true,"","None","C320",false,true,2,"Piston","","[""SCF-NP""]","SCF",2011
+"""2011-03-29T00:00:00.000Z""","CHN"," Manas County, Hui Autonomous Prefecture of Changji","CESSNA 551 CITATION II","B-7026","Zhong Fei General Aviation Co.",,"CHN","En route","Accident",3,true,true,false,"Fatal","C551",false,true,2,"Jet","","[]","LOC-I",2011
+"""2011-03-29T00:00:00.000Z""","USA","Crescent City","","N5842","","","USA","Unknown","Accident",0,true,false,"","None","RAV3",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-29T00:00:00.000Z""","USA","Fredricktown","PIPER PA32","N4085F","United States ","","USA","En route","Accident",3,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","LOC-I",2011
+"""2011-03-29T00:00:00.000Z""","USA","Monroe","PIPER PA46","N619VH","","","USA","Approach","Accident",3,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","CFIT",2011
+"""2011-03-30T00:00:00.000Z""","UKR","near Dibrova, Zhytomyrs'ka region","Antonov An-2R","UR-54873","Mykolayiv-Aero","","UKR","Landing","Accident",0,true,false,false,"","AN70",false,true,4,"Turboprop","","[]","RS",2011
+"""2011-03-30T00:00:00.000Z""","USA","Pikeville","CESSNA 310","N1914G","United States ","","USA","Approach","Accident",2,true,false,"","Fatal","C310",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-03-30T00:00:00.000Z""","USA","Greensboro","BEECH G58","N569JL","United States ","","USA","Approach","Accident",2,true,false,"","Fatal","BE58",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-03-30T00:00:00.000Z""","AUT","Lake Achensee, Achenkirch","BELL 206","OE-BXF","","","AUT","Unknown","Accident",0,false,false,"","Unknown","EBOY",false,true,1,"Piston","","[""UNK""]","UNK",2011
+"""2011-03-30T00:00:00.000Z""","USA","Dayton","BOEING 737 300","N360WA","United States Northern Air Cargo, Inc. (Anchorage, Ak)","","USA","Take-off","Accident",0,true,true,"","None","B37M",false,true,2,"Jet","","[""RAMP""]","RS",2011
+"""2011-03-30T00:00:00.000Z""","AUS","Moree","PIPER PA32","VH-LKI","Australia ","","AUS","Approach","Accident",4,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","CFIT",2011
+"""2011-03-31T00:00:00.000Z""","USA","Winslow","CIRRUS SR22","N957CD","","","USA","Landing","Accident",0,false,false,"","None","VK3P",false,true,1,"Piston","","[]","RS",2011
+"""2011-03-31T00:00:00.000Z""","CAN","Mayo","DE HAVILLAND","C-GMCW","Canada ",,"CAN","En route","Accident",1,true,false,false,"Fatal","DH89",false,true,2,"Piston","","[]","LOC-I",2011
+"""2011-04-01T00:00:00.000Z""","USA","Vega Baja","CESSNA T41","N98FR","","","USA","En route","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","TURB",2011
+"""2011-04-01T00:00:00.000Z""","USA","Columbia","CESSNA 177","C-FFIP","","","CAN","Landing","Accident",0,false,false,"","None","C177",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-01T00:00:00.000Z""","USA","Palouse","CESSNA 188 B","N5851G","","","USA","Manoeuvring","Accident",0,false,false,"","Serious","C188",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-01T00:00:00.000Z""","USA","Cedar City","","N613HH","","","USA","Take-off","Accident",0,true,false,"","Minor","C510",false,true,2,"Jet","","[]","RS",2011
+"""2011-04-01T00:00:00.000Z""","USA","Little Rock","BOMBARDIERCL-600 Regional Jet CRJ-1000","N845AS","",,"USA","Approach","Accident",0,true,true,true,"None","CRJX",,true,2,"Jet",true,"[""BIRD""]","RS",2011
+"""2011-04-01T00:00:00.000Z""","CAN","2 nm E of Saskatoon","CASA C212","C-FDKM","Fugro Aviation Canada",,"CAN","Approach","Accident",1,true,true,false,"Fatal","C212",false,true,2,"Turboprop","","[""SCF-PP""]","SCF",2011
+"""2011-04-01T00:00:00.000Z""","USA","Boulder","GROB G102 ASTIR CS","N633BG","United States ","","USA","En route","Accident",1,true,false,"","Fatal","EGRT",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-04-01T00:00:00.000Z""","USA","Newman","EAGLE DW1","N8812A","","","USA","Manoeuvring","Accident",0,true,false,"","Serious","DW1",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-01T00:00:00.000Z""","USA","Yuma","BOEING 737 300","N632SW","Southwest Airlines","USA","USA","En route","Accident",0,true,true,true,"Minor","B37M",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-04-01T00:00:00.000Z""","USA","Sanford","CESSNA 310","N6781X","","","USA","Landing","Accident",0,true,false,"","None","C310",false,true,2,"Piston","","[]","RS",2011
+"""2011-04-01T00:00:00.000Z""","USA","Greenwood","PIPER PA46","N146DG","","","USA","En route","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","TURB",2011
+"""2011-04-02T00:00:00.000Z""","USA","Manville","PIPER PA38","N2491K","","","USA","Approach","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-04-02T00:00:00.000Z""","USA","Roswell","GULFSTREAM","N652GD","United States Gulfstream Aerospace (Savannah, Ga)",,"USA","Take-off","Accident",4,true,true,false,"Fatal","GA6C",false,true,2,"Jet","","[]","LOC-I",2011
+"""2011-04-02T00:00:00.000Z""","TCA","JAGS McCarney Int a/p","PIPER PA31","N678BY"," ","","USA","Landing","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[""SCF-NP""]","SCF",2011
+"""2011-04-02T00:00:00.000Z""","USA","Factoryville","CESSNA 150","N7225X","","","USA","Approach","Accident",0,false,false,"","None","C150",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-02T00:00:00.000Z""","USA","Wellington","CESSNA 172","N4914V","","","USA","Manoeuvring","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-02T00:00:00.000Z""","USA","Brookfield","","N6313T","","","USA","Landing","Accident",0,true,false,"","None","CA6",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-02T00:00:00.000Z""","ITA","Ravenna","PILATUS PC6","D-FATA"," ","","DEU","Take-off","Accident",0,true,false,"","Serious","PC6P",false,true,1,"Piston","","[""SCF-PP""]","SCF",2011
+"""2011-04-02T00:00:00.000Z""","","Phoenix","CRJ2","N7264V","Mesa",,"USA","","Accident","",true,true,"","","CRJ2",false,true,2,"Jet","","[]","",2011
+"""2011-04-03T00:00:00.000Z""","USA","Chesapeake","LANCAIR 360","N164T","United States ","","USA","Take-off","Accident",2,false,false,"","Fatal","LNC2",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-03T00:00:00.000Z""","USA","Pleasant Grove","RANS S12 XL","N8113N","United States ","","USA","Take-off","Accident",1,false,false,"","Fatal","RS12",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-03T00:00:00.000Z""","USA","Dubuque","EMBRAER EMB135","N377SK","",,"USA","Standing","Accident",0,true,true,true,"None","E145",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-04-03T00:00:00.000Z""","USA","Cherry Valley","PIPER PA28","N355LC","United States ","","USA","En route","Accident",1,false,false,"","Fatal","PA47",false,true,1,"Jet","","[]","LOC-I",2011
+"""2011-04-03T00:00:00.000Z""","USA","Alameda","NORTH AMERICAN NAVION","N91472","United States ","","USA","Take-off","Accident",1,false,false,"","Fatal","NAVI",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-04T00:00:00.000Z""","GBR","Cardiff a/p","BAE ATP","G-MANH","United Kingdom Atlantic Airlines Ltd","","GBR","Landing","Accident",0,true,true,"","None","ATP",false,true,2,"Turboprop","","[""SCF-NP""]","SCF",2011
+"""2011-04-04T00:00:00.000Z""","KOR","JunGok yoenchunGun Gyonggido","KAMOV KA32","HL9400","","","KOR","En route","Accident",2,true,true,"","Fatal","KA27",true,false,2,"Turboprop","","[""CFIT""]","CFIT",2011
+"""2011-04-04T00:00:00.000Z""","USA","Ridgely","PIPER PA28","N7619J","","","USA","Landing","Accident",0,false,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-04-04T00:00:00.000Z""","USA","","RAYTHEON","N531CS","","","USA","Landing","Accident",0,true,false,"","None","HA4T",false,true,2,"Jet","","[]","RS",2011
+"""2011-04-04T00:00:00.000Z""","TUR","Ankara","BOEING 737","VP-BYA","","","BMU","Approach","Accident",0,true,true,"","None","B37M",false,true,2,"Jet","","[""OTHR""]","OTH",2011
+"""2011-04-04T00:00:00.000Z""","COD","Kinshasa/NDjili","BOMBARDIER CL600 2B19 100","4L-GAE","Georgia Global Georgian Airways",,"GEO","Landing","Accident",31,true,true,"","Fatal","CL60",false,true,2,"Jet","","[""LOC-I"",""WSTRW""]","LOC-I",2011
+"""2011-04-05T00:00:00.000Z""","USA","Okeechobee","CESSNA 172","N5284V","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-05T00:00:00.000Z""","USA","Gila Bend","CESSNA 177","N2637V","","","USA","En route","Accident",0,false,false,"","None","C177",false,true,1,"Piston","","[]","TURB",2011
+"""2011-04-05T00:00:00.000Z""","USA","El Centro","","N128CF","","","USA","Take-off","Accident",0,true,false,"","None","ME08",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-06T00:00:00.000Z""","TUR","","EUROCOPTER EC155","TC-HET","","","TUR","En route","Accident",1,true,false,"","Fatal","EC55",true,false,2,"Turboprop","","[]","",2011
+"""2011-04-06T00:00:00.000Z""","USA","Salt Lake City","ROBINSON R22","N268SH","","","USA","Approach","Accident",0,false,false,"","Minor","R22",true,false,1,"Piston","","[]","",2011
+"""2011-04-06T00:00:00.000Z""","USA","Snohomish","CESSNA T41","N492SF","","","USA","Taxi","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-06T00:00:00.000Z""","BRA","Alto Alegre (jungle),  RR","AEROSPATIALE AS355","PT-HNA","",,"BRA","En route","Accident",3,true,false,false,"Fatal","AS55",true,false,2,"Turboprop","","[""CFIT"",""F-POST""]","CFIT",2011
+"""2011-04-06T00:00:00.000Z""","USA","Laramie","AVIAT A1","N28WY","","","USA","Manoeuvring","Accident",1,false,false,"","Fatal","HUSK",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-04-06T00:00:00.000Z""","USA","Torrance","BELL 47G","N9FK","","","USA","Take-off","Accident",0,false,false,"","Minor","B47G",true,false,1,"Piston","","[]","",2011
+"""2011-04-07T00:00:00.000Z""","USA","Monaville","BEECH 36","N24192","","","USA","En route","Accident",0,false,false,"","None","BE36",false,true,1,"Piston","","[]","TURB",2011
+"""2011-04-07T00:00:00.000Z""","BGR","near Blagoevo, Razgrad","ANTONOV AN2","LZ-1098","Bulgaria Air Concorde","","BGR","Manoeuvring","Accident",0,true,false,"","None","AN2",false,true,1,"Piston","","[""LALT""]","OTH",2011
+"""2011-04-07T00:00:00.000Z""","USA","Oklahoma City","PIPER PA32","N31407","","","USA","Take-off","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-04-08T00:00:00.000Z""","USA","Temple Bar","LANCAIR 320","N320BB","","","USA","En route","Accident",0,false,false,"","Minor","LNC2",false,true,1,"Piston","","[]","TURB",2011
+"""2011-04-08T00:00:00.000Z""","BRA","Santo Andre City","BELL 206 B","PT-YMJ"," ","","BRA","En route","Accident",2,false,false,"","Fatal","P63",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-08T00:00:00.000Z""","USA","Eden Prairie","NORTH AMERICAN","N51RF","","","USA","Landing","Accident",0,true,false,"","None","V10",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-04-08T00:00:00.000Z""","BRA","Sapezal Municipality, State of Mato Grosso","AIR TRACTOR AT502 B","PR-FMM","","","BRA","Take-off","Accident",0,true,false,false,"None","AT5T",false,true,1,"Turboprop","","[""RE""]","RS",2011
+"""2011-04-08T00:00:00.000Z""","USA","Othello","CESSNA T41","N423ES","","","USA","Landing","Accident",0,true,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-09T00:00:00.000Z""","USA","Talkeetna","PIPER PA22","N8842D","","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-04-09T00:00:00.000Z""","USA","West Palm Beach","ROCKWELL","N71CC","Sabre 60 Jet",,"USA","Landing","Accident",0,true,true,false,"None","SBR1",false,true,2,"Jet","","[""SCF-NP"",""ARC""]","RS",2011
+"""2011-04-09T00:00:00.000Z""","USA","Camarillo","BEECH 35","N460SR","","","USA","Approach","Accident",0,false,false,"","Serious","BE35",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-09T00:00:00.000Z""","USA","Stow","CESSNA 152","N95469","","","USA","Landing","Accident",0,false,false,"","None","C152",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-10T00:00:00.000Z""","USA","Delta Junction","PIPER PA12","N3613M","","","USA","Approach","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-04-10T00:00:00.000Z""","USA","Biddeford","CESSNA 402","N402RC","","","USA","Approach","Accident",1,true,false,"","Fatal","C402",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-04-10T00:00:00.000Z""","USA","McComb","CESSNA 310","N100TK","","","USA","Approach","Accident",3,true,false,"","Fatal","C310",false,true,2,"Piston","","[]","CFIT",2011
+"""2011-04-10T00:00:00.000Z""","USA","New Castle","LET L33","N286BA","","","USA","Take-off","Accident",1,false,false,"","Fatal","Z37P",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-10T00:00:00.000Z""","USA","Millville","CESSNA T41","N6338F","","","USA","Landing","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-10T00:00:00.000Z""","USA","Troy","CESSNA 182","N1410S","","","USA","Landing","Accident",0,false,false,"","None","C182",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-10T00:00:00.000Z""","USA","Romona","","N611JB","","","USA","Landing","Accident",0,true,false,"","Minor","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-10T00:00:00.000Z""","USA","Cedartown","BEECH 99","N899AE","","","USA","Approach","Accident",0,true,false,"","None","BE99",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-04-10T00:00:00.000Z""","FRA","AD Paris Charles de Gaulle(95)","BOEING 777 300","C-FIVM","Canada Air Canada","CAN","CAN","Taxi","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-04-11T00:00:00.000Z""","USA","JFK Apt, New York","BOMBARDIER-CRJ-700","N641CA","",,"USA","Taxi","Accident",0,true,true,true,"None","GLEX",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-04-11T00:00:00.000Z""","USA","JFK Apt, New York","AIRBUS A380","F-HPJD","France Air France","FRA","FRA","Taxi","Accident",0,true,true,true,"None","A343",,true,4,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-04-11T00:00:00.000Z""","USA","Richmond","PIPER PA31P 350","N3547C","","","USA","Take-off","Accident",0,true,false,"","Serious","PA47",false,true,1,"Jet","","[]","RS",2011
+"""2011-04-11T00:00:00.000Z""","USA","Loxley","PZL MIELEC AN2","N122AN","Vertol Systems Company",,"USA","En route","Accident",0,true,false,false,"None","HPZL",false,true,1,"Piston","","[]","TURB",2011
+"""2011-04-11T00:00:00.000Z""","MYS","Sibu, Malaysia","BELL 206 B","9M-AXH","Malaysia Sabah Air","","MYS","Take-off","Accident",1,false,false,false,"Fatal","EBOY",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-11T00:00:00.000Z""","USA","Chickasha","BEECH 90","N37OU","","","USA","Approach","Accident",0,true,false,"","None","BE9L",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-04-11T00:00:00.000Z""","USA","Pacific Ocean","BOEING 777 200","N766AN","United States American Airlines Inc.","USA","USA","En route","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-04-12T00:00:00.000Z""","USA","Corona","CESSNA 150","N11630","","","USA","Landing","Accident",0,false,false,"","Serious","C150",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-12T00:00:00.000Z""","ETH","","AEROSPATIALE AS350 B2","5Y-EXA","","","KEN","En route","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-04-13T00:00:00.000Z""","USA","","BELL 206 L","N887T","","","USA","Taxi","Accident",0,false,false,"","None","EBOY",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-13T00:00:00.000Z""","VEN","AD Caracas","AIRBUS A330 200","F-GZCB","France Air France","FRA","FRA","Take-off","Accident",0,true,true,true,"None","BE20",,true,2,"Turboprop",true,"[""SCF-NP"",""ARC""]","RS",2011
+"""2011-04-13T00:00:00.000Z""","USA","Furnace Creek Apt","CESSNA 500 CITATION","N308GT","","","USA","Landing","Accident",0,true,true,"","None","C500",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-04-14T00:00:00.000Z""","USA","Winchester","HEINTZ ZENITH","N632DR","","","USA","En route","Accident",0,true,false,"","Minor","CH62",false,true,2,"Piston","","[]","TURB",2011
+"""2011-04-14T00:00:00.000Z""","USA","Linden","BEECH 45","N93013","","","USA","Take-off","Accident",0,false,false,"","None","T34P",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-15T00:00:00.000Z""","ARG","","SWEARINGEN SA226 TC","LV-WTE","","","ARG","En route","Accident",0,true,true,false,"None","SW2",false,true,2,"Turboprop","","[""SCF-NP""]","SCF",2011
+"""2011-04-15T00:00:00.000Z""","CHL","Region de Valparaiso","PIPER PA31T 2","CC-CZC","Chile Linea De Aero Servicios S.A. Lassa",,"CHL","Landing","Accident",0,true,false,false,"Minor","PA47",false,true,1,"Jet","","[""RE"",""LOC-G""]","RS",2011
+"""2011-04-15T00:00:00.000Z""","USA","De Queen","BEECH 55","N3959W","United States ","","USA","Take-off","Accident",1,true,false,"","Fatal","BE55",false,true,2,"Piston","","[]","LOC-I",2011
+"""2011-04-16T00:00:00.000Z""","RUS","Ust-Kamchatka Apt","YAKOVLEV YAK40","RA-88241","Petropavlovsk-Kamchatsky Air Ent.","RUS","RUS","Take-off","Accident",0,true,true,true,"None","YK40",,true,3,"Jet",true,"[""RE""]","RS",2011
+"""2011-04-16T00:00:00.000Z""","KEN","Keekorok","DE HAVILLAND DHC6 300","5Y-SLF","",,"KEN","Take-off","Accident",0,true,false,true,"None","VAMP",false,true,1,"Jet","","[""RE"",""CTOL"",""LOC-G""]","RS",2011
+"""2011-04-16T00:00:00.000Z""","USA","Payson","CESSNA T41","N1835U","","","USA","Landing","Accident",0,false,false,"","Minor","C172",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-16T00:00:00.000Z""","USA","Marana","RANS S12","N107JL","","","USA","En route","Accident",0,false,false,"","None","RS12",false,true,1,"Piston","","[]","TURB",2011
+"""2011-04-16T00:00:00.000Z""","USA","Cheltenham","BOEING 757 200","N200UU","",,"USA","En route","Accident",0,true,true,true,"Serious","ST75",,true,1,"Piston",true,"[""TURB""]","TURB",2011
+"""2011-04-16T00:00:00.000Z""","MSR"," Montserrat-John A. Osborne Airport (MNI)","BN-2A-27 Islander","VP-MNI","FlyMontserrat","","MSR","Landing","Accident",0,true,false,true,"","BN2T",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-04-17T00:00:00.000Z""","DNK","Kastrup a/p","BOEING 777 200","B-2078","China China Cargo Airlines Ltd","CHN","CHN","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-04-19T00:00:00.000Z""","FRA","AD PAris Charles de Gaulle (95","ATR ATR72 200","EI-REJ","Ireland Air Contractors","IRL","IRL","Taxi","Accident",0,true,true,true,"None","M200",,true,1,"Piston",true,"[""F-NI""]","F-NI",2011
+"""2011-04-19T00:00:00.000Z""","BRA","SBBU - Bauru, SP","EMBRAER EMB820 C","PT-LHO","Brazil Other",,"BRA","Landing","Accident",0,true,false,false,"None","PA31",false,true,2,"Piston","","[""RE"",""SCF-NP""]","RS",2011
+"""2011-04-20T00:00:00.000Z""","CHN","","BOMBARDIERCL-600 Regional Jet CRJ-1000","B-3018","",,"CHN","Landing","Accident",0,true,true,true,"None","CRJX",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-04-21T00:00:00.000Z""","BRA","Manaus","EMBRAER EMB810","PT-EFS","Brazil ","","BRA","Take-off","Accident",7,true,false,"","Fatal","PA34",false,true,2,"Piston","","[]","LOC-I",2011
+"""2011-04-21T00:00:00.000Z""","USA","Elk City","WITTMAN W8","N7804C","United States ","","USA","En route","Accident",1,false,false,"","Fatal","TAIL",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-04-22T00:00:00.000Z""","USA","Altavista","CESSNA 210","N3963Y","United States ","","USA","Approach","Accident",1,false,false,"","Fatal","C210",false,true,1,"Piston","","[]","CFIT",2011
+"""2011-04-23T00:00:00.000Z""","USA","Parker","","N143FJ","United States ","","USA","Take-off","Accident",2,true,false,"","Fatal","C441",false,true,2,"Turboprop","","[]","LOC-I",2011
+"""2011-04-24T00:00:00.000Z""","USA","Starke","","N94370","United States ","","USA","Landing","Accident",1,true,false,"","Fatal","C441",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-04-24T00:00:00.000Z""","BGR","near Bogomilovo, Stara Zagora","EXTRA 300","LZ-POK","Bulgaria ","","BGR","Manoeuvring","Accident",0,false,false,"","None","E200",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-25T00:00:00.000Z""","USA","New York","AIRBUS A330 300","N807NW","United States Delta Air Lines, Inc.","USA","USA","Taxi","Accident",0,true,true,true,"Serious","A332",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-04-25T00:00:00.000Z""","AUS","near Middlemount Aerodrome","GRUMMAN G164","VH-KXD","","","AUS","Manoeuvring","Accident",0,true,false,"","None","G64T",false,true,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-04-25T00:00:00.000Z""","CHE","Dättlikon","AGUSTA A109","HB-ZRX","Switzerland Swiss Air Ambulance Ltd Rega","","CHE","Manoeuvring","Accident",0,true,false,"","Serious","A109",true,false,2,"Turboprop","","[""OTHR""]","OTH",2011
+"""2011-04-26T00:00:00.000Z""","ITA","1.3 NM S-SE of Sulmona (AQ)","ROBINSON R22","I-ETEC","Italy Elicompany",,"ITA","En route","Accident",2,false,false,"","Fatal","R22",true,false,1,"Piston","","[""CFIT"",""F-POST"",""LALT""]","CFIT",2011
+"""2011-04-26T00:00:00.000Z""","USA"," El Paso International Airport, TX (ELP)","CESSNA 208","N208TF","Martinaire",,"USA","Standing","Accident",0,true,false,true,"None","C208",false,true,1,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-04-27T00:00:00.000Z""","CHL","","BELL 206 L","CC-PJI","","","CHL","Approach","Accident",0,false,false,"","Serious","P63",false,true,1,"Piston","","[]","RS",2011
+"""2011-04-27T00:00:00.000Z""","JPN","130km south of Hamamatsu City","BOEING 767 300","JA8569","Japan All Nippon Airways","JPN","JPN","En route","Accident",0,true,true,true,"Serious","C17",,true,4,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-04-28T00:00:00.000Z""","RUS"," Moskva-Sheremetyevo Airport (SVO)","EMBRAER EMB145","UR-DNK","Dniproavia","ITA","UKR","Taxi","Accident",0,true,true,true,"None","KC39",,true,2,"Jet",true,"[""LOC-G""]","RS",2011
+"""2011-04-29T00:00:00.000Z""","ITA","Roma Fiumicino Airport (LIRF)","AIRBUS A319","G-EZBO","United Kingdom Easyjet Airline Company Ltd","GBR","GBR","Take-off","Accident",0,true,true,true,"None","A319",,true,2,"Jet",true,"[""ADRM""]","RS",2011
+"""2011-05-04T00:00:00.000Z""","IND"," Lengpui Airport (AJL)","Cessna 208B Grand Caravan","VT-NES","Northeast Shuttles","","IND","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-05-05T00:00:00.000Z""","FRA","Nice","BOEING 737 800","LN-NOS","Norway Norwegian Air Shuttle Asa","NOR","NOR","Standing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-05-05T00:00:00.000Z""","MEX","Gulf of California","HAWKER SIDDELEY HS125 600","N829SE","\tJODA",,"USA","En route","Accident",0,true,true,false,"None","HAWK",false,true,1,"Jet","","[""UNK""]","UNK",2011
+"""2011-05-05T00:00:00.000Z""","KOR","yeongokmyen kangneungsi","AEROSPATIALE AS350 B2","HL9182","Korea, South ",,"KOR","En route","Accident",2,true,false,"","Fatal","AS50",true,false,1,"Turboprop","","[""CFIT"",""F-POST""]","CFIT",2011
+"""2011-05-06T00:00:00.000Z""","USA","","BOEING 737","N12221","","","USA","Taxi","Accident",0,true,true,"","None","B37M",false,true,2,"Jet","","[""SCF-NP""]","SCF",2011
+"""2011-05-07T00:00:00.000Z""","IDN","Kaimana bay","XIAN MA-60","PK-MZK","PT. Merpati Nusantara Airline","IDN","IDN","Approach","Accident",25,true,true,true,"Fatal","JH7",,true,2,"Jet",true,"[""LOC-I""]","LOC-I",2011
+"""2011-05-07T00:00:00.000Z""","ITA","Porlezza (CO) - Italy","SCHLEICHER ASW20L NO SERIES EXISTS","D-1110"," ","","DEU","Landing","Accident",0,false,false,"","None","AS20",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-05-09T00:00:00.000Z""","FRA","AD Auxerre (89)","BEECH 90","F-GFDJ","France Taxi Air Fret",,"FRA","Landing","Accident",0,true,false,"","None","BE9L",false,true,2,"Turboprop","","[""ARC"",""SCF-NP""]","RS",2011
+"""2011-05-09T00:00:00.000Z""","USA","Enroute","AIRBUS A319","N801UA","United States United Air Lines Inc.","USA","USA","En route","Accident",0,true,true,true,"Serious","A319",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-05-10T00:00:00.000Z""","RUS","Vnukovo Apt, Moscow","BOMBARDIER BD700 1A11","OE-IDV","","","AUT","Approach","Accident",0,true,true,"","None","GL5T",false,true,2,"Jet","","[""CTOL""]","OTH",2011
+"""2011-05-10T00:00:00.000Z""","DEU","Near Pforzheim","MD HELICOPTER MD900","D-HBWC","Germany ","","DEU","Manoeuvring","Accident",0,true,false,"","Serious","EXPL",true,false,2,"Turboprop","","[""LOC-I""]","LOC-I",2011
+"""2011-05-10T00:00:00.000Z""","ITA","Trento airport","CESSNA 150","D-EJXR"," ","","DEU","Landing","Accident",0,false,false,"","","C150",false,true,1,"Piston","","[""ARC""]","RS",2011
+"""2011-05-10T00:00:00.000Z""","ITA","Combai di Miane (TV)","SCHWEIZER","I-TOMK"," ","","ITA","Take-off","Accident",0,true,false,"","None","SA38",false,true,2,"Piston","","[""LOC-G""]","RS",2011
+"""2011-05-12T00:00:00.000Z""","GBR","Liverpool John Lennon Airport","BOEING 737 800","EI-DYM","Ireland Ryanair","IRL","IRL","Taxi","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""GCOL"",""RAMP""]","RS",2011
+"""2011-05-12T00:00:00.000Z""","MLT","Midleft side of edge of runway","BEECH 55","N55AE","","","USA","Landing","Accident",0,true,false,"","None","BE55",false,true,2,"Piston","","[]","RS",2011
+"""2011-05-13T00:00:00.000Z""","ITA","BOLZANO AIRPORT (LIPB)","SCHEMPP HIRTH","D-3297","Italy Other","","DEU","Take-off","Accident",0,true,false,"","None","HI27",false,true,1,"Piston","","[""RE""]","RS",2011
+"""2011-05-13T00:00:00.000Z""","AUS","Bankstown Aerodrome","AEROSPATIALE AS350 B3","VH-XXW","",,"AUS","Taxi","Accident",0,true,false,"","Minor","AS50",true,false,1,"Turboprop","","[""OTHR""]","OTH",2011
+"""2011-05-16T00:00:00.000Z""","","Washington","DH8D","N351NG","Colgan",,"USA","","Accident","",true,true,"","","DH8D",false,true,2,"Turboprop","","[]","",2011
+"""2011-05-16T00:00:00.000Z""","SGP","Singapore area","AIRBUS A330 200","B-HLM","",,"HKG","En route","Accident",0,true,true,true,"None","BE20",,true,2,"Turboprop",true,"[""SCF-PP""]","SCF",2011
+"""2011-05-16T00:00:00.000Z""","USA","11 km SW of Atqasuk, AK","Beechcraft B200 Super King Air","N786SR","North Slope Borough","","USA","Approach","Accident",0,true,true,false,"","BE20",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-05-17T00:00:00.000Z""","USA","Denver Apt","RAYTHEON1900","N218YV","",,"USA","Landing","Accident",0,true,true,true,"None","B190",,true,2,"Turboprop",true,"[""SCF-NP""]","SCF",2011
+"""2011-05-17T00:00:00.000Z""","RUS"," Sofiyivka Ipatovsk district, Stavropol region","Antonov An-2R","RA-68122","private","","RUS","Manoeuvring","Accident",0,true,false,false,"","A124",false,true,4,"Jet","","[]","RS",2011
+"""2011-05-18T00:00:00.000Z""","ARG","Cercanías Los Menucos (RN)","SAAB 340","LV-CEJ","Sol Lineas Aereas","ARG","ARG","En route","Accident",22,true,true,true,"Fatal","SF34",,true,2,"Turboprop",true,"[""LOC-I"",""GCOL""]","LOC-I",2011
+"""2011-05-18T00:00:00.000Z""","USA"," Port Hueneme-Point Mugu NAS, CA (NTD)","BOEING 707","N707AR","Omega Air Refueling",,"USA","Take-off","Accident",0,true,true,false,"None","B37M",false,true,2,"Jet","","[]","RS",2011
+"""2011-05-18T00:00:00.000Z""","GBR","Kinson Manor Farm","BEECH 90","N46BM","","","USA","Take-off","Accident",0,true,false,"","None","U21",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-05-20T00:00:00.000Z""","ESP","Los Rodeos Apt","BOEING 767","YL-LCY","",,"LVA","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-05-20T00:00:00.000Z""","VEN","Simon Bolivar Apt","SWEARINGEN SA226 TC","N242DH","","","USA","Landing","Accident",0,true,false,true,"None","SW2",false,true,2,"Turboprop","","[""SCF-NP""]","SCF",2011
+"""2011-05-20T00:00:00.000Z""","FRA","AD Valence (26)","AGUSTA A109","F-GLEE","France Inaer Helicopter France","","FRA","Landing","Accident",0,true,false,"","None","A109",true,false,2,"Turboprop","","[""LOC-I""]","LOC-I",2011
+"""2011-05-23T00:00:00.000Z""","ISR","Ben Gurion a/p","BOEING 777 200","4X-ECD","Israel El Al - Israel Airlines Ltd.","ISR","ISR","Standing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-05-23T00:00:00.000Z""","BRA","Municipality Barra do Vento, Barra do Vento-RR","CESSNA 208 B","PT-OSG","MEGA Linhas A�reas",,"BRA","Take-off","Accident",0,true,false,false,"Serious","C208",false,true,1,"Turboprop","","[""SCF-NP"",""F-POST""]","SCF",2011
+"""2011-05-24T00:00:00.000Z""","BRA","SWUY - Coari, State of AM","EMBRAER EMB110","PT-SHU","",,"BRA","Take-off","Accident",0,true,false,false,"None","E110",false,true,2,"Turboprop","","[""RE"",""SCF-NP""]","RS",2011
+"""2011-05-25T00:00:00.000Z""","ITA","Col. S. Martino (treviso)","HUGHES 269C","I-PAZZ","","","ITA","Take-off","Accident",0,false,false,"","Serious","H269",true,false,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-05-25T00:00:00.000Z""","IND","Parvatiya Colony, Faradabad","PILATUS PC12","VT-ACF","","","IND","En route","Accident",10,true,false,"","Fatal","PC12",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-05-25T00:00:00.000Z""","USA"," Sedona Airport, AZ (SDX)","Embraer EMB-500 Phenom 100","N224MD","JetSuite","","USA","Landing","Accident",0,true,false,false,"","E50P",false,true,2,"Jet","","[]","RS",2011
+"""2011-05-26T00:00:00.000Z""","BEL","On EBBR airfield","BOEING 737 400","SP-LLB","",,"POL","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-05-27T00:00:00.000Z""","USA","Newburgh Apt","GULFSTREAM GV","N749QS","",,"USA","Landing","Accident",0,true,true,"","None","GLF2",false,true,2,"Jet","","[""ARC"",""SCF-NP""]","RS",2011
+"""2011-05-27T00:00:00.000Z""","","80nmNEof Big troutLake Ontario","AEROSPATIALE AS350 B2","C-GSSS","","","CAN","En route","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[]","",2011
+"""2011-05-28T00:00:00.000Z""","USA","128 km NW of Bettles Field, AK","DHC-3T Vazar Turbine Otter","N87AW","Alaska West Air","","USA","Landing","Accident",0,true,false,false,"","TLEG",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-05-28T00:00:00.000Z""","USA","Hartsfield Apt","MCDONNELL DOUGLASMD80 SERIES","N941DL","",,"USA","Landing","Accident",0,true,true,true,"None","DC10",,true,3,"Jet",true,"[""SCF-NP"",""F-POST""]","SCF",2011
+"""2011-05-31T00:00:00.000Z""","USA","Los Angeles","BOEING 757 200","N526UA","United States United Air Lines Inc.","USA","USA","Taxi","Accident",0,true,true,true,"Serious","ST75",,true,1,"Piston",true,"[""RAMP""]","RS",2011
+"""2011-06-01T00:00:00.000Z""","USA"," Nome Airport, AK (OME)","Eclipse 500","N168TT","Private","","USA","Landing","Accident",0,true,false,false,"","EA50",false,true,2,"Jet","","[]","RS",2011
+"""2011-06-03T00:00:00.000Z""","TZA","Melau River Valley","CESSNA 150","5H-MWO"," ","","TZA","En route","Accident",0,false,false,"","Minor","C150",false,true,1,"Piston","","[]","TURB",2011
+"""2011-06-04T00:00:00.000Z""","ITA","Casal Monferrato airport (LILM","PZL SWIDNIK","I-ECOH","","","ITA","Landing","Accident",0,true,false,"","None","HPZL",false,true,1,"Piston","","[""ARC""]","RS",2011
+"""2011-06-04T00:00:00.000Z""","CAN","CYHZ HALIFAX/STANFIELD INTL","CANADAIRREGIONAL JET SERIES 100/200","N8758D","",,"USA","Taxi","Accident",0,true,true,true,"None","CRJ2",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-06-04T00:00:00.000Z""","ITA","ALGHERO AIRPORT (LIEA)","CESSNA 210","D-EADB","Austria Other","","DEU","Landing","Accident",0,false,false,"","None","C210",false,true,1,"Piston","","[""SCF-NP""]","SCF",2011
+"""2011-06-05T00:00:00.000Z""","USA","Florence","Bombardier CRJ-900","N929LR","",,"USA","En route","Accident",0,true,true,true,"Serious","CL30",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-06-05T00:00:00.000Z""","RUS","Vnukovo Apt","BOEING 737","VQ-BQP","",,"BMU","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-06-06T00:00:00.000Z""","USA","Milwaukee Apt","BOMBARDIERCL-600 Regional Jet CRJ-1000","N866AS","Skywest","USA","USA","Landing","Accident","",true,true,true,"None","CRJX",,true,2,"Jet",true,"[""SCF-NP"",""ARC""]","RS",2011
+"""2011-06-06T00:00:00.000Z""","ITA","off-shore St. Maria la Scala","TECNAM P2002 JF","I-LICC","Italy Other","","ITA","Take-off","Accident",1,false,false,"","Fatal","SIRA",false,true,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-06-06T00:00:00.000Z""","ITA","","PZL SWIDNIK","I-ECOA","","","ITA","Manoeuvring","Accident",0,true,false,"","None","HPZL",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-06-06T00:00:00.000Z""","GAB","near Libreville","ANTONOV AN26","TR-LII","Solenta Aviation, opf. DHL Aviation","GAB","GAB","Approach","Accident",0,true,true,true,"None","AN26",,true,2,"Turboprop",true,"[""UNK"",""SCF-PP""]","SCF",2011
+"""2011-06-07T00:00:00.000Z""","AUS","Maroochydore Aerodrome","BEECH G58","VH-WLC","","","AUS","Landing","Accident",0,true,false,"","None","BE58",false,true,2,"Piston","","[""OTHR""]","OTH",2011
+"""2011-06-07T00:00:00.000Z""","ESP","Quincoces de Yuso (Burgos)","BELL 407","EC-IMZ","Spain ","","ESP","En route","Accident",2,true,false,"","Fatal","B407",true,false,1,"Turboprop","","[]","",2011
+"""2011-06-08T00:00:00.000Z""","ITA","Mattinata Foggia","CANADAIR CL215 6B11 415","I-DPCD","","","ITA","Take-off","Accident",0,true,true,"","None","CL2P",false,true,2,"Piston","","[""ARC""]","RS",2011
+"""2011-06-08T00:00:00.000Z""","DEU","Helgoland Airport","BRITTEN NORMAN BN2B 26","D-IOLO","Germany Olt Ostfriesische Lufttransport",,"DEU","Landing","Accident",0,true,false,true,"None","NDIC",false,true,1,"Piston","","[]","RS",2011
+"""2011-06-08T00:00:00.000Z""","ITA","Aquedolci (Messina)","PARTENAVIA P66 B","I-CAMT","Italy Other","","ITA","En route","Accident",0,false,false,"","None","OSCR",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-06-09T00:00:00.000Z""","CAN"," Postville Airport, NF (YSO)","Cessna 208 Caravan I","C-GUYR","Air Labrador","","CAN","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-06-12T00:00:00.000Z""","USA"," Cold Bay Airport, AK (CDB)","Douglas DC-6BF","N600UA","Universal Airlines","","USA","Landing","Accident",0,true,true,false,"","DC87",false,true,4,"Jet","","[]","RS",2011
+"""2011-06-15T00:00:00.000Z""","USA","near Gray, TN","Beechcraft A100 King Air","N15L","Dynamic Avlease","","USA","En route","Accident",0,true,false,false,"","BE20",false,true,2,"Turboprop","","[]","TURB",2011
+"""2011-06-15T00:00:00.000Z""","USA"," Nashville-John C. Tune Airport, TN","Cessna 525A CitationJet CJ2","N129SG","Deer Horn Aviation","","USA","Landing","Accident",0,true,false,false,"","C25A",false,true,2,"Jet","","[]","RS",2011
+"""2011-06-17T00:00:00.000Z""",,"Buttonville","DASSAULT FALCON10","C-GRIS","Skycharter",,"CAN","Landing","Accident",0,true,true,false,"None","FA10",false,true,2,"Jet","","[""RE"",""ARC""]","RS",2011
+"""2011-06-18T00:00:00.000Z""","ESP","Tabuyo del Monte","PZL SWIDNIK W3 AS","SP-SUI","Poland Lpu heliseco Sp. Z O.o.","","POL","Take-off","Accident",0,true,true,"","None","HPZL",false,true,1,"Piston","","[]","RS",2011
+"""2011-06-18T00:00:00.000Z""","ITA","","CESSNA 172 S","OE-KSY","Austria ",,"AUT","En route","Accident",3,false,false,"","Fatal","C172",false,true,1,"Piston","","[""LOC-I"",""TURB""]","LOC-I",2011
+"""2011-06-18T00:00:00.000Z""","DEU","","CANADAIR","9H-XRS","","","MLT","Approach","Accident",0,true,true,"","None","CRJ7",false,true,2,"Jet","","[]","RS",2011
+"""2011-06-19T00:00:00.000Z""","IND","Ladpur, Dehradun","BELL 407","VT-SWA","","","IND","En route","Accident",0,true,false,"","Serious","B407",true,false,1,"Turboprop","","[]","",2011
+"""2011-06-19T00:00:00.000Z""","FRA","","AIRBUS A380","F-WWDD","","","FRA","Taxi","Accident",0,true,true,"","None","C295",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-06-20T00:00:00.000Z""","HUN","Nagyhajmás","KAMOV KA26","HA-MCF","Hungary Kapos Airport Kft.","","HUN","Manoeuvring","Accident",0,true,false,"","Minor","KA26",true,false,2,"Piston","","[]","",2011
+"""2011-06-20T00:00:00.000Z""","RUS","1 km S of Petrozavodsk Airport (PES)","TUPOLEV TU134","RA-65691","RusAir, opf. RusLine","RUS","RUS","Approach","Accident",45,true,true,true,"Fatal","T134",,true,2,"Jet",true,"[""UNK""]","UNK",2011
+"""2011-06-23T00:00:00.000Z""","ITA","Cairo Montenotte (Savona)","CIRRUS SR20 NO SERIES EXISTS","LX-MPR","Luxembourg ","","LUX","Manoeuvring","Accident",3,false,false,"","Fatal","VK3P",false,true,1,"Piston","","[""CFIT""]","CFIT",2011
+"""2011-06-23T00:00:00.000Z""","NPL","Simikot Apt","DORNIER 228","9N-AGQ","","","NPL","Landing","Accident",0,true,true,false,"None","D228",false,true,2,"Turboprop","","[""RE""]","RS",2011
+"""2011-06-24T00:00:00.000Z""","RUS","near Beregovoy, Amur region","Antonov An-2R","RA-40420","Avialesookhrana","","RUS","En route","Accident",0,true,false,true,"","A178",false,true,2,"Jet","","[]","TURB",2011
+"""2011-06-25T00:00:00.000Z""","ITA","Cison di Valmarino (TV)","SCHWEIZER","I-LIAO","Italy ","","ITA","Manoeuvring","Accident",1,true,false,"","Fatal","G64T",false,true,1,"Turboprop","","[""CFIT""]","CFIT",2011
+"""2011-06-25T00:00:00.000Z""","ITA","LIMW Airport","AVIONS ROBIN DR400 180","I-ITAZ","",,"ITA","Landing","Accident",0,false,false,"","Minor","DR40",false,true,1,"Piston","","[""GCOL"",""LOC-G""]","RS",2011
+"""2011-06-25T00:00:00.000Z""","ITA","LIMW Airport","SCHLEICHER ASK21","I-IVWA","",,"ITA","","Accident",0,false,false,"","Minor","AS21",false,true,1,"Piston","","[""LOC-G"",""GCOL""]","RS",2011
+"""2011-06-25T00:00:00.000Z""","ITA","Firenze airport","BEECH 60","N3808Y","Italy Other","","USA","Landing","Accident",0,true,false,"","","B60T",false,true,2,"Turboprop","","[""ARC""]","RS",2011
+"""2011-06-26T00:00:00.000Z""","ITA","Aeroporto Aosta LIMW","SCHEMPP HIRTH JANUS","I-BRAE","","","ITA","Landing","Accident",0,false,false,"","None","JANU",false,true,1,"Piston","","[""RE""]","RS",2011
+"""2011-06-27T00:00:00.000Z""","IND","","AIRBUS A320","VT-KFT","",,"IND","Landing","Accident",0,true,true,true,"None","A320",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-06-28T00:00:00.000Z""","ITA","BRESSO AIRPORT (LIMB)","MUDRY CAP10","I-SIBM","Italy Other","","ITA","Landing","Accident",0,false,false,"","None","CP10",false,true,1,"Piston","","[""ARC""]","RS",2011
+"""2011-06-29T00:00:00.000Z""","ESP","L'Ampolla (Tarragona)","AIR TRACTOR AT802","EC-LBG","Spain Avialsa T-35, S.l.","","ESP","Manoeuvring","Accident",0,true,true,"","None","AT8T",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-06-30T00:00:00.000Z""","DEU","Gransee","SHORT SC7","OE-FDK"," ","","AUT","Landing","Accident",0,true,false,"","","SC7",false,true,2,"Turboprop","","[""ARC""]","RS",2011
+"""2011-07-03T00:00:00.000Z""","ITA","BRESSO AIRPORT (LIMB)","PIPER PA18","I-JESB","Italy Other","","ITA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[""ARC""]","RS",2011
+"""2011-07-04T00:00:00.000Z""","CAN"," Pukatawagan Airport, MB (XPK)","Cessna 208B Grand Caravan","C-FMCB","Missinippi Airways","","CAN","Take-off","Accident",1,true,false,true,"Fatal","C208",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-07-04T00:00:00.000Z""","BHS","MYAB","CESSNA 421","N144PS","United States Other",,"USA","Take-off","Accident",0,true,false,"","None","C421",false,true,2,"Piston","","[""F-POST"",""FUEL"",""LOC-G"",""RE"",""CFIT""]","CFIT",2011
+"""2011-07-05T00:00:00.000Z""","ESP","Madrid Apt","BOEING 747","CP-2603","",,"BOL","Take-off","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-07-05T00:00:00.000Z""","","Rakla","SHORT SC7","C-FUMC","","","CAN","Landing","Accident",0,true,true,false,"None","SC7",false,true,2,"Turboprop","","[""RE""]","RS",2011
+"""2011-07-06T00:00:00.000Z""","AFG","Near Bagram AFB","ILYUSHIN IL76","4K-AZ55","Silk Way","RUS","AZE","Approach","Accident",9,true,true,true,"Fatal","IL76",,true,4,"Jet",true,"[""CFIT""]","CFIT",2011
+"""2011-07-08T00:00:00.000Z""","COG","Kissagani","BOEINGGUPPY-101 727 100","9Q-COP","Congo, The Democratic Republic Of Hewa Bora Airways","ITA","COD","Landing","Accident",87,true,true,true,"Fatal","R722",,true,3,"Jet",true,"[""CFIT""]","CFIT",2011
+"""2011-07-09T00:00:00.000Z""","POL"," Kielce-Masl�w Airport","Antonov An-2TP","SP-AOW","Aeroklub Kielecki","","POL","Take-off","Accident",0,true,false,false,"","AN26",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-07-10T00:00:00.000Z""","JPN","Over Honda Airport","CESSNA 208","JA55DZ"," ",,"JPN","En route","Accident",0,true,false,"","None","C208",false,true,1,"Turboprop","","[""OTHR""]","OTH",2011
+"""2011-07-10T00:00:00.000Z""","NGA"," Benin City Airport (BNI)","British Aerospace BAe-125-700B","5N-BEX","Associated Aviation","","NGA","Landing","Accident",0,true,true,false,"","JS41",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-07-10T00:00:00.000Z""","GBR","Duxford, nahe","","F-AZDP"," ",,"FRA","Manoeuvring","Accident",0,true,true,"","None","C320",false,true,2,"Piston","","[""MAC""]","OTH",2011
+"""2011-07-10T00:00:00.000Z""","GBR","Duxford, nahe","COMMONWEALTH","D-FBBD"," ",,"DEU","Manoeuvring","Accident",0,true,false,"","None","EPIC",false,true,1,"Turboprop","","[""MAC""]","OTH",2011
+"""2011-07-11T00:00:00.000Z""","RUS","In river Ob","ANTONOV AN24","RA-47302","Angara Airlines","RUS","RUS","En route","Accident",6,true,true,true,"Fatal","AN24",,true,2,"Turboprop",true,"[""SCF-PP"",""F-NI""]","F-NI",2011
+"""2011-07-11T00:00:00.000Z""","ESP","Sant Carles de la Rapita","AIR TRACTOR AT802","EC-JLB","Spain Angel Martinez Ridao (Saeta)","","ESP","Manoeuvring","Accident",0,true,true,"","None","AT8T",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-07-11T00:00:00.000Z""","MDV","N 040053 E 73N 040053, E 73225","DE HAVILLAND DHC6 300","8Q-TMD","Trans Maldivian Airways",,"MDV","Landing","Accident",0,true,false,false,"None","VAMP",false,true,1,"Jet","","[]","RS",2011
+"""2011-07-11T00:00:00.000Z""","SWE","stand 9, Stockholm/Skavsta a/p","BOEING 737","EI-DHG","Ireland Ryanair","IRL","IRL","Standing","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""CABIN""]","OTH",2011
+"""2011-07-12T00:00:00.000Z""","TZA","Julius Nyeres Int. A/P","BOEING 737","5Y-KQH","Kenya Kenya Airways Ltd.","KEN","KEN","Taxi","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-07-12T00:00:00.000Z""","USA","Opa Locka","LEARJET 35","N110UN","Robinson Air Crane",,"USA","Landing","Accident",0,true,true,false,"None","LJ35",false,true,2,"Jet","","[""WSTRW""]","OTH",2011
+"""2011-07-13T00:00:00.000Z""","BRA","Recife City, State of PE","LET L410 UVP","PR-NOB","NOAR Linhas A�reas","BRA","BRA","Take-off","Accident",16,true,true,true,"Fatal","L410",,true,2,"Turboprop",true,"[""LOC-I"",""SCF-PP""]","LOC-I",2011
+"""2011-07-14T00:00:00.000Z""","BRA","Ilhéus City, State of Bahia","MITSUBISHI MU2B 60","PT-LHH","","","BRA","Landing","Accident",0,true,false,false,"None","MU2",false,true,2,"Turboprop","","[""SCF-NP""]","SCF",2011
+"""2011-07-14T00:00:00.000Z""","POL","Varsovie (pologne)","ATR ATR72","SP-LFH","Poland Eurolot S.A.","POL","POL","Taxi","Accident",0,true,true,true,"Minor","AT45",,true,2,"Turboprop",true,"[""GCOL""]","RS",2011
+"""2011-07-14T00:00:00.000Z""","USA"," Boston-Logan International Airport, MA (BOS)","BOMBARDIERCL-600 Regional Jet CRJ-1000","N132EV","Atlantic Southeast Airlines - ASA, opf. Delta Connection","USA","USA","Taxi","Accident",0,true,true,true,"None","CRJX",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-07-14T00:00:00.000Z""","NGA"," Port Harcourt Airport (PHC)","Cessna 560XL Citation XLS","5N-BMM","Bristow Helicopters","","NGA","Landing","Accident",0,true,true,false,"","C56X",false,true,2,"Jet","","[]","RS",2011
+"""2011-07-14T00:00:00.000Z""","USA"," Boston-Logan International Airport, MA (BOS)","Boeing 767-332ER (WL)","N185DN","Delta Air Lines","USA","USA","Taxi","Accident",0,true,true,true,"","B37M",false,true,2,"Jet","","[]","RS",2011
+"""2011-07-17T00:00:00.000Z""","IRL","Shannon Airport, Co. Clare","ATR ATR72 200","EI-SLM"," ","BOL","IRL","Landing","Accident",0,true,true,true,"None","BE20",,true,2,"Turboprop",true,"[""ARC""]","RS",2011
+"""2011-07-19T00:00:00.000Z""","RUS","","MIL MI8","RA-22387","","","RUS","En route","Accident",1,true,true,"","Fatal","MI8",true,false,2,"Turboprop","","[]","",2011
+"""2011-07-19T00:00:00.000Z""","AUS","Dirranbandi Aero. WSW 22Km","PZL SWIDNIK","VH-FOZ","Australia ",,"AUS","Manoeuvring","Accident",1,true,false,"","Fatal","HPZL",false,true,1,"Piston","","[""LALT""]","OTH",2011
+"""2011-07-20T00:00:00.000Z""","ITA","Milan Bresso Airport (LIMB)","CESSNA F172","I-CCAW","Italy Other","","ITA","Manoeuvring","Accident",0,false,false,"","None","C172",false,true,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-07-23T00:00:00.000Z""","FRA","AD Paris Charles De Gaulle(95)","BOEING 737 300","G-CELD","",,"GBR","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-07-26T00:00:00.000Z""","ITA","Acqua dei corsari (Palermo)","AEROMERE FALCO F8L NO SERIES EXISTS","I-ANER","Italy Other","","ITA","En route","Accident",0,false,false,"","None","F8L",false,true,1,"Piston","","[""FUEL""]","OTH",2011
+"""2011-07-28T00:00:00.000Z""","KOR","international waters","BOEING 747 400","HL7604","Korea, South Asiana Airlines","KOR","KOR","En route","Accident",2,true,true,true,"Fatal","B37M",,true,2,"Jet",true,"[""F-NI"",""UNK""]","F-NI",2011
+"""2011-07-29T00:00:00.000Z""","EGY","Cairo Apt","BOEING 777","SU-GBP","Egypt Egypt Air","TGO","EGY","Standing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""F-NI""]","F-NI",2011
+"""2011-07-30T00:00:00.000Z""","ESP","LEBL El Prat Airport,Barcelona","BOMBARDIER CL600 2B19","EC-ITU","Spain Air Nostrum, Lineas Aereas Del Mediterraneo, S.A.","ESP","ESP","Landing","Accident",0,true,true,true,"Minor","CL60",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-07-30T00:00:00.000Z""","GUY","Georgetown Apt","BOEING 737","9Y-PBM","Caribbean Airlines","ITA","TTO","Landing","Accident","",true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""RE""]","RS",2011
+"""2011-07-30T00:00:00.000Z""","DEU","Gransee","SHORT SC7","OE-FDK"," ",,"AUT","Landing","Accident",0,true,false,"","None","SC7",false,true,2,"Turboprop","","[""SCF-NP""]","SCF",2011
+"""2011-08-02T00:00:00.000Z""","BRA","Parauapebas Municipality, PA","BEECH 55","PT-JEP","",,"BRA","Take-off","Accident",0,true,false,"","Serious","BE55",false,true,2,"Piston","","[""LOC-G"",""F-POST""]","RS",2011
+"""2011-08-02T00:00:00.000Z""","TUR","","ATR ATR72 200","TC-YAD","",,"TUR","Standing","Accident",0,true,true,true,"None","BE20",,true,2,"Turboprop",true,"[""RAMP""]","RS",2011
+"""2011-08-03T00:00:00.000Z""","IDN","Dua Saudara Mountain, Bitung","BELL 412","PK-FUG","","","IDN","En route","Accident",10,true,false,false,"Fatal","B412",true,false,2,"Turboprop","","[""CFIT""]","CFIT",2011
+"""2011-08-03T00:00:00.000Z""","CAN","Kasba Lake Apt","CONVAIR 580","C-GKFP","Nolinor Aviation",,"CAN","Landing","Accident",0,true,true,false,"None","CVLP",false,true,2,"Piston","","[""SCF-NP""]","SCF",2011
+"""2011-08-05T00:00:00.000Z""","ITA","Cogolo di Pejo (Trento)","AEROSPATIALE AS350 B3","I-AMVZ","Italy ","","ITA","Manoeuvring","Accident",1,true,false,"","Fatal","AS50",true,false,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-08-08T00:00:00.000Z""","RUS","near Blagoveschensk","ANTONOV AN24","RA-46561","IrAero","RUS","RUS","Approach","Accident",0,true,true,true,"None","AN24",,true,2,"Turboprop",true,"[""USOS"",""WSTRW""]","RS",2011
+"""2011-08-09T00:00:00.000Z""","RUS","45 nm from Omsukchan","ANTONOV AN12","RA-11125","KnAAPO, opf. Avis Amur","RUS","RUS","En route","Accident",11,true,true,true,"Fatal","AN12",,true,4,"Turboprop",true,"[""SCF-NP"",""F-NI""]","F-NI",2011
+"""2011-08-10T00:00:00.000Z""","BOL","La Paz Apt","BOEING 737","CP-2653","",,"BOL","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-08-10T00:00:00.000Z""","ITA","Ligari (sondrio)","GROB G103 TWIN ASTIR","I-AVVB","Italy Other","","ITA","En route","Accident",0,false,false,"","Minor","G103",false,true,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-08-14T00:00:00.000Z""","USA","","RAYTHEON","N324AT","","","USA","En route","Accident",2,true,false,"","Fatal","HA4T",false,true,2,"Jet","","[]","LOC-I",2011
+"""2011-08-14T00:00:00.000Z""","ZAF","Mountain in the Legalametsi va","PIAGGIO P166","ZS-NJX","","","ZAF","En route","Accident",13,true,false,"","Fatal","P66P",false,true,2,"Piston","","[""OTHR""]","OTH",2011
+"""2011-08-14T00:00:00.000Z""","ZAF","Mountain in the Legalametsi va","PIAGGIO P166","ZU-MMI","","","ZAF","En route","Accident",13,true,false,"","Fatal","P66P",false,true,2,"Piston","","[""OTHR""]","OTH",2011
+"""2011-08-17T00:00:00.000Z""","ITA","Roccella Valdemone (ME)","AEROSPATIALE AS350 B3","I-LASF","Italy Heliwest",,"ITA","Manoeuvring","Accident",0,true,false,"","None","AS50",true,false,1,"Turboprop","","[""LOC-I"",""LALT""]","LOC-I",2011
+"""2011-08-18T00:00:00.000Z""","FJI","Lakeba, Fiji","BRITTEN NORMAN BN2A","DQ-SSS","","","FJI","Landing","Accident",0,true,false,true,"None","NDIC",false,true,1,"Piston","","[""RE""]","RS",2011
+"""2011-08-18T00:00:00.000Z""","AUS","Moomba Aerodrome, 260° 250Km","AEROSPATIALE AS355 F","VH-NTV","Australia ",,"AUS","En route","Accident",3,true,false,"","Fatal","AS55",true,false,2,"Turboprop","","[""UNK""]","UNK",2011
+"""2011-08-19T00:00:00.000Z""","MNE","Belgrade","PZL SWIDNIK","YU-BND","",,"MKD","Manoeuvring","Accident",0,true,false,"","Minor","HPZL",false,true,1,"Piston","","[""OTHR"",""LALT"",""FUEL""]","OTH",2011
+"""2011-08-20T00:00:00.000Z""",,"Resolute Bay A/p,1.4 km east","BOEING 737 200","C-GNWN","Canada First Air (Bradley Scheduled) Ltd.",,"CAN","Approach","Accident",12,true,true,false,"Fatal","B37M",false,true,2,"Jet","","[""F-POST"",""CTOL""]","OTH",2011
+"""2011-08-20T00:00:00.000Z""","GUY"," Port Kaituma Airport (PKM)","IRMA/BN-2A-7 Islander","8R-GHD","Trans Guyana Airways","","GUY","Landing","Accident",0,true,false,true,"","BN2P",false,true,2,"Piston","","[]","RS",2011
+"""2011-08-20T00:00:00.000Z""","ITA","Serraparenti (MO)","ROLLADEN SCHNEIDER LS4","D-1272"," ","","DEU","Manoeuvring","Accident",0,false,false,"","Serious","KRIC",false,true,1,"Piston","","[""UNK""]","UNK",2011
+"""2011-08-21T00:00:00.000Z""","ITA","Ortona dei marsi (AQ)","","OE-5236"," ","","AUT","En route","Accident",1,true,false,"","Fatal","CA6",false,true,1,"Piston","","[""UNK""]","UNK",2011
+"""2011-08-21T00:00:00.000Z""","KOR","madongri beolkyo chollanamdo","AEROSPATIALE AS350 B2","HL9153","Korea, South ","","KOR","En route","Accident",1,true,false,"","Fatal","AS50",true,false,1,"Turboprop","","[""CFIT""]","CFIT",2011
+"""2011-08-24T00:00:00.000Z""","ITA","Asiago aerodrome","GLASER DIRKS DG300","D-3675","Italy Other","","DEU","Landing","Accident",0,true,false,"","None","OMLA",false,true,1,"Turboprop","","[""USOS""]","RS",2011
+"""2011-08-24T00:00:00.000Z""","MYS"," Lawas Airport (LWY)","DHC-6 Twin Otter 310","9M-MDM","MASwings","","MYS","Landing","Accident",0,true,false,true,"","DHC6",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-08-24T00:00:00.000Z""","BGR","LBPR","","LZ-RSS","Bulgaria ","","BGR","Manoeuvring","Accident",2,false,false,"","Fatal","CLA",false,true,1,"Piston","","[]","F-NI",2011
+"""2011-08-26T00:00:00.000Z""","AUS","Pearce Aerodrome, 002° M 74Km","AIR TRACTOR AT802","VH-NIW","",,"AUS","Manoeuvring","Accident",0,true,true,"","","AT8T",false,true,1,"Turboprop","","[""OTHR""]","OTH",2011
+"""2011-08-26T00:00:00.000Z""","ITA","Anterselva Valley (BZ)","GROB G103 TWIN ASTIR","OE-5653","Austria Other","","AUT","Manoeuvring","Accident",1,false,false,"","Fatal","G103",false,true,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-08-27T00:00:00.000Z""","","St. Ferdinand, Québec","ROBINSON R44","C-GEBY","","","CAN","En route","Accident",4,false,false,"","Fatal","R44",true,false,1,"Piston","","[]","",2011
+"""2011-08-28T00:00:00.000Z""","ITA","Pizzone (isernia)","CESSNA 152","I-EADV","Italy ","","ITA","En route","Accident",1,false,false,"","None","C152",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-08-28T00:00:00.000Z""","AUT","Near LOWZ","DIAMOND HK36","D-KILL","","","DEU","En route","Accident",4,false,false,"","Fatal","DA40",false,true,1,"Piston","","[""MAC""]","OTH",2011
+"""2011-08-28T00:00:00.000Z""","AUT","Near LOWZ","CESSNA 150","D-EEAW","Austria ","","DEU","En route","Accident",4,false,false,"","Fatal","C150",false,true,1,"Piston","","[""MAC""]","OTH",2011
+"""2011-08-28T00:00:00.000Z""","RUS","3,2 km WSW of Neschadinovskaya, Krasnodar region","Antonov An-2R","RA-01105","Aviakompaniya Pilot","","RUS","Manoeuvring","Accident",1,true,false,false,"Fatal","A124",false,true,4,"Jet","","[]","F-NI",2011
+"""2011-08-29T00:00:00.000Z""","BRA","Iguatu City, CE","CESSNA 310","PT-IJH","",,"BRA","Landing","Accident",0,true,false,"","None","C310",false,true,2,"Piston","","[""SCF-NP"",""LOC-G"",""RE""]","RS",2011
+"""2011-08-29T00:00:00.000Z""","","Abram Lake, Ontario","CESSNA TU206 G","N242SA","United States ","","USA","Landing","Accident",1,false,false,"","Fatal","T206",false,true,1,"Piston","","[]","RS",2011
+"""2011-08-29T00:00:00.000Z""","IND","Cochin Intnl","AIRBUS A320","A9C-AG","United Arab Emirates Gulf Air","ARE","BHR","Landing","Accident",0,true,true,true,"Serious","A320",false,true,2,"Jet","","[""RE"",""EVAC""]","RS",2011
+"""2011-08-29T00:00:00.000Z""","ITA","LIRP Pisa airport","BOEING 737 800","EI-DYA","Ireland Ryanair","IRL","IRL","Standing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-09-01T00:00:00.000Z""","USA","Baton Rouge Apt","BOMBARDIERCL-600 Regional Jet CRJ-1000","N875AS","",,"USA","Landing","Accident",0,true,true,true,"None","CRJX",,true,2,"Jet",true,"[""SCF-NP"",""ARC""]","RS",2011
+"""2011-09-02T00:00:00.000Z""","ESP","Fornes-Arenas Del Rey, Granada","AIR TRACTOR AT802","EC-KSY","Spain Agricolas (Saeta)","","ESP","En route","Accident",0,true,true,"","Minor","AT8T",false,true,1,"Turboprop","","[]","TURB",2011
+"""2011-09-02T00:00:00.000Z""","USA","14 km N of Nightmute, AK","Cessna 208B Grand Caravan","N207DR","Grant Aviation","","USA","En route","Accident",1,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-09-02T00:00:00.000Z""","IND","Mumbai Apt","AIRBUS A340 200","TC-JDM","",,"TUR","Landing","Accident",0,true,true,true,"None","BE20",,true,2,"Turboprop",true,"[""LOC-G""]","RS",2011
+"""2011-09-03T00:00:00.000Z""","UKR","Kostyukivka village, Vinnytska","ANTONOV AN2","UR-17739","Unikom-Avia",,"UKR","Manoeuvring","Accident",1,true,false,false,"Fatal","AN2",false,true,1,"Piston","","[""LALT""]","OTH",2011
+"""2011-09-03T00:00:00.000Z""","DEU","Stuttgart","DE HAVILLAND DH89 A","D-ILIT"," ",,"DEU","Standing","Accident",0,true,false,"","None","DH89",false,true,2,"Piston","","[""OTHR""]","OTH",2011
+"""2011-09-03T00:00:00.000Z""","IRN","Mashhad INTL Airport","AIRBUS A300 600","EP-MNT","Iran, Islamic Republic Of Mahan Air","IRN","IRN","Taxi","Accident",0,true,true,true,"Minor","A30B",,true,2,"Jet",true,"[""RE""]","RS",2011
+"""2011-09-04T00:00:00.000Z""","CAN","Ottawa Apt","ERJ-145(HARBIN EMBRAER)","N840HK","Trans States Airlines, opf. United Express","USA","USA","Landing","Accident",0,true,true,true,"None","E145",,true,2,"Jet",true,"[""RE""]","RS",2011
+"""2011-09-06T00:00:00.000Z""","BOL","4.3nm northwest of Trinidad VO","SWEARINGEN SA226 TC","CP-2548","Aerocon","BOL","BOL","Approach","Accident",8,true,true,true,"Fatal","SW2",,true,2,"Turboprop",true,"[""UNK""]","UNK",2011
+"""2011-09-07T00:00:00.000Z""","RUS","Volga River","YAKOVLEV YAK42","RA-42434","YAK Service",,"RUS","En route","Accident",44,true,true,false,"Fatal","YK42",false,true,3,"Jet","","[""UNK"",""F-POST""]","UNK",2011
+"""2011-09-09T00:00:00.000Z""","IDN","Pasema Distric, Papua","CESSNA 208","PK-VVE","Susi Air",,"IDN","En route","Accident",2,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[""LOC-I""]","LOC-I",2011
+"""2011-09-10T00:00:00.000Z""","DEU","Hannover-Stöcken","AEROSPATIALE AS350 B2","D-HFAX","","","DEU","En route","Accident",0,true,false,"","Unknown","AS50",true,false,1,"Turboprop","","[""SCF-PP""]","SCF",2011
+"""2011-09-11T00:00:00.000Z""","AUS","Emerald Aerodrome, 097° M 37Km","AIR TRACTOR","VH-AQB","","","AUS","Take-off","Accident",0,true,true,"","None","AT3T",false,true,1,"Turboprop","","[""BIRD""]","RS",2011
+"""2011-09-12T00:00:00.000Z""","DEU","Berlin-Tegel","BOEING 737","D-ABLB","Germany Air Berlin PLC & Co. Luftverkehrs KG","DEU","DEU","Standing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""RAMP""]","RS",2011
+"""2011-09-12T00:00:00.000Z""","FRA","AD Paris Charles de Gaulle(95)","AIRBUS A321","F-GTAT","France Air France","FRA","FRA","Landing","Accident",0,true,true,true,"None","A321",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-09-13T00:00:00.000Z""","DEU","Bushes, Garden, Hildesheim","PIPER PA60 602P","D-IIWA","Germany Unknown",,"DEU","En route","Accident",1,true,false,"","Fatal","PA47",false,true,1,"Jet","","[""SCF-PP"",""F-POST""]","SCF",2011
+"""2011-09-13T00:00:00.000Z""","BRA","Municipalty Ângulo, State of Paraná","BEECH G58","PP-KST","Brazil Other","","BRA","En route","Accident",3,true,false,false,"Fatal","BE58",false,true,2,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-09-16T00:00:00.000Z""","ECU","Mariscal Sucre Apt","EMBRAER190 / 195 ERJ190","HC-CEZ","TAME Ecuador","ECU","ECU","Landing","Accident",0,true,true,true,"None","E190",,true,2,"Jet",true,"[""RE""]","RS",2011
+"""2011-09-16T00:00:00.000Z""","HND","Utila","LET L410 UVPE","HR-ASZ","",,"HND","Landing","Accident",0,true,true,true,"None","L410",,true,2,"Turboprop",true,"[""WILD""]","RS",2011
+"""2011-09-17T00:00:00.000Z""","VEN"," Valencia-Arturo Michelena International Airport (VLN)","LEARJET 35","N535LC","private",,"USA","Landing","Accident",0,true,true,false,"None","LJ35",false,true,2,"Jet","","[""LOC-I""]","LOC-I",2011
+"""2011-09-19T00:00:00.000Z""","ESP","La Peza(Granada)","BELL AB412","EC-JRY","Spain Fumigacion Aerea Andaluza, S.A. (Faasa)",,"ESP","En route","Accident",3,true,false,"","Fatal","B412",true,false,2,"Turboprop","","[""SCF-NP"",""F-POST""]","SCF",2011
+"""2011-09-20T00:00:00.000Z""","HTI","near Milot","Beechcraft 99A Airliner","HH-APA","SALSA d'Haiti","","HTI","En route","Accident",3,true,false,true,"Fatal","BE99",false,true,2,"Turboprop","","[]","LOC-I",2011
+"""2011-09-22T00:00:00.000Z""","CAN"," Yellowknife, NT","DHC-6 Twin Otter 300","C-GARW","Arctic Sunwest Charters","","CAN","Approach","Accident",2,true,false,false,"Fatal","DHC6",false,true,2,"Turboprop","","[]","CFIT",2011
+"""2011-09-22T00:00:00.000Z""","ITA","Ozzano dell'Emilia","BEECH 35","D-EKSB","Italy Other","","DEU","Landing","Accident",0,false,false,"","None","BE35",false,true,1,"Piston","","[""ARC""]","RS",2011
+"""2011-09-23T00:00:00.000Z""","USA","near Heitman Lake, AK","DHC-3T Texas Turbine Otter","N361TT","Servant Air","","USA","Approach","Accident",1,true,false,false,"Fatal","AS2T",false,true,1,"Turboprop","","[]","CFIT",2011
+"""2011-09-25T00:00:00.000Z""","NPL","Kot Danda Hill","RAYTHEON1900","9N-AEK","Buddha Air","NPL","NPL","Approach","Accident",19,true,true,true,"Fatal","B190",,true,2,"Turboprop",true,"[""CFIT""]","CFIT",2011
+"""2011-09-26T00:00:00.000Z""","VEN","Puerto Ordaz Apt","MCDONNELL DOUGLASDC-9","YV136T","Aeropostal","VEN","VEN","Landing","Accident","",true,true,true,"None","A4",,true,1,"Jet",true,"[""ARC""]","RS",2011
+"""2011-09-29T00:00:00.000Z""","IDN","Bahorok","CASA C212","PK-TLF","Indonesia ","IDN","IDN","Approach","Accident",18,true,true,true,"Fatal","C212",,true,2,"Turboprop",true,"[""UNK""]","UNK",2011
+"""2011-10-01T00:00:00.000Z""","AUS","Bulimba (ALA)","CESSNA 208","VH-WZY","","","AUS","Approach","Accident",0,true,false,false,"None","C208",false,true,1,"Turboprop","","[""CTOL""]","OTH",2011
+"""2011-10-02T00:00:00.000Z""","SDN","Khartoum Apt","FOKKER F27 50","ST-ASD","Sudan Airways","SDN","SDN","Approach","Accident",0,true,true,true,"None","F27",,true,2,"Turboprop",true,"[""SCF-NP"",""ARC""]","RS",2011
+"""2011-10-04T00:00:00.000Z""","CAN"," Utsingi Point, Great Slave Lake, NT","Cessna 208B Grand Caravan","C-GATV","Air Tindi","","CAN","En route","Accident",2,true,false,true,"Fatal","C208",false,true,1,"Turboprop","","[]","LOC-I",2011
+"""2011-10-07T00:00:00.000Z""","DEU","Berlin, südlich","BOEING 737 800","D-ABAG","Germany Air Berlin PLC & Co. Luftverkehrs KG","DEU","DEU","En route","Accident",0,true,true,true,"Serious","B38M",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-10-07T00:00:00.000Z""","BRA","SNJM - Manhuaçu City, MG","CESSNA 551 CITATION II","PT-LJJ","Ag�ncia Mar�tima Universal",,"BRA","Landing","Accident",0,true,true,false,"Minor","C551",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-10-08T00:00:00.000Z""","FRA","Pouzolles (34)","ROCKWELL","F-GRIO","",,"FRA","Manoeuvring","Accident",0,true,false,"","Minor","RC70",false,true,2,"Piston","","[""LALT"",""F-POST""]","OTH",2011
+"""2011-10-09T00:00:00.000Z""","RUS","near Zasovkaya, Krasnodar region","Antonov An-2R","RA-81514","private","","RUS","Manoeuvring","Accident",0,true,false,false,"","A178",false,true,2,"Jet","","[]","RS",2011
+"""2011-10-09T00:00:00.000Z""","FIN","Helsinki","AIRBUS A320","D-AIQB","Germany Deutsche Lufthansa Aktiengesellschaft","DEU","DEU","Approach","Accident",0,true,true,true,"Serious","A320",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-10-10T00:00:00.000Z""","TUR","Antalya Apt","BOEING 737","TC-SKF","Sky Airlines","TUR","TUR","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""SCF-NP""]","SCF",2011
+"""2011-10-10T00:00:00.000Z""","BHS","San Salvador MYSM","","N710XL","United States Other",,"USA","Landing","Accident",0,true,false,"","Minor","C17",false,true,4,"Jet","","[""WSTRW"",""UIMC"",""LOC-G""]","RS",2011
+"""2011-10-12T00:00:00.000Z""","GAB","Port Gentil Apt","EMBRAER EMB120","ZS-PYO","Nationale et Regionale Transport","ZAF","ZAF","Landing","Accident",0,true,true,true,"None","E120",,true,2,"Turboprop",true,"[""RE""]","RS",2011
+"""2011-10-13T00:00:00.000Z""","PNG","33 km south east of Madang","DE HAVILLAND DHC8 100","P2-MCJ","Papua New Guinea Airlines Of Papua New Guinea (Apng)","PNG","PNG","Approach","Accident",28,true,true,true,"Fatal","H25A",,true,2,"Jet",true,"[""GCOL"",""UNK""]","RS",2011
+"""2011-10-14T00:00:00.000Z""","RUS","Novy Urengoy Apt","TUPOLEV TU134","RA-65143","Yamal Airlines","RUS","RUS","Take-off","Accident",0,true,true,true,"None","T134",,true,2,"Jet",true,"[""F-NI"",""SCF-PP""]","F-NI",2011
+"""2011-10-14T00:00:00.000Z""","BWA"," Xakanaka Airstrip","Cessna 208B Grand Caravan","A2-AKD","Moremi Air","","BWA","Initial Climb","Accident",8,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","UNK",2011
+"""2011-10-14T00:00:00.000Z""","IND"," Surat Gujarat Airport (STV)","Cessna 550 Citation II","VT-CLC","Club One Air","","IND","Landing","Accident",0,true,true,false,"","C550",false,true,2,"Jet","","[]","RS",2011
+"""2011-10-17T00:00:00.000Z""","BRA","near Goi�nia-Santa Genoveva Airport, GO (GYN)","Learjet 31A","PR-JJV","Hospitais Associados de Pernambuco","","BRA","En route","Accident",0,true,true,false,"","LJ31",false,true,2,"Jet","","[]","TURB",2011
+"""2011-10-17T00:00:00.000Z""","VNM","10nm east of waypoint KARAN","BOEING 777 300","9V-SYH","Singapore Singapore Airlines Limited","SGP","SGP","En route","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-10-18T00:00:00.000Z""","AUS","Ravensthorpe Aerodrome, E 40Km","GRUMMAN G164 B","VH-HQR","","","AUS","Take-off","Accident",0,true,false,"","None","G164",false,true,1,"Piston","","[""CTOL""]","OTH",2011
+"""2011-10-19T00:00:00.000Z""","IND","","HINDUSTAN","VT-BSH","","","IND","En route","Accident",3,true,false,"","Fatal","HT32",false,true,1,"Piston","","[]","LOC-I",2011
+"""2011-10-19T00:00:00.000Z""","USA","30nm west of Providence","BOEING 767 200","N253AY","",,"USA","En route","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-10-19T00:00:00.000Z""","KOR","N35 12 10.8 E128 46 23.7","BELL 214","HL9131","Korea, South Other","","KOR","En route","Accident",0,true,false,"","Serious","P63",false,true,1,"Piston","","[""LOC-I""]","LOC-I",2011
+"""2011-10-22T00:00:00.000Z""","ITA","Forlì airport","PIPER PA34","N141WR"," ","","USA","Landing","Accident",0,false,false,"","None","PA47",false,true,1,"Jet","","[""ARC""]","RS",2011
+"""2011-10-22T00:00:00.000Z""","ITA","Close to Belluno Airport","CESSNA 206","OO-ESC","Italy Other","","BEL","Take-off","Accident",0,true,false,"","None","C206",false,true,1,"Piston","","[""OTHR""]","OTH",2011
+"""2011-10-25T00:00:00.000Z""","AUS","Bourke Aerodrome","","VH-IXA","","","AUS","Landing","Accident",0,true,false,false,"None","C510",false,true,2,"Jet","","[""OTHR""]","OTH",2011
+"""2011-10-26T00:00:00.000Z""","AUS","near Jabiru (ALA)","CESSNA 310","VH-JNZ","","","AUS","Approach","Accident",0,true,false,false,"None","C310",false,true,2,"Piston","","[""SCF-NP""]","SCF",2011
+"""2011-10-27T00:00:00.000Z""","CAN","0,7 km E of Vancouver International Airport, BC (YVR)","Beechcraft 100 King Air","C-GXRX","Northern Thunderbird Air","","CAN","Approach","Accident",2,true,false,true,"Fatal","BE20",false,true,2,"Turboprop","","[]","CFIT",2011
+"""2011-10-28T00:00:00.000Z""","FRA","AD Toulouse Blagnac (31)","PIPER PA31T","OE-FKG","",,"AUT","Approach","Accident",4,true,false,"","Fatal","PA47",false,true,1,"Jet","","[""LOC-I"",""F-POST""]","LOC-I",2011
+"""2011-10-30T00:00:00.000Z""","TUR","","ILYUSHIN IL76","EX-036","","","KGZ","Taxi","Accident",0,true,true,false,"None","IL76",false,true,4,"Jet","","[""GCOL""]","RS",2011
+"""2011-10-30T00:00:00.000Z""","","Montreal Apt","SWEARINGEN SA226 TC","C-FYWG","","","CAN","Standing","Accident",0,true,false,true,"None","SW2",false,true,2,"Turboprop","","[""GCOL""]","RS",2011
+"""2011-10-31T00:00:00.000Z""","USA","Key West Apt","GULFSTREAM GV","N480JJ","Jimmie Johnson Racing II",,"USA","Landing","Accident",0,true,true,false,"Serious","GLF5",false,true,2,"Jet","","[""RE""]","RS",2011
+"""2011-11-01T00:00:00.000Z""","POL","Warsaw Apt","BOEING 767","SP-LPC","LOT","POL","POL","Landing","Accident","",true,true,true,"None","B37M",,true,2,"Jet",true,"[""SCF-NP"",""ARC""]","RS",2011
+"""2011-11-05T00:00:00.000Z""","USA","Lakeland Apt","CESSNA 551 CITATION II","N990MR","","","USA","Landing","Accident",0,true,true,"","None","C551",false,true,2,"Jet","","[""SCF-NP""]","SCF",2011
+"""2011-11-08T00:00:00.000Z""","USA","Salt Lake City Apt","LEARJET 55","N95WK","",,"USA","Take-off","Accident",0,true,true,"","None","LJ55",false,true,2,"Jet","","[""SCF-NP"",""RE""]","RS",2011
+"""2011-11-09T00:00:00.000Z""","FRA","Décines-Charpieu (69)","SOCATA TBM700","N228CX","",,"USA","Approach","Accident",1,true,false,"","Fatal","TBM7",false,true,1,"Turboprop","","[""LOC-I""]","LOC-I",2011
+"""2011-11-09T00:00:00.000Z""","ITA","Borgo Pietro Lupo, Mineo (CT)","AEROSPATIALE SA365","I-DAMS","Italy Other","","ITA","En route","Accident",1,true,false,"","Fatal","ALO3",true,false,1,"Turboprop","","[""CFIT""]","CFIT",2011
+"""2011-11-10T00:00:00.000Z""","CHE","Cottens/FR","PIPER PA31","HB-LOT"," ","","CHE","Take-off","Accident",1,true,false,"","Fatal","PA47",false,true,1,"Jet","","[""F-POST""]","OTH",2011
+"""2011-11-10T00:00:00.000Z""","USA","near Minneapolis-St. Paul International Airport, MN (MSP)","Airbus A320-211","N331NW","Delta Air Lines","USA","USA","Initial Climb","Accident","",true,true,true,"","A320",false,true,2,"Jet","","[]","UNK",2011
+"""2011-11-10T00:00:00.000Z""","SOM"," Guri'el Airstrip","Fokker 50","5Y-VVK","Blue Bird Aviation","","KEN","Landing","Accident",0,true,true,false,"","F50",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-11-11T00:00:00.000Z""","ITA","Santo Stefano di Cingoli (MC)","AGUSTA A109","HB-ZJN"," ",,"CHE","Landing","Accident",3,true,false,"","Fatal","A109",true,false,2,"Turboprop","","[""F-POST"",""F-NI"",""UNK""]","F-NI",2011
+"""2011-11-11T00:00:00.000Z""","USA"," Warroad Airport, MN (RRT)","Cessna S550 Citation S/II","N600KM","Kreuter Engineering","","USA","Landing","Accident",0,true,true,false,"","C550",false,true,2,"Jet","","[]","RS",2011
+"""2011-11-11T00:00:00.000Z""","CHN","Xiamen Apt","BOEING 737","B-5536","",,"CHN","Standing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-11-13T00:00:00.000Z""","ITA","La Comina Airfield","CIRRUS SR20 NO SERIES EXISTS","D-EPVS","Italy Professione Volare S.r.l.",,"DEU","Landing","Accident",0,false,false,"","None","VK3P",false,true,1,"Piston","","[""ARC""]","RS",2011
+"""2011-11-21T00:00:00.000Z""","NPL"," Talcha Airport","Cessna 208B Grand Caravan","9N-AJM","Makalu Air","","NPL","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-11-22T00:00:00.000Z""","USA","Moline Apt","CESSNA","N544PS","",,"USA","Taxi","Accident",0,true,true,false,"None","C500",false,true,2,"Jet","","[""GCOL""]","RS",2011
+"""2011-11-23T00:00:00.000Z""","IDN","near Bilogai/Sugapa Airport (ZGP)","Cessna 208B Grand Caravan","PK-VVG","Susi Air","","IDN","Approach","Accident",1,true,false,false,"Fatal","C208",false,true,1,"Turboprop","","[]","CFIT",2011
+"""2011-11-24T00:00:00.000Z""","FRA","AD Montpellier Méditerrané(34)","AIRBUS A319","F-GRHE","France Air France","FRA","FRA","Taxi","Accident",0,true,true,true,"None","A319",,true,2,"Jet",true,"[""GCOL""]","RS",2011
+"""2011-11-26T00:00:00.000Z""","BRA","Campo Novo do Parecis City, MT","AIR TRACTOR AT502","PR-SER","",,"BRA","Landing","Accident",0,true,false,"","None","AT5T",false,true,1,"Turboprop","","[""RE"",""LOC-G""]","RS",2011
+"""2011-11-29T00:00:00.000Z""","AGO","Huambo Apt","GULFSTREAM","N811DE","Wings Over Africa",,"USA","Take-off","Accident",0,true,true,false,"None","GLF2",false,true,2,"Jet","","[""SCF-NP"",""RE""]","RS",2011
+"""2011-11-30T00:00:00.000Z""","UKR","Konotop","MIL MI2","UR-143222"," ","","UKR","En route","Accident",1,true,false,"","Fatal","MI2",true,false,2,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-12-01T00:00:00.000Z""","USA","San Francisco","BOEING 757 200","N547UA","United States United Air Lines Inc.","USA","USA","En route","Accident","",true,true,true,"Serious","ST75",,true,1,"Piston",true,"[""TURB""]","TURB",2011
+"""2011-12-01T00:00:00.000Z""","USA","","BOEING 737","N261WN","",,"USA","En route","Accident",0,true,true,true,"Serious","B37M",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-12-01T00:00:00.000Z""","VEN","","LEARJET 45","YV1118","","","VEN","En route","Accident",0,true,true,"","None","LJ45",false,true,2,"Jet","","[]","TURB",2011
+"""2011-12-02T00:00:00.000Z""","BRA","Campo Novo dos Parecis Municiipality, State of Mato Grosso","AIR TRACTOR AT502 B","PR-SER","Brazil Other",,"BRA","Landing","Accident",0,true,false,false,"None","AT5T",false,true,1,"Turboprop","","[""RE"",""LOC-G""]","RS",2011
+"""2011-12-03T00:00:00.000Z""","IDN","Larat Apt","IPTN NC212","PK-NCZ","Merpati Nusantara","IDN","IDN","Landing","Accident",0,true,true,true,"Serious","C212",,true,2,"Turboprop",true,"[""ARC"",""RE""]","RS",2011
+"""2011-12-04T00:00:00.000Z""","COG"," Pointe Noire Airport (PNR)","Beechcraft A100 King Air","9Q-CEM","Air Tropiques","","COD","Landing","Accident",0,true,false,false,"","B350",false,true,2,"Turboprop","","[]","RS",2011
+"""2011-12-07T00:00:00.000Z""","DEU","Düsseldorf","AIRBUS A320","D-AIZH","Germany Deutsche Lufthansa Aktiengesellschaft","DEU","DEU","Approach","Accident",0,true,true,true,"Serious","A320",,true,2,"Jet",true,"[""TURB""]","TURB",2011
+"""2011-12-08T00:00:00.000Z""","USA"," Atlanta Hartsfield-Jackson International Airport, GA (ATL)","Boeing 757-351 (WL)","N583NW","Delta Air Lines","USA","USA","Taxi","Accident",0,true,true,true,"","ST75",false,true,1,"Piston","","[]","RS",2011
+"""2011-12-08T00:00:00.000Z""","USA"," Atlanta Hartsfield-Jackson International Airport, GA (ATL)","Boeing 737-732 (WL)","N303DQ","Delta Air Lines","USA","USA","Taxi","Accident",0,true,true,true,"","B37M",false,true,2,"Jet","","[]","RS",2011
+"""2011-12-11T00:00:00.000Z""","AUS","Moree Aerodrome, 100° M 33Km","AIR TRACTOR AT502","VH-AVM","","","AUS","Manoeuvring","Accident",0,true,false,"","None","AT5T",false,true,1,"Turboprop","","[""LALT""]","OTH",2011
+"""2011-12-13T00:00:00.000Z""","FRA","AD Paris Charles de Gaulle(95)","AIRBUS A319","F-GRHS","France Air France","FRA","FRA","Landing","Accident","",true,true,true,"Unknown","A319",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-12-14T00:00:00.000Z""","DEU","Berlin-Tegel","DE HAVILLAND DHC8 300","OE-LIA","Austria InterSky Luftfahrt GmbH","AUT","AUT","Taxi","Accident",0,true,true,true,"Serious","DH88",,true,2,"Piston",true,"[""RI"",""CABIN""]","RS",2011
+"""2011-12-17T00:00:00.000Z""","THA","Koh Samui Apt","ATR ATR72 200","HS-PGA","",,"THA","Standing","Accident",0,true,true,true,"None","M200",,true,1,"Piston",true,"[""GCOL""]","RS",2011
+"""2011-12-17T00:00:00.000Z""","USA"," Mesquite Airport, NV (MFH)","Cessna 208 Caravan I","N275PM","Spokane Turbine Skydiving, opf. Skydive Mesquite","","USA","Landing","Accident",0,true,false,false,"","C208",false,true,1,"Turboprop","","[]","RS",2011
+"""2011-12-20T00:00:00.000Z""","IDN","Yogyakarta Apt","BOEING 737","PK-CKM","Sriwijaya Air","IDN","IDN","Landing","Accident",0,true,true,true,"None","B37M",,true,2,"Jet",true,"[""RE""]","RS",2011
+"""2011-12-23T00:00:00.000Z""","GBR","Manchester (MCT)","AIRBUS A321","OE-LBF","Austria Austrian Airlines AG","AUT","AUT","Landing","Accident",0,true,true,true,"None","A321",,true,2,"Jet",true,"[""ARC""]","RS",2011
+"""2011-12-24T00:00:00.000Z""","AUS","Nowra Aerodrome, 348° M 25Km","AGUSTA","VH-SYZ","Australia ",,"AUS","En route","Accident",1,true,true,"","Fatal","S61",true,false,2,"Turboprop","","[""EXTL""]","OTH",2011
+"""2011-12-25T00:00:00.000Z""","PAK","Karachi Apt","MCDONNELL DOUGLAS","SU-BOZ","AMC Aviation","ESP","EGY","Landing","Accident",0,true,true,true,"None","F18H",false,true,2,"Jet","","[""SCF-NP"",""ARC""]","RS",2011
+"""2011-12-26T00:00:00.000Z""","CHE","Sion LSGS","BAE AVRO146RJ 200","G-ZAPN","United Kingdom Titan Airways Ltd",,"GBR","Taxi","Accident",0,true,true,false,"None","M200",false,true,1,"Piston","","[""ADRM"",""RAMP""]","RS",2011
+"""2011-12-28T00:00:00.000Z""","KGZ","Osh Apt","TUPOLEV TU134","EX-020","Kyrgyzstan","AUT","KGZ","Landing","Accident",0,true,true,true,"Serious","T134",,true,2,"Jet",true,"[""ARC"",""RE""]","RS",2011
+"""2011-12-28T00:00:00.000Z""","AUS","Scone Aerodrome","PIPER PA31","VH-WAD","",,"AUS","Landing","Accident",0,true,false,"","None","PA47",false,true,1,"Jet","","[""ARC"",""SCF-NP""]","RS",2011
+"""2011-12-28T00:00:00.000Z""","USA","Fort Lauderdale Apt","CESSNA 650 CITATION VII","N877G","Citation 7063 Corp.",,"USA","Take-off","Accident",0,true,true,false,"None","C650",false,true,2,"Jet","","[""SCF-NP"",""LOC-I""]","LOC-I",2011
+"""2011-12-30T00:00:00.000Z""","AUS","Dirranbandi, 225M 36 km","PZL SWIDNIK","VH-CUZ","","","AUS","Manoeuvring","Accident",0,true,false,"","None","HPZL",false,true,1,"Piston","","[""SCF-PP""]","SCF",2011
