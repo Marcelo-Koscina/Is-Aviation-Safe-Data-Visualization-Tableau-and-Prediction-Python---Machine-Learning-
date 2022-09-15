@@ -23,6 +23,6 @@ https://www.kaggle.com/datasets/marcelotanis/air-accidents-from-jan2008-to-may20
 
 * After all 15 datasets preparation (one dataset per year) 1507 air accidents, and only in scheduled commercial flights,  were considered on this analysis.
 
-* This analysis presentation and data visualization is available at Tableau Public through the link below:
+* This analysis presentation and data visualization is available at Tableau Public through the link below: 
 
 https://public.tableau.com/app/profile/marcelo5344/viz/Is_Aviation_Safe_Air_Accident_Safety_analysis_and_visualization/ProjectStory?publish=yes
