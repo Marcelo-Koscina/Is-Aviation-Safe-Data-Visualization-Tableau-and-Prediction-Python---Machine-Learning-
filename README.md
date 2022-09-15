@@ -17,7 +17,9 @@ https://www.kaggle.com/datasets/marcelotanis/air-accidents-from-jan2008-to-may20
 
 * Goals: Answering the question 'Is aviation safe?' through risks and probabilites analysis involved in the mentioned accidents, as well as creating a predictor capable to foreseen air disasters possibilities.
 
-* IMPORTANT DEFINITION - Air Incident / Air Accident difference: Air Incident is any event involving an airplane that some how put goods or human lives at risk. Air Accident is an incident which causes serious damage, injury or fatal victims.
+* IMPORTANT DEFINITION - Air Incident / Air Accident difference: 
+  Air Incident: is any event involving one or more airplanes that some how put goods or human lives at risk. 
+  Air Accident: is an incident which caused serious damage, injury or fatal victims.
 
 * After all 15 datasets preparation (one dataset per year) 1507 air accidents, and only in scheduled commercial flights,  were considered on this analysis.
 
