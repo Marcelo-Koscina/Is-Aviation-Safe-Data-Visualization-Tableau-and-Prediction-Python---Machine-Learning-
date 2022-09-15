@@ -1,4 +1,4 @@
-# Is Aviation Safe? - An Air Accidents & Safety analysis and prediction
+# Is Aviation Safe? - An Air Accidents & Safety Analysis and Prediction
 
 *  What's inside: A global airline data base analysis  based on commecial aircraft accidents extracted from ICAO (International Civil Aviation Organization) API, over the last 15 years (jan2008-may2022), along with an air crahes Machine Learning classifier predicition model.
 
