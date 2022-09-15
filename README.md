@@ -7,6 +7,11 @@
 https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx
 
 
+The single concatenated dataset is available at Kaggle website, through the link below:
+
+https://www.kaggle.com/datasets/marcelotanis/air-accidents-from-jan2008-to-may2022-icao
+
+
 * Goals: Answering the question 'Is aviation safe?' through risks and probabilites analysis involved in the mentioned accidents, as well as creating a predictor capable to foreseen air disasters possibilities.
 
 * IMPORTANT DEFINITION - Air Incident / Air Accident difference: Air Incident is any event involving an airplane that some how put goods or human lives at risk. Air Accident is an incident which causes serious damage, injury or fatal victims.
