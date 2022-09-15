@@ -2,9 +2,15 @@
 
 *  What's inside: A global airline data base analysis  based on commecial aircraft accidents extracted from ICAO (International Civil Aviation Organization) API, over the last 15 years (jan2008-may2022), along with an air crahes Machine Learning classifier predicition model.
 
-* The link from ICAO API source is available below:
+* The link from original ICAO API source is available below:
 
 https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx
+
+
+* the link for the ready concatenated dataset is available at Kaggle website, through the link below:
+
+https://www.kaggle.com/datasets/marcelotanis/air-accidents-from-jan2008-to-may2022-icao
+
 
 
 * Goals: Answering the question 'Is aviation safe?' through risks and probabilites analysis involved in the mentioned accidents, as well as creating a predictor capable to foreseen air disasters possibilities.
