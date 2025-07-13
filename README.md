@@ -12,8 +12,8 @@ https://www.icao.int/Aviation-API-Data-Service/Pages/default.aspx
   Air Incident: is any event involving one or more airplanes that some how put goods or human lives at risk. 
   Air Accident: is an incident which caused serious damage, injury or fatal victims.
 
-* After all 15 datasets preparation (one dataset per year) 1507 air accidents, and only in scheduled commercial flights,  were considered on this analysis.
+* 15 excel sheets (one sheet per year) with 1507 air accidents, and only in scheduled commercial flights,  were considered in this project.
 
-* This analysis presentation and data visualization is available at Tableau Public through the link below: 
+* This project presentation and data visualization is available at Tableau Public through the link below: 
 
 https://public.tableau.com/app/profile/marcelo5344/viz/Is_Aviation_Safe_Air_Accident_Safety_analysis_and_visualization/ProjectStory?publish=yes
