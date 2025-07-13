@@ -1,6 +1,6 @@
 # Is Aviation Safe? - An Air Accidents & Safety Analysis Visualization (Tableau) and Prediction (Python - Machine Learning)
 
-*  What's inside: A global airline database analysis  based on commecial aircraft accidents extracted from ICAO (International Civil Aviation Organization) API, over the last 15 years (jan2008-may2022), along with an air crahes Machine Learning classifier predicition model.
+*  What's inside: A global airline database analysis  based on commercial aircraft accidents extracted from ICAO (International Civil Aviation Organization) API, over the last 15 years (jan2008-may2022), along with an air crashes Machine Learning classifier predicition model.
 
 * The link from original ICAO API source is available below:
 
